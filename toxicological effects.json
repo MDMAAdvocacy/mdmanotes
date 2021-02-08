@@ -1445,19 +1445,13 @@
         "excerpt": "As a result, significant adverse effects and toxicity can occur with a one time or first-time ingestion due to the random dosage and composition of the drug.",
         "keywords": ["toxicological effects"],
         "referenced_links": [
-          {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
         ]
       }
     ]
   },
   {
-    "fact": "",
-    "keywords": ["toxicological effects"],
+    "fact": "The two most frequently reported causes of death include hyperthermia and hyponatremia.",
+    "keywords": ["toxicological effects", "deaths", "hyperthermia", "hyponatremia"],
     "references": [
       {
         "link": {
@@ -1469,19 +1463,85 @@
           "uri": "https://www.ncbi.nlm.nih.gov/books/NBK538482/"
         },
         "page": 0,
-        "excerpt": "The two most frequently reported causes of death include hyperthermia and hyponatremia.  While toxicity can be severe, review of the literature reveals deaths related to MDMA toxicity to be rare.  Confounding factors in some reports are that other drugs were co-ingested thus making it difficult to find MDMA as the sole cause of death.  One study found that in the 10 years to 2006, ecstasy-related deaths numbered approximately 50 per year though were not purely ecstasy-related.  When it was the sole drug implicated, this number dropped to 10 per year.  A retrospective case review of ED admissions related to ecstasy revealed a death rate of 0 to 2%. [28]  It is worth noting that these conclusions were level III evidence-based. ",
-        "keywords": ["toxicological effects"],
+        "excerpt": "The two most frequently reported causes of death include hyperthermia and hyponatremia.",
+        "keywords": ["toxicological effects", "death", "hyperthermia", "hyponatremia"],
+        "referenced_links": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "fact": "Deaths related to MDMA toxicity are rare",
+    "keywords": ["toxicological effects", "deaths"],
+    "references": [
+      {
+        "link": {
+          "authors": [
+            "Rick Figurasin", "Nicole J. Maguire."
+          ],
+          "title": "3,4-Methylenedioxy-Methamphetamine (MDMA, Ecstasy, Molly) Toxicity",
+          "year": 2020,
+          "uri": "https://www.ncbi.nlm.nih.gov/books/NBK538482/"
+        },
+        "page": 0,
+        "excerpt": "While toxicity can be severe, review of the literature reveals deaths related to MDMA toxicity to be rare.",
+        "keywords": ["toxicological effects", "deaths"],
+        "referenced_links": [
+        ]
+      }
+    ]
+  },
+  {
+    "fact": "One study found that in the 10 years to 2006, ecstasy-related deaths numbered approximately 50 per year or 10 per year when sole drug implicated.",
+    "keywords": ["toxicological effects", "deaths", "polydrug use"],
+    "references": [
+      {
+        "link": {
+          "authors": [
+            "Rick Figurasin", "Nicole J. Maguire."
+          ],
+          "title": "3,4-Methylenedioxy-Methamphetamine (MDMA, Ecstasy, Molly) Toxicity",
+          "year": 2020,
+          "uri": "https://www.ncbi.nlm.nih.gov/books/NBK538482/"
+        },
+        "page": 0,
+        "excerpt": "Confounding factors in some reports are that other drugs were co-ingested thus making it difficult to find MDMA as the sole cause of death. One study found that in the 10 years to 2006, ecstasy-related deaths numbered approximately 50 per year though were not purely ecstasy-related.  When it was the sole drug implicated, this number dropped to 10 per year.",
+        "keywords": ["toxicological effects", "deaths", "polydrug use"],
+        "referenced_links": [
+        ]
+      }
+    ]
+  },
+  {
+    "fact": "A retrospective case review of ED admissions related to ecstasy revealed a death rate of 0 to 2%.",
+    "keywords": ["toxicological effects", "deaths", "death rate"],
+    "references": [
+      {
+        "link": {
+          "authors": [
+            "Rick Figurasin", "Nicole J. Maguire."
+          ],
+          "title": "3,4-Methylenedioxy-Methamphetamine (MDMA, Ecstasy, Molly) Toxicity",
+          "year": 2020,
+          "uri": "https://www.ncbi.nlm.nih.gov/books/NBK538482/"
+        },
+        "page": 0,
+        "excerpt": "A retrospective case review of ED admissions related to ecstasy revealed a death rate of 0 to 2%. [28]  It is worth noting that these conclusions were level III evidence-based.",
+        "keywords": ["toxicological effects", "deaths", "death rate"],
         "referenced_links": [
           {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Rogers G.", "Elston J.", "Garside R.", "Roome C.", "Taylor R.", "Younger P.", "Zawada A.", "Somerville M."],
+            "title": "The harmful health effects of recreational ecstasy: a systematic review of observational evidence. Health Technol Assess. 2009 Jan;13(6):iii-iv, ix-xii, 1-315.",
+            "year": 2009,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/19195429/"
           }
         ]
       }
     ]
   }
+
+
 
 
 ]
