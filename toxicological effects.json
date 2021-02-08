@@ -266,8 +266,8 @@
     ]
   },
   {
-    "fact": "",
-    "keywords": ["toxicological effects"],
+    "fact": "Primates are not susceptible to changes in ambient temperature when given MDMA, exhibiting slight to moderate increases in body temperature regardless of the temperature of the environment, though at least one study found that the ambient temperature influenced the effects of 1.5 mg/kg",
+    "keywords": ["toxicological effects", "temperature", "hyperthermia"],
     "references": [
       {
         "link": {
@@ -280,7 +280,7 @@
         },
         "page": 0,
         "excerpt": "High doses of MDMA also produce significant elevations in body temperature in primates [119, 217, 218]. At doses closer to those humans ingest [219], monkeys exhibit only slight to moderate elevation in body temperature [220, 221]. In contrast to findings in rodents, primates are not susceptible to changes in ambient temperature when given MDMA, exhibiting slight to moderate increases in body temperature regardless of the temperature of the environment [219-221], though at least one study found that the ambient temperature influenced the effects of 1.5 mg/kg i.v. MDMA on body temperature in monkeys, with lower body temperatures seen after MDMA administered in cool temperatures and higher body temperatures in another group given MDMA at warm temperatures [222]. Findings in rodents do not extrapolate well to primates in this area. Given that the thermoregulatory effects in rodents are highly dose-dependent, most physiological effects seen after low to moderate MDMA administration suggest that a controlled environment and moderate doses would be sufficient to mediate physiological complications associated with hyperthermia, including cardiovascular, osmoregulatory, neurological, and immunological effects.",
-        "keywords": ["toxicological effects"],
+        "keywords": ["toxicological effects", "temperature", "hyperthermia"],
         "referenced_links": [
           {
             "authors": [],
@@ -293,8 +293,8 @@
     ]
   },
   {
-    "fact": "",
-    "keywords": ["toxicological effects"],
+    "fact": "Possible that the cardiovascular effects of MDMA can be partially attributed to norepinephrine signaling in the peripheral nervous system.",
+    "keywords": ["toxicological effects", "cardiovascular"],
     "references": [
       {
         "link": {
@@ -307,7 +307,7 @@
         },
         "page": 0,
         "excerpt": "In vivo assessments of cardiovascular effects of MDMA in animals detected increased sympathomimetic activity, as seen in humans [137, 223]. An injection of 2 mg/kg MDMA elevated heart rate in rabbits [224]. Ten mg/kg MDMA produced a relatively larger increase in heart rate in rats than blood pressure, an effect possibly controlled by beta adrenergic receptors [223]. The researchers found that MDMA has both pressor and depressor effects, acting through adrenergic receptors [225-227]. Another study in rodents also suggests that norepinephrine may play a role in cardiovascular effects [228], findings that have been more intensively investigated in humans [229-232]. When combined with ethanol, two 10 mg/kg doses of MDMA produced signs of cell stress in the right ventricle of mice [233]. Heart tissue from younger and older rats exhibited signs of vascular congestion after two or three doses of 5 mg/kg given two hours apart [214]. Given the affinity of MDMA for the NET, it is possible that the cardiovascular effects of MDMA could be partially attributed to norepinephrine signaling in the peripheral nervous system.",
-        "keywords": ["toxicological effects"],
+        "keywords": ["toxicological effects", "cardiovascular"],
         "referenced_links": [
           {
             "authors": [],
@@ -374,8 +374,8 @@
     ]
   },
   {
-    "fact": "",
-    "keywords": ["toxicological effects"],
+    "fact": "No evidence of genotoxicity",
+    "keywords": ["toxicological effects", "genotoxicity"],
     "references": [
       {
         "link": {
@@ -388,7 +388,7 @@
         },
         "page": 0,
         "excerpt": "An Ames test of Ecstasy tablets with 0 to 57.5% MDMA, quantified by GC-MS, found no evidence of genotoxicity [cell damage causing mutations][382]. Micronuclear and chromosomal aberrance tests were performed in Chinese hamster ovary cells with MDMA purified from seized Ecstasy tablets and with N- nitroso-MDMA (N-MDMA), a putative metabolite of MDMA [383]. MDMA did not produce increases in either in vitro genotoxicity test.",
-        "keywords": ["toxicological effects"],
+        "keywords": ["toxicological effects", "genotoxicity"],
         "referenced_links": [
           {
             "authors": [],
@@ -401,7 +401,7 @@
     ]
   },
   {
-    "fact": "",
+    "fact": "No evidence of carcinogenicity",
     "keywords": ["toxicological effects"],
     "references": [
       {
@@ -482,8 +482,8 @@
     ]
   },
   {
-    "fact": "",
-    "keywords": ["toxicological effects"],
+    "fact": "In combination with other drugs or in high dose binge administration studies, MDMA may provoke serotonin syndrome",
+    "keywords": ["toxicological effects", "serotonin", "serotonin syndrome"],
     "references": [
       {
         "link": {
@@ -496,34 +496,7 @@
         },
         "page": 0,
         "excerpt": "In combination with other drugs or in high dose binge administration studies, MDMA may provoke serotonin syndrome. For example, rodents respond to high doses of MDMA by exhibiting flat body posture, forepaw treading and an erect tail (“Straub tail”) [448]. These behaviors are considered indicators of serotonin syndrome. Doses used in most preclinical studies of neurotoxicity are at least five times the amount used in clinical trials or nonmedical settings and can be as high as 20 times that amount.",
-        "keywords": ["toxicological effects"],
-        "referenced_links": [
-          {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "fact": "",
-    "keywords": ["toxicological effects"],
-    "references": [
-      {
-        "link": {
-          "authors": [
-            "Multidisciplinary Association for Psychedelic Studies (MAPS)"
-          ],
-          "title": "Investigator’s Brochure",
-          "year": 2019,
-          "uri": "https://mapscontent.s3-us-west-1.amazonaws.com/research-archive/mdma/MDMA-Investigator-Brochure-IB-11thEdition-MAPS-2019-07-10.pdf"
-        },
-        "page": 0,
-        "excerpt": "Studies in rodents and primates suggest that repeated high doses of MDMA could reduce regional serotonin, damage serotonin axons and cause neurotoxicity [137, 149, 449-452] and promote apoptosis in the hippocampus after 5 or 10 mg/kg MDMA given daily for 1 week [239]. In contrast, a study in monkeys given intermittent periodic doses closer to human equivalent doses in milligrams per kilogram reported reduced maturation of hippocampal cells without detecting signs of apoptosis [240]. However, the majority of these studies employed large doses of MDMA that overestimated human-equivalent doses, with findings now clearly indicating that doses used in nearly all rat and most primate studies are inappropriately high for comparison to use in clinical settings and are more pertinent toxicological effects of MDMA [86, 127, 132].",
-        "keywords": ["toxicological effects"],
+        "keywords": ["toxicological effects", "serotonin", "serotonin syndrome"],
         "referenced_links": [
           {
             "authors": [],
@@ -564,8 +537,8 @@
   },
 
   {
-    "fact": "",
-    "keywords": ["toxicological effects"],
+    "fact": "No evidence of retinal damage",
+    "keywords": ["toxicological effects", "retinal"],
     "references": [
       {
         "link": {
@@ -578,7 +551,7 @@
         },
         "page": 0,
         "excerpt": "A study in mice looked at neurons stained for nitric oxide synthase (NOS), hypothesized to be involved in MDMA neurotoxicity. Mice in this study were given an intensive repeated-dose regimen of 14, 28 or 36 administrations of 10 mg/kg MDMA twice daily, and an increase in NOS-positive neurons was seen after the two higher dose regimens up to three months after drug administration [455]. Another mouse model of neurotoxicity involved administering 1 mg/kg MDMA daily for three months, using a human-equivalent dose in an unusually intensive regimen very dissimilar to clinical use [456]. This study reported apoptosis (a type of cell death) in retinal cells, reduced retinal function and markers of increased oxidative stress. This last study is the first to assess toxicity in retinal cells. Since there is, to date, only a single report of retinal damage occurring after Ecstasy use in a case without reporting any detectable MDMA, there is little evidence for this being a common or significant issue.",
-        "keywords": ["toxicological effects"],
+        "keywords": ["toxicological effects", "retinal"],
         "referenced_links": [
           {
             "authors": [],
@@ -591,8 +564,8 @@
     ]
   },
   {
-    "fact": "",
-    "keywords": ["toxicological effects"],
+    "fact": "Most studies suggest that heavy but not moderate Ecstasy users have impaired verbal memory and lower numbers of estimated SERT sites",
+    "keywords": ["toxicological effects", "dose", "memory", "SERT"],
     "references": [
       {
         "link": {
@@ -605,21 +578,15 @@
         },
         "page": 0,
         "excerpt": "Most studies suggested that heavy but not moderate Ecstasy users had impaired verbal memory and lower numbers of estimated SERT sites, assessed via imaging with radioactively labeled ligands in positron emission tomography (PET) or single photon emission tomography (SPECT), with heavy use often defined as 50 or more times or tablets. Taken together, findings from these studies suggest there is some risk of long-term effects in heavy Ecstasy users with respect to number of estimated SERT sites in specific brain areas and performance on measures of memory. However, interpreting findings of changes in serotonin receptors or cognitive function after repeated Ecstasy use are complicated by the possible impact of polydrug use and other potential pre-existing factors in retrospective reports, and the findings are not readily transferrable to use of MDMA in a therapeutic or research context.",
-        "keywords": ["toxicological effects"],
+        "keywords": ["toxicological effects", "dose", "memory", "SERT"],
         "referenced_links": [
-          {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
         ]
       }
     ]
   },
   {
-    "fact": "",
-    "keywords": ["toxicological effects"],
+    "fact": "Intravenous MDMA doses that cause lethality in 50% of the cases, known as the LD50, are 97 mg/kg in mice, 49 mg/kg in rats, 14 to 18 mg/kg in dogs, and 22 mg/kg in monkeys.",
+    "keywords": ["toxicological effects", "LD50"],
     "references": [
       {
         "link": {
@@ -632,14 +599,8 @@
         },
         "page": 0,
         "excerpt": "The toxicity of MDMA has been investigated in numerous animal and in vitro studies published in peer-reviewed journals. Intravenous MDMA doses that cause lethality in 50% of the cases, known as the LD50, are 97 mg/kg in mice, 49 mg/kg in rats, 14 to 18 mg/kg in dogs, and 22 mg/kg in monkeys. LD50 varies between different strains of the same animal species, across the sexes, housing conditions, environmental conditions, social interactions with cohabiting animals, exercise levels, and water supply.",
-        "keywords": ["toxicological effects"],
+        "keywords": ["toxicological effects", "LD50"],
         "referenced_links": [
-          {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
         ]
       }
     ]
@@ -726,8 +687,8 @@
     ]
   },
   {
-    "fact": "",
-    "keywords": ["toxicological effects"],
+    "fact": "Meta-analysis study found only modest evidence of neurotoxicity",
+    "keywords": ["toxicological effects", "neurotoxicity"],
     "references": [
       {
         "link": {
@@ -740,7 +701,7 @@
         },
         "page": 0,
         "excerpt": "Some researchers believe that MDMA is neurotoxic in humans even at doses used in clinical trials [731]. However, these claims are based on studies that employed inappropriately high doses of MDMA utilized in animal studies and on human studies comparing the effects of repeated use of Ecstasy, often along with other drugs. Meanwhile, another recently published meta-analysis has taken careful steps to overcome methodological limitations in previous work and found only modest evidence of neurotoxicity [61]. The sponsor has carefully considered the risks of such neurotoxicity and concludes that they are minimal in the proposed study. This conclusion is supported by empirical and toxicokinetic evidence and is consistent with the lack of toxicity reported in previous clinical MDMA studies.",
-        "keywords": ["toxicological effects"],
+        "keywords": ["toxicological effects", "neurotoxicity"],
         "referenced_links": [
           {
             "authors": [],
