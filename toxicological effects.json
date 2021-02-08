@@ -1,33 +1,6 @@
-[{
-
-    "fact": "",
-    "keywords": [],
-    "references": [
-      {
-        "link": {
-          "authors": [
-            ""
-          ],
-          "title": "",
-          "year": 9999,
-          "uri": ""
-        },
-        "page": 0,
-        "excerpt": "",
-        "keywords": [],
-        "referenced_links": [
-          {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
-        ]
-      }
-    ]
-  },
+[
   {
-    "fact": "",
+    "fact": "Phase I clinical trials have demonstrated that MDMA can be administered without evidence of harm to pre-screened subjects",
     "keywords": ["toxicological effects"],
     "references": [
       {
@@ -39,7 +12,7 @@
           "uri": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3122379/"
         },
         "page": 0,
-        "excerpt": "More recently, Phase I clinical trials have demonstrated that MDMA can be administered without evidence of harm to pre-screened subjects, and induces a 2–4-h experience typically characterized by euphoria, increased well being, sociability, self-confi- dence, and extroversion (Cami et al., 2000; Harris et al., 2002; Kolbrich et al., 2008; Liechti et al., 2001; Tancer and Johanson, 2001; Vollenweider et al., 1998).",
+        "excerpt": "More recently, Phase I clinical trials have demonstrated that MDMA can be administered without evidence of harm to pre-screened subjects, and induces a 2–4-h experience typically characterized by euphoria, increased well being, sociability, self-confidence, and extroversion (Cami et al., 2000; Harris et al., 2002; Kolbrich et al., 2008; Liechti et al., 2001; Tancer and Johanson, 2001; Vollenweider et al., 1998).",
         "keywords": ["toxicological effects"],
         "referenced_links": [
           {
@@ -53,7 +26,33 @@
     ]
   },
   {
-    "fact": "",
+    "fact": "One study demonstrated that after removing confounding factors of concomitant drugs, there were only three deaths per year attributed solely to MDMA",
+    "keywords": ["toxicological effects", "deaths"],
+    "references": [
+      {
+        "link": {
+          "authors": ["Sessa B.", "Higbed L.", "Nutt D"
+          ],
+          "title": "A Review of 3,4-methylenedioxymethamphetamine (MDMA)-Assisted Psychotherapy. Front. Psychiatry 10:138. doi: 10.3389/fpsyt.2019.00138",
+          "year": 2019,
+          "uri": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6435835/pdf/fpsyt-10-00138.pdf"
+        },
+        "page": 0,
+        "excerpt": "Nevertheless, even when one does look at recreational ecstasy, which is used by around 750,000 people every weekend in the UK (19), the rates of morbidity and mortality are low. One study demonstrated that after removing confounding factors of concomitant drugs, there were only three deaths per year attributed solely to MDMA (20).",
+        "keywords": ["toxicological effects", "deaths"],
+        "referenced_links": [
+          {
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "fact": "No evidence of neurotoxicity with MDMA when used in isolation",
     "keywords": ["toxicological effects"],
     "references": [
       {
@@ -65,8 +64,34 @@
           "uri": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6435835/pdf/fpsyt-10-00138.pdf"
         },
         "page": 0,
-        "excerpt": "Nevertheless, even when one does look at recreational ecstasy, which is used by around 750,000 people every weekend in the UK (19), the rates of morbidity and mortality are low. One study demonstrated that after removing confounding factors of concomitant drugs, there were only three deaths per year attributed solely to MDMA (20). Further studies that control for confounding factors show no evidence of neurotoxicity with MDMA when used in isolation (21) and no lasting neurocognitive impairments (22). Given that Ecstasy has such widespread use—second only to cannabis in popularity as an illicit drug—these epidemiological and experimental data demonstrate its relative safety.",
+        "excerpt": "Further studies that control for confounding factors show no evidence of neurotoxicity with MDMA when used in isolation (21) ",
         "keywords": ["toxicological effects"],
+        "referenced_links": [
+          {
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "fact": "No lasting neurocognitive impairments",
+    "keywords": ["toxicological effects", "cognitive effects"],
+    "references": [
+      {
+        "link": {
+          "authors": ["Sessa B.", "Higbed L.", "Nutt D"
+          ],
+          "title": "A Review of 3,4-methylenedioxymethamphetamine (MDMA)-Assisted Psychotherapy. Front. Psychiatry 10:138. doi: 10.3389/fpsyt.2019.00138",
+          "year": 2019,
+          "uri": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6435835/pdf/fpsyt-10-00138.pdf"
+        },
+        "page": 0,
+        "excerpt": "and no lasting neurocognitive impairments (22). Given that Ecstasy has such widespread use—second only to cannabis in popularity as an illicit drug—these epidemiological and experimental data demonstrate its relative safety.",
+        "keywords": ["toxicological effects", "cognitive effects"],
         "referenced_links": [
           {
             "authors": [],
@@ -106,8 +131,8 @@
     ]
   },
   {
-    "fact": "",
-    "keywords": ["toxicological effects"],
+    "fact": "Inhibition of MAO-A may have played a role in fatalities and medical emergencies seen after combining Ecstasy with MAO inhibitors in epidemiological settings",
+    "keywords": ["toxicological effects", "MAO-A"],
     "references": [
       {
         "link": {
@@ -120,7 +145,7 @@
         },
         "page": 0,
         "excerpt": "Inhibition of MAO-A may have played a role in fatalities and medical emergencies seen after combining Ecstasy with MAO inhibitors in epidemiological settings [147, 148]. ",
-        "keywords": ["toxicological effects"],
+        "keywords": ["toxicological effects",  "MAO-A"],
         "referenced_links": [
           {
             "authors": [],
@@ -133,8 +158,8 @@
     ]
   },
   {
-    "fact": "",
-    "keywords": ["toxicological effects"],
+    "fact": "Studies of very high doses of MDMA on gene expression found no evidence of toxicity.",
+    "keywords": ["toxicological effects", "genes"],
     "references": [
       {
         "link": {
@@ -147,7 +172,7 @@
         },
         "page": 0,
         "excerpt": "A number of research teams have studied the effects of MDMA on gene expression in rodents [184-189]. However, many of these reports used 10 to 20 mg/kg MDMA, a dose range that is 5 to 10.7 times greater than the 1.5 to 2 mg/kg doses employed in human trials, making it less likely that these changes can be generalized to humans given lower doses. However, even at these doses toxicity was not observed, and a self-administration study at clinically relevant doses reproduced findings of elevation of genes such as serum/glucocorticoid kinase 1 and 3 (Sgk1, Sgk3), which regulate glutamatergic signaling and are associated with neuroplasticity and learning, as well as processes involved in memory consolidation in serotonergic neurons [190]. These studies also report an increase in expression of genes that regulate the GABA transporter [184], which is expressed in GABAergic neurons indirectly regulated by glutamatergic afferent neurons.",
-        "keywords": ["toxicological effects"],
+        "keywords": ["toxicological effects", "genes"],
         "referenced_links": [
           {
             "authors": [],
@@ -160,8 +185,35 @@
     ]
   },
   {
-    "fact": "",
-    "keywords": ["toxicological effects"],
+    "fact": "A self-administration study at clinically relevant doses reproduced findings of elevation of genes such as serum/glucocorticoid kinase 1 and 3 (Sgk1, Sgk3), which regulate glutamatergic signaling and are associated with neuroplasticity and learning",
+    "keywords": ["neuroplasticity", "genes"],
+    "references": [
+      {
+        "link": {
+          "authors": [
+            "Multidisciplinary Association for Psychedelic Studies (MAPS)"
+          ],
+          "title": "Investigator’s Brochure",
+          "year": 2019,
+          "uri": "https://mapscontent.s3-us-west-1.amazonaws.com/research-archive/mdma/MDMA-Investigator-Brochure-IB-11thEdition-MAPS-2019-07-10.pdf"
+        },
+        "page": 0,
+        "excerpt": "and a self-administration study at clinically relevant doses reproduced findings of elevation of genes such as serum/glucocorticoid kinase 1 and 3 (Sgk1, Sgk3), which regulate glutamatergic signaling and are associated with neuroplasticity and learning, as well as processes involved in memory consolidation in serotonergic neurons [190]. These studies also report an increase in expression of genes that regulate the GABA transporter [184], which is expressed in GABAergic neurons indirectly regulated by glutamatergic afferent neurons.",
+        "keywords": ["neuroplasticity", "genes"],
+        "referenced_links": [
+          {
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "fact": "Examining rat brains after repeated MDMA administration for 2 weeks detected a sharp drop in SERT expression [194], suggesting a compensatory downregulation in response to repeated high doses of MDMA",
+    "keywords": ["toxicological effects", "SERT", "serotonin"],
     "references": [
       {
         "link": {
@@ -174,7 +226,7 @@
         },
         "page": 0,
         "excerpt": "Examining rat brains after repeated MDMA administration for 2 weeks detected a sharp drop in SERT expression [194], suggesting a compensatory downregulation in response to repeated high doses of MDMA. A study in rats found repeated administration of MDMA at 1 or 5 mg/kg weekly for 4 weeks increased transcripts for 5HT1B receptors in various brain regions and 5HT2C receptors in the cortex and hypothalamus, likely due to serotonin depletion and subsequent need to increase serotonin receptor availability [195]. Increased levels of gene transcripts regulating extracellular signaling in mice were also reported after MDMA [196]. Serotonin may play a more significant role than dopamine in transcription changes mediated by MDMA [195].",
-        "keywords": ["toxicological effects"],
+        "keywords": ["toxicological effects", "SERT", "serotonin"],
         "referenced_links": [
           {
             "authors": [],
@@ -228,33 +280,6 @@
         },
         "page": 0,
         "excerpt": "High doses of MDMA also produce significant elevations in body temperature in primates [119, 217, 218]. At doses closer to those humans ingest [219], monkeys exhibit only slight to moderate elevation in body temperature [220, 221]. In contrast to findings in rodents, primates are not susceptible to changes in ambient temperature when given MDMA, exhibiting slight to moderate increases in body temperature regardless of the temperature of the environment [219-221], though at least one study found that the ambient temperature influenced the effects of 1.5 mg/kg i.v. MDMA on body temperature in monkeys, with lower body temperatures seen after MDMA administered in cool temperatures and higher body temperatures in another group given MDMA at warm temperatures [222]. Findings in rodents do not extrapolate well to primates in this area. Given that the thermoregulatory effects in rodents are highly dose-dependent, most physiological effects seen after low to moderate MDMA administration suggest that a controlled environment and moderate doses would be sufficient to mediate physiological complications associated with hyperthermia, including cardiovascular, osmoregulatory, neurological, and immunological effects.",
-        "keywords": ["toxicological effects"],
-        "referenced_links": [
-          {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "fact": "",
-    "keywords": ["toxicological effects"],
-    "references": [
-      {
-        "link": {
-          "authors": [
-            "Multidisciplinary Association for Psychedelic Studies (MAPS)"
-          ],
-          "title": "Investigator’s Brochure",
-          "year": 2019,
-          "uri": "https://mapscontent.s3-us-west-1.amazonaws.com/research-archive/mdma/MDMA-Investigator-Brochure-IB-11thEdition-MAPS-2019-07-10.pdf"
-        },
-        "page": 0,
-        "excerpt": "Examining rat brains after repeated MDMA administration for 2 weeks detected a sharp drop in SERT expression [194], suggesting a compensatory downregulation in ",
         "keywords": ["toxicological effects"],
         "referenced_links": [
           {
@@ -430,8 +455,8 @@
     ]
   },
   {
-    "fact": "",
-    "keywords": ["toxicological effects"],
+    "fact": "Repeated very high doses of MDMA in animals reduce total serotonin levels in the brain, impair transport of serotonin, and cause psycho-behavioral changes such as increased anxiety",
+    "keywords": ["toxicological effects", "dose"],
     "references": [
       {
         "link": {
@@ -444,7 +469,7 @@
         },
         "page": 0,
         "excerpt": "Repeated very high doses of MDMA in animals reduce total serotonin levels in the brain, impair transport of serotonin, and cause psycho-behavioral changes such as increased anxiety [137, 258, 446-448]. ",
-        "keywords": ["toxicological effects"],
+        "keywords": ["toxicological effects", "dose"],
         "referenced_links": [
           {
             "authors": [],
@@ -537,33 +562,7 @@
       }
     ]
   },
-  {
-    "fact": "",
-    "keywords": ["toxicological effects"],
-    "references": [
-      {
-        "link": {
-          "authors": [
-            "Multidisciplinary Association for Psychedelic Studies (MAPS)"
-          ],
-          "title": "Investigator’s Brochure",
-          "year": 2019,
-          "uri": "https://mapscontent.s3-us-west-1.amazonaws.com/research-archive/mdma/MDMA-Investigator-Brochure-IB-11thEdition-MAPS-2019-07-10.pdf"
-        },
-        "page": 0,
-        "excerpt": "",
-        "keywords": ["toxicological effects"],
-        "referenced_links": [
-          {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
-        ]
-      }
-    ]
-  },
+
   {
     "fact": "",
     "keywords": ["toxicological effects"],
@@ -862,35 +861,8 @@
     ]
   },
   {
-    "fact": "",
-    "keywords": ["toxicological effects"],
-    "references": [
-      {
-        "link": {
-          "authors": [
-            "Australian Dept of Health"
-          ],
-          "title": "Pharmacology of MDMA",
-          "year": 2004,
-          "uri": "https://www1.health.gov.au/internet/publications/publishing.nsf/Content/drugtreat-pubs-modpsy-toc~drugtreat-pubs-modpsy-2~drugtreat-pubs-modpsy-2-3~drugtreat-pubs-modpsy-2-3-pmdm"
-        },
-        "page": 0,
-        "excerpt": "",
-        "keywords": ["toxicological effects"],
-        "referenced_links": [
-          {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "fact": "",
-    "keywords": ["toxicological effects"],
+    "fact": "Use of MDMA may be neurotoxic particularly for serotonergic (5- hydroxytryptamine (5-HT)) neurons.",
+    "keywords": ["toxicological effects", "serotonin"],
     "references": [
       {
         "link": {
@@ -903,14 +875,8 @@
         },
         "page": 0,
         "excerpt": "Importantly, it has been suggested that use of MDMA may be neurotoxic particularly for serotonergic (5- hydroxytryptamine (5-HT)) neurons.",
-        "keywords": ["toxicological effects"],
+        "keywords": ["toxicological effects", "serotonin"],
         "referenced_links": [
-          {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
         ]
       }
     ]
@@ -970,8 +936,8 @@
     ]
   },
   {
-    "fact": "",
-    "keywords": ["toxicological effects"],
+    "fact": "SERT [5-HT Transporter] binding is lower after use/administration of ecstasy/MDMA, particularly after administration of high dosages",
+    "keywords": ["toxicological effects", "SERT binding", "serotonin", "dose"],
     "references": [
       {
         "link": {
@@ -983,15 +949,9 @@
           "uri": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5021729/pdf/213_2016_Article_4396.pdf"
         },
         "page": 0,
-        "excerpt": "Results of molecular imaging studies showed quite consistent- ly that SERT [5-HT Transporter] binding is lower after use/administration of ec- stasy/MDMA, particularly after administration of high dos- ages, while studies on the 5-HT2A receptor showed inconsis- tent results. ",
-        "keywords": ["toxicological effects"],
+        "excerpt": "Results of molecular imaging studies showed quite consistently that SERT [5-HT Transporter] binding is lower after use/administration of ec- stasy/MDMA, particularly after administration of high dosages, while studies on the 5-HT2A receptor showed inconsistent results. ",
+        "keywords": ["toxicological effects", "SERT binding", "serotonin", "dose"],
         "referenced_links": [
-          {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
         ]
       }
     ]
@@ -1078,7 +1038,7 @@
     ]
   },
   {
-    "fact": "",
+    "fact": "Use/administration of MDMA declines SERT [5-HT Transporter] binding",
     "keywords": ["toxicological effects"],
     "references": [
       {
@@ -1186,8 +1146,8 @@
     ]
   },
   {
-    "fact": "",
-    "keywords": ["toxicological effects"],
+    "fact": "Several studies have shown that there is a recovery in SERT binding after MDMA use/administration",
+    "keywords": ["toxicological effects", "SERT binding", "serotonin"],
     "references": [
       {
         "link": {
@@ -1200,14 +1160,8 @@
         },
         "page": 0,
         "excerpt": "In sum, several studies have shown that there is a recovery in SERT binding after MDMA use/administration, but it is not clear whether this is the result of recovery of the 5- HT neurons or other causes. Future fundamental studies on this topic are therefore recommended.",
-        "keywords": ["toxicological effects"],
+        "keywords": ["toxicological effects", "SERT binding", "serotonin"],
         "referenced_links": [
-          {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
         ]
       }
     ]
@@ -1267,8 +1221,8 @@
     ]
   },
   {
-    "fact": "",
-    "keywords": ["toxicological effects"],
+    "fact": "There is substantial evidence that long-term ecstasy use is associated with serotonergic dysfunction",
+    "keywords": ["toxicological effects", "serotonin"],
     "references": [
       {
         "link": {
@@ -1281,14 +1235,8 @@
         },
         "page": 0,
         "excerpt": "On the other hand, there is substantial evidence that long-term ecstasy use is associated with serotonergic dysfunction, a topic that is taken up later in this review",
-        "keywords": ["toxicological effects"],
+        "keywords": ["toxicological effects", "serotonin"],
         "referenced_links": [
-          {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
         ]
       }
     ]
@@ -1402,8 +1350,8 @@
     ]
   },
   {
-    "fact": "",
-    "keywords": ["toxicological effects"],
+    "fact": "Animal and human data together suggest that heavy use of MDMA may produce neurotoxicity, but typical (i.e., low to moderate) MDMA use may have no effect on brain structure and function",
+    "keywords": ["toxicological effects", "dose"],
     "references": [
       {
         "link": {
@@ -1416,20 +1364,14 @@
         },
         "page": 0,
         "excerpt": "The animal and human data together suggest that heavy use of MDMA may produce neurotoxicity, but typical (i.e., low to moderate) MDMA use may have no effect on brain structure and function. Human MDMA research, however, may have issues with experimental design, confounding variables, and methodological tech- niques (explained further in section IV and by Gouzoulis- Mayfrank and Daumann, 2006). In this review, we explore the functional consequences of MDMA use, specifically the effects on cognition, as potential indicators of MDMA-induced neurotoxicity",
-        "keywords": ["toxicological effects"],
+        "keywords": ["toxicological effects", "dose"],
         "referenced_links": [
-          {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
         ]
       }
     ]
   },
   {
-    "fact": "",
+    "fact": "Significant adverse effects and toxicity can occur with a one time or first-time ingestion due to the random dosage and composition of the drug.",
     "keywords": ["toxicological effects"],
     "references": [
       {
@@ -1442,9 +1384,15 @@
           "uri": "https://www.ncbi.nlm.nih.gov/books/NBK538482/"
         },
         "page": 0,
-        "excerpt": "As a result, significant adverse effects and toxicity can occur with a one time or first-time ingestion due to the random dosage and composition of the drug.",
+        "excerpt": "During the 1990s and early 2000s, doses ranged between 73 mg to 103 mg while doses have also been reported to be as low as 50 mg to as high as 150 mg per tablet. Analysis of compounds sold as Ecstasy/Molly has also revealed variability of composition with other substances aside from MDMA which include MDEA, MDA, ephedrine, ketamine, paracetamol, and other substitutes - some of which are inactive and others which may have profound hemodynamic effects.[4][5][6]. As a result, significant adverse effects and toxicity can occur with a one time or first-time ingestion due to the random dosage and composition of the drug [7].",
         "keywords": ["toxicological effects"],
         "referenced_links": [
+          {
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          }
         ]
       }
     ]
