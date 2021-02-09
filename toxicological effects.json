@@ -156,16 +156,16 @@
         "keywords": ["toxicological effects"],
         "referenced_links": [
           {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Tanner-Smith, E.E."],
+            "title": "Pharmacological content of tablets sold as \"ecstasy\": results from an online testing service. Drug Alcohol Depend, 2006. 83(3): p. 247-54.",
+            "year": 2006,
+            "uri": "https://www.researchgate.net/publication/7405196_Pharmacological_content_of_tablets_sold_as_ecstasy_Results_from_an_online_testing_service"
           },
           {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Brunt, T.M.", "et al."],
+            "title": "Drug testing in Europe: monitoring results of the Trans European Drug Information (TEDI) project. Drug Test Anal, 2017. 9(2): p. 188-198.",
+            "year": 2017,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/26888408/"
           }
         ]
       }
@@ -189,16 +189,16 @@
         "keywords": ["toxicological effects",  "MAO-A"],
         "referenced_links": [
           {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Pilgrim, J.L.", "et al."],
+            "title": "Serotonin toxicity involving MDMA (ecstasy) and moclobemide. Forensic Sci Int, 2012. 215(1-3): p. 184-8",
+            "year": 2012,
+            "uri": "https://www.researchgate.net/publication/51125344_Serotonin_toxicity_involving_MDMA_ecstasy_and_moclobemide"
           },
           {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Vuori, E.", "et al."],
+            "title": "Death following ingestion of MDMA (ecstasy) and moclobemide. Addiction, 2003. 98(3): p. 365-8.",
+            "year": 2003,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/12603236/"
           }
 
         ]
@@ -223,11 +223,55 @@
         "keywords": ["toxicological effects", "genes"],
         "referenced_links": [
           {
-            "authors": [],
+            "authors": [Peng, W., et al., Synaptotagmin I and IV are differentially regulated in the brain by the recreational drug 3,4-methylenedioxymethamphetamine (MDMA). Brain Res Mol Brain Res, 2002. 108(1-2): p. 94-101],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [Petschner, P., et al., Downregulation of the Vitamin D Receptor Regulated Gene Set in the Hippocampus After MDMA Treatment. Front Pharmacol, 2018. 9: p. 1373.],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [Petschner, P., et al., Gene expression analysis indicates reduced memory and cognitive
+              functions in the hippocampus and increase in synaptic reorganization in the frontal cortex 3 weeks after MDMA administration in Dark Agouti rats. BMC Genomics, 2018. 19(1): p. 580.],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [Pompei, P., et al., Preprotachykinin A gene expression after administration of 3,4- methylene dioxymethamphetamine (Ecstasy). Eur J Pharmacol, 2002. 450(3): p. 245.],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [Sprague, J.E., et al. Effects of antisense oligonucleotide alteration of MAO-B gene expression on MDMA-induced serotonergic neurotoxicity. in Society for Neuroscience. 1999. Miami, FL.],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [Thiriet, N., et al., Analysis of ecstasy (MDMA)-induced transcriptional responses in the rat cortex. Faseb J, 2002. 16(14): p. 1887-94.],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [Fernandez-Castillo, N., et al., Active and passive MDMA ('ecstasy') intake induces differential transcriptional changes in the mouse brain. Genes Brain Behav, 2012. 11(1): p. 38-51.],
             "title": "",
             "year": 9999,
             "uri": ""
           }
+
+
+
+
+
+
+
         ]
       }
     ]
@@ -1359,8 +1403,8 @@
     ]
   },
   {
-    "fact": "",
-    "keywords": ["toxicological effects"],
+    "fact": "Evidence that MDMA produces neurotoxicity and cognitive deficits is controversal and may have resulted from experiments with methodology that fail to generalize to typical MDMA users",
+    "keywords": ["toxicological effects", "cognitive effects"],
     "references": [
       {
         "link": {
@@ -1372,15 +1416,9 @@
           "uri": "http://mocolab.ucsd.edu/MCL/Publications_files/PantoniAnagnostaras2019.pdf"
         },
         "page": 0,
-        "excerpt": "As both recreational and therapeutic interest in MDMA has increased over the past 40 years, so have concerns regarding the possible harmful effects of MDMA. There is evidence from both human and animal research that MDMA produces neurotoxicity and cognitive deficits. This evidence, however, is controversial and may have resulted from experiments with methodology that fail to generalize to typical MDMA users. The validity of MDMA toxicological findings rests particularly with respect to self-reported drug use and other confounding variables in human studies, the doses administered in animal studies, and the ability to generalize findings from animals to humans. Dose is a determinant of toxicity for virtually any substance, as even water and oxygen produce adverse effects and can lead to death at high doses. The question of critical importance then is: do the doses typical users actually take actually pro- duce cognitive deficits and/or neurotoxicity? This ques- tion becomes even more acute when one considers that therapeutic dosing may be even lower than recreational dosing, meaning that MDMA could have therapeutic value at doses far below those for which any evidence of toxicity exists.",
+        "excerpt": "As both recreational and therapeutic interest in MDMA has increased over the past 40 years, so have concerns regarding the possible harmful effects of MDMA. There is evidence from both human and animal research that MDMA produces neurotoxicity and cognitive deficits. This evidence, however, is controversial and may have resulted from experiments with methodology that fail to generalize to typical MDMA users. The validity of MDMA toxicological findings rests particularly with respect to self-reported drug use and other confounding variables in human studies, the doses administered in animal studies, and the ability to generalize findings from animals to humans. Dose is a determinant of toxicity for virtually any substance, as even water and oxygen produce adverse effects and can lead to death at high doses. The question of critical importance then is: do the doses typical users actually take actually produce cognitive deficits and/or neurotoxicity? This question becomes even more acute when one considers that therapeutic dosing may be even lower than recreational dosing, meaning that MDMA could have therapeutic value at doses far below those for which any evidence of toxicity exists.",
         "keywords": ["toxicological effects"],
         "referenced_links": [
-          {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
         ]
       }
     ]
@@ -1424,11 +1462,32 @@
         "keywords": ["toxicological effects"],
         "referenced_links": [
           {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Parrott AC."],
+            "title": "MDMA in humans: factors which affect the neuropsychobiological profiles of recreational ecstasy users, the integrative role of bioenergetic stress. J Psychopharmacol. 2006 Mar;20(2):147-63.",
+            "year": 2006,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/16510474/"
+          },
+          {
+            "authors": ["Parrott AC."],
+            "title": "Chronic tolerance to recreational MDMA (3,4-methylenedioxymethamphetamine) or Ecstasy. J Psychopharmacol. 2005 Jan;19(1):71-83.",
+            "year": 2005,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/15671132/"
+          },
+          {
+            "authors": ["García-Repetto R.", "Moreno E.", "Soriano T.", "Jurado C.", "Giménez MP.", "Menéndez M."],
+            "title": "Tissue concentrations of MDMA and its metabolite MDA in three fatal cases of overdose. Forensic Sci Int. 2003 Aug 12;135(2):110-4",
+            "year": 2003,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/12927411/"
+          },
+          {
+            "authors": ["Traub SJ.", "Hoffman RS.", "Nelson LS."],
+            "title": "The \"ecstasy\" hangover: hyponatremia due to 3,4-methylenedioxymethamphetamine. J Urban Health. 2002 Dec;79(4):549-55.",
+            "year": 2002,
+            "uri": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3456731/"
           }
+
+
+
         ]
       }
     ]
