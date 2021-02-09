@@ -223,55 +223,47 @@
         "keywords": ["toxicological effects", "genes"],
         "referenced_links": [
           {
-            "authors": [Peng, W., et al., Synaptotagmin I and IV are differentially regulated in the brain by the recreational drug 3,4-methylenedioxymethamphetamine (MDMA). Brain Res Mol Brain Res, 2002. 108(1-2): p. 94-101],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Peng, W.", "et al."],
+            "title": " Synaptotagmin I and IV are differentially regulated in the brain by the recreational drug 3,4-methylenedioxymethamphetamine (MDMA). Brain Res Mol Brain Res, 2002. 108(1-2): p. 94-101",
+            "year": 2002,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/12480182/"
           },
           {
-            "authors": [Petschner, P., et al., Downregulation of the Vitamin D Receptor Regulated Gene Set in the Hippocampus After MDMA Treatment. Front Pharmacol, 2018. 9: p. 1373.],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Petschner, P.", "et al."],
+            "title": "Downregulation of the Vitamin D Receptor Regulated Gene Set in the Hippocampus After MDMA Treatment. Front Pharmacol, 2018. 9: p. 1373.",
+            "year": 2018,
+            "uri": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6287013/"
           },
           {
-            "authors": [Petschner, P., et al., Gene expression analysis indicates reduced memory and cognitive
-              functions in the hippocampus and increase in synaptic reorganization in the frontal cortex 3 weeks after MDMA administration in Dark Agouti rats. BMC Genomics, 2018. 19(1): p. 580.],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Petschner, P.", "et al."],
+            "title": "Gene expression analysis indicates reduced memory and cognitive functions in the hippocampus and increase in synaptic reorganization in the frontal cortex 3 weeks after MDMA administration in Dark Agouti rats. BMC Genomics, 2018. 19(1): p. 580.",
+            "year": 2018,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/30071829/"
           },
           {
-            "authors": [Pompei, P., et al., Preprotachykinin A gene expression after administration of 3,4- methylene dioxymethamphetamine (Ecstasy). Eur J Pharmacol, 2002. 450(3): p. 245.],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Pompei, P.", "et al."],
+            "title": "Preprotachykinin A gene expression after administration of 3,4- methylene dioxymethamphetamine (Ecstasy). Eur J Pharmacol, 2002. 450(3): p. 245.",
+            "year": 2002,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/12208316/"
           },
           {
-            "authors": [Sprague, J.E., et al. Effects of antisense oligonucleotide alteration of MAO-B gene expression on MDMA-induced serotonergic neurotoxicity. in Society for Neuroscience. 1999. Miami, FL.],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Sprague, J.E.", "et al."],
+            "title": "Effects of antisense oligonucleotide alteration of MAO-B gene expression on MDMA-induced serotonergic neurotoxicity. in Society for Neuroscience. 1999. Miami, FL.",
+            "year": 1999,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/12175458/"
           },
           {
-            "authors": [Thiriet, N., et al., Analysis of ecstasy (MDMA)-induced transcriptional responses in the rat cortex. Faseb J, 2002. 16(14): p. 1887-94.],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Thiriet, N.", "et al."],
+            "title": "Analysis of ecstasy (MDMA)-induced transcriptional responses in the rat cortex. Faseb J, 2002. 16(14): p. 1887-94.",
+            "year": 2002,
+            "uri": "https://faseb.onlinelibrary.wiley.com/doi/full/10.1096/fj.02-0502com"
           },
           {
-            "authors": [Fernandez-Castillo, N., et al., Active and passive MDMA ('ecstasy') intake induces differential transcriptional changes in the mouse brain. Genes Brain Behav, 2012. 11(1): p. 38-51.],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Fernandez-Castillo, N.", "et al."],
+            "title": "Active and passive MDMA ('ecstasy') intake induces differential transcriptional changes in the mouse brain. Genes Brain Behav, 2012. 11(1): p. 38-51.",
+            "year": 2012,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/21951708/"
           }
-
-
-
-
-
-
-
         ]
       }
     ]
@@ -294,10 +286,16 @@
         "keywords": ["neuroplasticity", "genes"],
         "referenced_links": [
           {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Peng, W.", "et al."],
+            "title": " Synaptotagmin I and IV are differentially regulated in the brain by the recreational drug 3,4-methylenedioxymethamphetamine (MDMA). Brain Res Mol Brain Res, 2002. 108(1-2): p. 94-101",
+            "year": 2002,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/12480182/"
+          },
+          {
+            "authors": ["Fernandez-Castillo, N.", "et al."],
+            "title": "Active and passive MDMA ('ecstasy') intake induces differential transcriptional changes in the mouse brain. Genes Brain Behav, 2012. 11(1): p. 38-51.",
+            "year": 2012,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/21951708/"
           }
         ]
       }
