@@ -319,10 +319,22 @@
         "keywords": ["toxicological effects", "SERT", "serotonin"],
         "referenced_links": [
           {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Biezonski, D.K.", "J.S. Meyer."],
+            "title": "Effects of 3,4-methylenedioxymethamphetamine (MDMA) on serotonin transporter and vesicular monoamine transporter 2 protein and gene expression in rats: implications for MDMA neurotoxicity. J Neurochem, 2010. 112(4): p. 951-62",
+            "year": 2010,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/20002520/"
+          },
+          {
+            "authors": ["Kindlundh-Hogberg, A.M.", "P. Svenningsson.", "H.B. Schioth."],
+            "title": "Quantitative mapping shows that serotonin rather than dopamine receptor mRNA expressions are affected after repeated intermittent administration of MDMA in rat brain. Neuropharmacology, 2006. 51(4): p. 838-47.",
+            "year": 2006,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/16820177/"
+          },
+          {
+            "authors": ["Salzmann, J.", "et al."],
+            "title": "Analysis of transcriptional responses in the mouse dorsal striatum following acute 3,4-methylenedioxymethamphetamine (ecstasy): identification of extracellular signal-regulated kinase-controlled genes. Neuroscience, 2006. 137(2): p. 473-82.",
+            "year": 2006,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/16289835/"
           }
         ]
       }
@@ -373,11 +385,48 @@
         "keywords": ["toxicological effects", "temperature", "hyperthermia"],
         "referenced_links": [
           {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Mechan, A.", "et al."],
+            "title": "Pharmacokinetic profile of single and repeated oral doses of MDMA in squirrel monkeys: relationship to lasting effects on brain serotonin neurons. Neuropsychopharmacology, 2006. 31(2): p. 339-50.",
+            "year": 2006,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/15999148/"
+          },
+          {
+            "authors": ["Von Huben, S.N.", "et al."],
+            "title": "Impact of ambient temperature on hyperthermia induced by (+/- )3,4-methylenedioxymethamphetamine in rhesus macaques. Neuropsychopharmacology, 2007. 32(3): p. 673-81",
+            "year": 2007,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/16641942/"
+          },
+          {
+            "authors": ["Bowyer, J.F.", "et al."],
+            "title": "Plasma levels of parent compound and metabolites after doses of either d-fenfluramine or d-3,4-methylenedioxymethamphetamine (MDMA) that produce long-term serotonergic alterations. Neurotoxicology, 2003. 24(3): p. 379-90.",
+            "year": 2003,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/12782103/"
+          },
+          {
+            "authors": ["Freedman, R.R.", "C.E. Johanson.", "M.E. Tancer."],
+            "title": "Thermoregulatory effects of 3,4- methylenedioxymethamphetamine (MDMA) in humans. Psychopharmacology (Berl), 2005. 183(2): p. 248-56",
+            "year": 2005,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/16163516/"
+          },
+          {
+            "authors": ["Crean, R.D.", "S.A. Davis.",  "M.A. Taffe."],
+            "title": "Oral administration of (+/-)3,4- methylenedioxymethamphetamine and (+)methamphetamine alters temperature and activity in rhesus macaques. Pharmacol Biochem Behav, 2007. 87(1): p. 11-9",
+            "year": 2007,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/16876329/"
+          },
+          {
+            "authors": ["Crean, R.D.", "et al."],
+            "title": "Effects of (+/-)3,4-methylenedioxymethamphetamine, (+/-)3,4- methylenedioxyamphetamine and methamphetamine on temperature and activity in rhesus macaques. Neuroscience, 2006. 142(2): p. 515-25.",
+            "year": 2006,
+            "uri": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1853374/"
+          },
+          {
+            "authors": ["Banks, M.L.", "et al."],
+            "title": "Ambient temperature effects on 3,4- methylenedioxymethamphetamine-induced thermodysregulation and pharmacokinetics in male monkeys. Drug Metab Dispos, 2007. 35(10): p. 1840-5.",
+            "year": 2007,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/17640955/"
           }
+
         ]
       }
     ]
@@ -400,11 +449,84 @@
         "keywords": ["toxicological effects", "cardiovascular"],
         "referenced_links": [
           {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Cole, J.C.", "H.R. Sumnall."],
+            "title": "The pre-clinical behavioural pharmacology of 3,4- methylenedioxymethamphetamine (MDMA). Neurosci Biobehav Rev, 2003. 27(3): p. 199-217.",
+            "year": 2003,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/12788333/"
+          },
+          {
+            "authors": ["Schindler, C.W.", "et al."],
+            "title": "Effects of 3,4-methylenedioxymethamphetamine (MDMA) and its main metabolites on cardiovascular function in conscious rats. Br J Pharmacol, 2014. 171(1): p. 83-91.",
+            "year": 2014,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/24328722/"
+          },
+          {
+            "authors": ["Tiangco, D.A.", "et al."],
+            "title": "3,4-Methylenedioxymethamphetamine activates nuclear factor- kappaB, increases intracellular calcium, and modulates gene transcription in rat heart cells. Cardiovasc Toxicol, 2005. 5(3): p. 301-10.",
+            "year": 2005,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/16244375/"
+          },
+          {
+            "authors": ["Vandeputte, C.", "J.R. Docherty."],
+            "title": "Vascular actions of 3,4- methylenedioxymethamphetamine in alpha(2A/D)- adrenoceptor knockout mice. Eur J Pharmacol, 2002. 457(1): p. 45-9.",
+            "year": 2002,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/12460642/"
+          },
+          {
+            "authors": ["Bexis, S.", "J.R. Docherty."],
+            "title": "Effects of MDMA, MDA and MDEA on blood pressure, heart rate, locomotor activity and body temperature in the rat involve alpha-adrenoceptors",
+            "year": 2006,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/16491100/"
+          },
+          {
+            "authors": ["Bexis, S.", "J.R. Docherty"],
+            "title": "Role of alpha2A-adrenoceptors in the effects of MDMA on body temperature in the mouse. Br J Pharmacol, 2005. 146(1): p. 1-6.",
+            "year": 2005,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/16025144/"
+          },
+          {
+            "authors": ["Quinn, S.T.", "et al."],
+            "title": "Blockade of noradrenaline transport abolishes 4- methylthioamphetamine-induced contraction of the rat aorta in vitro. Auton Autacoid Pharmacol, 2006. 26(4): p. 335-44.",
+            "year": 2006,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/16968472/"
+          },
+          {
+            "authors": ["Hysek, C.M.", "et al."],
+            "title": "Effects of the alpha(2)-adrenergic agonist clonidine on the pharmacodynamics and pharmacokinetics of 3,4-methylenedioxymethamphetamine in healthy volunteers. J Pharmacol Exp Ther, 2012. 340(2): p. 286-94.",
+            "year": 2012,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/22034656/"
+          },
+          {
+            "authors": ["Hysek, C.M.", "M.E. Liechti."],
+            "title": "Effects of MDMA alone and after pretreatment with reboxetine, duloxetine, clonidine, carvedilol, and doxazosin on pupillary light reflex. Psychopharmacology (Berl), 2012. 224(3): p. 363-76.",
+            "year": 2012,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/22700038/"
+          },
+          {
+            "authors": ["Hysek, C.M.", "et al."],
+            "title": "Carvedilol inhibits the cardiostimulant and thermogenic effects of MDMA in humans: Lost in translation. Br J Pharmacol, 2013. 170(6): p. 1273-5.",
+            "year": 2013,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/24033079/"
+          },
+          {
+            "authors": ["Hysek, C.M.", "et al."],
+            "title": "Duloxetine inhibits effects of MDMA (\"ecstasy\") in vitro and in humans in a randomized placebo-controlled laboratory study. PLoS One, 2012. 7(5): p. e36476.",
+            "year": 2012,
+            "uri": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3344887/"
+          },
+          {
+            "authors": ["Navarro-Zaragoza, J.", "et al."],
+            "title": "Binge ethanol and MDMA combination exacerbates HSP27 and Trx-1 (biomarkers of toxic cardiac effects) expression in right ventricle. Life Sci, 2019. 220: p. 50-57.",
+            "year": 2019,
+            "uri": "http://website60s.com/upload/files/1587452541_632_10.pdf"
+          },
+          {
+            "authors": ["Feio-Azevedo, R.", "et al."],
+            "title": "Aged rats are more vulnerable than adolescents to \"ecstasy\"- induced toxicity. Arch Toxicol, 2018. 92(7): p. 2275-2295.",
+            "year": 2018,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/29869127/"
           }
+
         ]
       }
     ]
