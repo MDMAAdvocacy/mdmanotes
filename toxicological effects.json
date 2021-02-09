@@ -768,8 +768,8 @@
     ]
   },
   {
-    "fact": "",
-    "keywords": ["toxicological effects"],
+    "fact": "Ring substituted amphetamine derivatives, such as MDA, MDEA or PMA, may confer a riskier toxicity profile than MDMA. In particular, PMA is considered responsible for a number of ecstasy-associated deaths.",
+    "keywords": ["toxicological effects", "profile"],
     "references": [
       {
         "link": {
@@ -782,7 +782,7 @@
         },
         "page": 0,
         "excerpt": "Ring substituted amphetamine derivatives, such as MDA, MDEA or PMA, may confer a riskier toxicity profile than MDMA. In particular, PMA is considered responsible for a number of ecstasy-associated deaths (Becker et al., in press; Felgate, Felgate, James, Sims & Vozzo, 1998), producing life threatening hypertension or hyperthermia. Fatalities have also occurred after MDEA ingestion (Weinmann & Bohnert, 1998).",
-        "keywords": ["toxicological effects"],
+        "keywords": ["toxicological effects", "profile"],
         "referenced_links": [
           {
             "authors": [],
@@ -843,8 +843,8 @@
     ]
   },
   {
-    "fact": "",
-    "keywords": ["toxicological effects"],
+    "fact": "Preclinical and clinical molecular imaging studies on the effects of ecstasy/MDMA use/administration on neurotransmitter systems show quite consistent alterations of the 5-HT system.",
+    "keywords": ["toxicological effects", "serotonin", "5-HT system"],
     "references": [
       {
         "link": {
@@ -856,8 +856,8 @@
           "uri": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5021729/pdf/213_2016_Article_4396.pdf"
         },
         "page": 0,
-        "excerpt": "Conclusions Preclinical and clinical molecular imaging stud- ies on the effects of ecstasy/MDMA use/administration on neurotransmitter systems show quite consistent alterations of the 5-HT system. Particularly, in human studies, loss of SERT [5-HT transporter ] binding was observed in heavy ecstasy users, which might reflect 5-HT neurotoxicity, although alternative explanations (e.g. down-regulation of the SERT) cannot be excluded.",
-        "keywords": ["toxicological effects"],
+        "excerpt": "Conclusions Preclinical and clinical molecular imaging studies on the effects of ecstasy/MDMA use/administration on neurotransmitter systems show quite consistent alterations of the 5-HT system. Particularly, in human studies, loss of SERT [5-HT transporter ] binding was observed in heavy ecstasy users, which might reflect 5-HT neurotoxicity, although alternative explanations (e.g. down-regulation of the SERT) cannot be excluded.",
+        "keywords": ["toxicological effects", "serotonin", "5-HT system"],
         "referenced_links": [
           {
             "authors": [],
@@ -918,7 +918,7 @@
     ]
   },
   {
-    "fact": "",
+    "fact": "Decreases in the forebrain may reflect 5-HT neurotoxicity and the increases in the brainstem could be explained by an up-regulation of synthesis to compensate the loss of 5-HT neurons",
     "keywords": ["toxicological effects"],
     "references": [
       {
@@ -1128,8 +1128,8 @@
     ]
   },
   {
-    "fact": "",
-    "keywords": ["toxicological effects"],
+    "fact": "The results of imaging studies reveal consistently that heavy use/administration of ecstasy/MDMA induces loss of SERT binding; however, these studies cannot conclude definitely whether this reduction in binding represents 5-HT neurotoxity.",
+    "keywords": ["toxicological effects", "serotonin", "5-HT neurotoxity"],
     "references": [
       {
         "link": {
@@ -1142,7 +1142,7 @@
         },
         "page": 0,
         "excerpt": "In the present review, we examined the effects of the use/ administration of the drug ecstasy/MDMA on neurotransmitter systems in human and animal brains through imaging studies. The results of imaging studies reveal consistently that heavy use/administration of ecstasy/MDMA induces loss of SERT binding; however, these studies cannot conclude definitely whether this reduction in binding represents 5-HT neurotoxity. The effects of MDMA/ecstasy on the 5-HT2A system are not consistent, while in human, the DA system may not be significantly affected. Some studies showed that use of MDMA is correlated with deficits on several cognitive functions; however, opinions remain divided on this topic. Therefore, to come up with definite conclusions whether the use of ecstasy is neurotoxic in humans, large translational studies are still needed",
-        "keywords": ["toxicological effects"],
+        "keywords": ["toxicological effects", "serotonin", "5-HT neurotoxity"],
         "referenced_links": [
           {
             "authors": [],
@@ -1203,8 +1203,8 @@
     ]
   },
   {
-    "fact": "",
-    "keywords": ["toxicological effects"],
+    "fact": "The first evidence for MDMA neurotoxicity was published in the mid- 1980s, and these and numerous follow-up studies showed that high doses of MDMA (or MDA) lead to a long-lasting depletion of 5-HT, reduced 5-HT uptake and SERT binding sites, and decreased activity of tryptophan hydroxylase in forebrain areas such as the neocortex, hippocampus, and striatum",
+    "keywords": ["toxicological effects", "SERT"],
     "references": [
       {
         "link": {
@@ -1216,8 +1216,8 @@
           "uri": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3931692/pdf/sar-4-083.pdf"
         },
         "page": 0,
-        "excerpt": "The abovementioned evidence for mood changes and neurop- sychological deficits in ecstasy users raises the question of how MDMA might be acting within the brain to cause these effects. The answer given most often centers around numer- ous findings obtained from experimental animals, mainly rats and nonhuman primates (eg, squirrel monkeys), for a toxic effect of MDMA on the serotonergic system. The first evidence for MDMA neurotoxicity was published in the mid- 1980s, and these and numerous follow-up studies showed that high doses of MDMA (or MDA) lead to a long-lasting deple- tion of 5-HT, reduced 5-HT uptake and SERT binding sites, and decreased activity of tryptophan hydroxylase in forebrain areas such as the neocortex, hippocampus, and striatum (see Green et al33).",
-        "keywords": ["toxicological effects"],
+        "excerpt": "The abovementioned evidence for mood changes and neurop- sychological deficits in ecstasy users raises the question of how MDMA might be acting within the brain to cause these effects. The answer given most often centers around numerous findings obtained from experimental animals, mainly rats and nonhuman primates (eg, squirrel monkeys), for a toxic effect of MDMA on the serotonergic system. The first evidence for MDMA neurotoxicity was published in the mid- 1980s, and these and numerous follow-up studies showed that high doses of MDMA (or MDA) lead to a long-lasting depletion of 5-HT, reduced 5-HT uptake and SERT binding sites, and decreased activity of tryptophan hydroxylase in forebrain areas such as the neocortex, hippocampus, and striatum (see Green et al33).",
+        "keywords": ["toxicological effects", "SERT"],
         "referenced_links": [
           {
             "authors": [],
@@ -1257,8 +1257,8 @@
     ]
   },
   {
-    "fact": "",
-    "keywords": ["toxicological effects"],
+    "fact": "There is considerable evidence that MDMA produces neurotoxicity and cognitive deficits at high doses; however, these findings may not generalize to typical recreational or therapeutic use of low-dose MDMA.",
+    "keywords": ["toxicological effects", "cognitive effects", "dose"],
     "references": [
       {
         "link": {
@@ -1270,8 +1270,35 @@
           "uri": "http://mocolab.ucsd.edu/MCL/Publications_files/PantoniAnagnostaras2019.pdf"
         },
         "page": 0,
-        "excerpt": "There is considerable evidence that MDMA produces neurotoxicity and cognitive deficits at high doses; however, these findings may not generalize to typical recreational or therapeutic use of low-dose MDMA. Here, we systematically review 25 years of research on the cognitive effects of MDMA in animals, with a critical focus on dose. We found no evidence that doses of less than 3 mg/kg MDMA—the dose range that users typically take—produce cognitive deficits in animals. Doses of 3 mg/kg or greater, which were administered most often and frequently ranged from 5 to 20 times greater than an average dose, also did not produce cognitive deficits in a slight majority of experiments. Overall, the preclinical evidence of MDMA-induced cognitive deficits is weak and, if anything, may be the result of unrealistically high dosing. While factors associated with recreational use such as polydrug use, adulterants, hyperthermia, and hyponatremia can increase the potential for neurotoxicity, the short-term, infrequent, therapeutic use of ultra low-dose MDMA is unlikely to pose significant cognitive risks. Future studies must examine any adverse cognitive effects of MDMA using clinically relevant doses to reliably assess its potential as a psychotherapeutic.",
-        "keywords": ["toxicological effects"],
+        "excerpt": "There is considerable evidence that MDMA produces neurotoxicity and cognitive deficits at high doses; however, these findings may not generalize to typical recreational or therapeutic use of low-dose MDMA.",
+        "keywords": ["toxicological effects", "cognitive effects", "dose"],
+        "referenced_links": [
+          {
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "fact": "Short-term, infrequent, therapeutic use of ultra low-dose MDMA is unlikely to pose significant cognitive risks",
+    "keywords": ["toxicological effects", "cognitive effects", "dose"],
+    "references": [
+      {
+        "link": {
+          "authors": [
+            "Madeline M. Pantoni.", "Stephan G. Anagnostaras.", "Timothy A. Esbenshade"
+          ],
+          "title": "Cognitive Effects of MDMA in Laboratory Animals: A Systematic Review Focusing on Dose, Pharmacological Reviews July 2019, 71 (3) 413-449;",
+          "year": 2019,
+          "uri": "http://mocolab.ucsd.edu/MCL/Publications_files/PantoniAnagnostaras2019.pdf"
+        },
+        "page": 0,
+        "excerpt": "Here, we systematically review 25 years of research on the cognitive effects of MDMA in animals, with a critical focus on dose. We found no evidence that doses of less than 3 mg/kg MDMA—the dose range that users typically take—produce cognitive deficits in animals. Doses of 3 mg/kg or greater, which were administered most often and frequently ranged from 5 to 20 times greater than an average dose, also did not produce cognitive deficits in a slight majority of experiments. Overall, the preclinical evidence of MDMA-induced cognitive deficits is weak and, if anything, may be the result of unrealistically high dosing. While factors associated with recreational use such as polydrug use, adulterants, hyperthermia, and hyponatremia can increase the potential for neurotoxicity, the short-term, infrequent, therapeutic use of ultra low-dose MDMA is unlikely to pose significant cognitive risks. Future studies must examine any adverse cognitive effects of MDMA using clinically relevant doses to reliably assess its potential as a psychotherapeutic.",
+        "keywords": ["toxicological effects", "cognitive effects", "dose"],
         "referenced_links": [
           {
             "authors": [],
