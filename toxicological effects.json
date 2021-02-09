@@ -12,14 +12,44 @@
           "uri": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3122379/"
         },
         "page": 0,
-        "excerpt": "More recently, Phase I clinical trials have demonstrated that MDMA can be administered without evidence of harm to pre-screened subjects, and induces a 2–4-h experience typically characterized by euphoria, increased well being, sociability, self-confidence, and extroversion (Cami et al., 2000; Harris et al., 2002; Kolbrich et al., 2008; Liechti et al., 2001; Tancer and Johanson, 2001; Vollenweider et al., 1998).",
+        "excerpt": "More recently, Phase I clinical trials have demonstrated that MDMA can be administered without evidence of harm to pre-screened subjects, and induces a 2–4-h experience typically characterized by euphoria, increased well being, sociability, self-confidence, and extroversion ().",
         "keywords": ["toxicological effects"],
         "referenced_links": [
           {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Cami J.", "Farre M.", "Mas M.", "Roset PN.", "Poudevida S.", "Mas A."],
+            "title": "Human pharmacology of 3,4-methylenedioxymethamphetamine (“ecstasy”): psychomotor performance and subjective effects. J Clin Psychopharmacol 20: 455–466",
+            "year": 2000,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/10917407/"
+          },
+          {
+            "authors": ["Harris DS.", "Baggott M.", "Mendelson JH.", "Mendelson JE.", "Jones RT."],
+            "title": "Subjective and hormonal effects of 3,4-methylenedioxymethamphetamine (MDMA) in humans. Psychopharmacology (Berl) 162: 396–405",
+            "year": 2002,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/12172693/"
+          },
+          {
+            "authors": ["Kolbrich EA.", "Goodwin RS.", "Gorelick DA.", "Hayes RJ.", "Stein EA.", "Huestis MA."],
+            "title": "Plasma pharmacokinetics of 3,4-methylenedioxymethamphetamine after controlled oral administration to young adults. Ther Drug Monit 30: 320–332",
+            "year": 2008,
+            "uri": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2663855/"
+          },
+          {
+            "authors": ["Liechti ME.", "Gamma A.", "Vollenweider FX."],
+            "title": "Gender differences in the subjective effects of MDMA. Psychopharmacology (Berl) 154: 161–168",
+            "year": 2001,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/11314678/"
+          },
+          {
+            "authors": ["Tancer ME.", "Johanson CE."],
+            "title": "The subjective effects of MDMA and mCPP in moderate MDMA users. Drug Alcohol Depend 65: 97–101",
+            "year": 2001,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/11714594/"
+          },
+          {
+            "authors": ["Vollenweider FX.", "Gamma A.", "Liechti M.", "Huber T."],
+            "title": "Psychological and cardiovascular effects and short-term sequelae of MDMA (“ecstasy”) in MDMA-naive healthy volunteers. Neuropsychopharmacology 19: 241–251",
+            "year": 1998,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/9718588/"
           }
         ]
       }
@@ -31,8 +61,7 @@
     "references": [
       {
         "link": {
-          "authors": ["Sessa B.", "Higbed L.", "Nutt D"
-          ],
+          "authors": ["Sessa B.", "Higbed L.", "Nutt D"],
           "title": "A Review of 3,4-methylenedioxymethamphetamine (MDMA)-Assisted Psychotherapy. Front. Psychiatry 10:138. doi: 10.3389/fpsyt.2019.00138",
           "year": 2019,
           "uri": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6435835/pdf/fpsyt-10-00138.pdf"
@@ -42,11 +71,18 @@
         "keywords": ["toxicological effects", "deaths"],
         "referenced_links": [
           {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Sessa B."],
+            "title": "The ecstatic history of MDMA: from raving highs to saving lives. In: Breaking Convention Book of Proceedings from the 2013 Conference. London: Strange Attractor Press. (2015). p.87 -94.",
+            "year": 2015,
+            "uri": "http://www.drsessa.com/my-mdma-research-papers/"
+          },
+          {
+            "authors": ["Schifano F.", "Oyefeso A.", "Webb L.", "Pollard M.", "Corkery J.", "Ghodse AH."],
+            "title": "Review of deaths related to taking ecstasy, England and Wales, 1997–2000. BMJ. (2003) 326:80–1. doi: 10.1136/bmj.326.7380.80",
+            "year": 2003,
+            "uri": "https://www.bmj.com/content/326/7380/80"
           }
+
         ]
       }
     ]
@@ -68,10 +104,10 @@
         "keywords": ["toxicological effects"],
         "referenced_links": [
           {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Halpern JH.", "Pope HG.", "Sherwood AR.", "Barry S.", "Hudson JI",
+              "Todd D.", "et al." ],
+            "title": "Residual neuropsychological effects of illicit 3,4-methelenedioxymethamphetamine (MDMA) in individuals with minimal exposure to other drugs. Drug Alcohol Dependency. (2004) 75:135–47 doi: 10.1016/j.drugalcdep.2004.02.008",
+            "year": 2004
           }
         ]
       }
@@ -94,10 +130,9 @@
         "keywords": ["toxicological effects", "cognitive effects"],
         "referenced_links": [
           {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Ludewig S.", "Ludewig K.", "Hasler F.", "Vollenweider FX."],
+            "title": "No lasting effects of moderate doses of MDMA (Ecstasy) on memory performance and mood states in healthy humans. Biol Psychiatry. (2003) 53(Suppl):205S.",
+            "year": 2003
           }
         ]
       }
@@ -120,6 +155,12 @@
         "excerpt": "Synthesis of MDMA is relatively simple and is often produced illegally in laboratories with no quality control. These synthesized tablets also may be cut or mixed with other psychoactive substances. Substances found mixed with MDMA have included amphetamine methamphetamine, dextromethorphan, paramethoxymethamphetamine (PMMA), paramethoxyamphetamine (PMA), cathinones, ketamine, caffeine, and ephedrine [124, 125]. Retrospective studies in Ecstasy users are described in Section 4.3 Physiological Effects in Epidemiological Settings and case reports of morbidity and mortality in Ecstasy users are included in Section 4.5 Serious Reports, Mortality, and Morbidity in Animals and Epidemiological Settings to provide the context of potential safety information of a related compound to MDMA which has extensive use outside of a research setting.",
         "keywords": ["toxicological effects"],
         "referenced_links": [
+          {
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
           {
             "authors": [],
             "title": "",
@@ -152,7 +193,14 @@
             "title": "",
             "year": 9999,
             "uri": ""
+          },
+          {
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
           }
+
         ]
       }
     ]
