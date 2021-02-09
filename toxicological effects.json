@@ -603,11 +603,17 @@
         "keywords": ["toxicological effects", "genotoxicity"],
         "referenced_links": [
           {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Hariri, M.", "et al."],
+            "title": "ASSESSING MUTAGENICITY OF THE DRUG MDMA (ECSTASY) AVAILABLE IN IRAN USING AMES BIOASSAY. Jundishapur Journal of Natural Pharmaceutical Products, 2010. 5(1): p. 44-49.",
+            "year": 2010
+          },
+          {
+            "authors": ["Yoshioka, H.", "et al."],
+            "title": "Genotoxicity study of illegal drug MDMA and its nitroso derivative N-MDMA by micronucleus and chromosomal aberration tests using Chinese hamsger lung fibroblast cell line. Environ Health Prev Med, 2007. 12(3): p. 129-37",
+            "year": 2007,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/21432066/"
           }
+
         ]
       }
     ]
