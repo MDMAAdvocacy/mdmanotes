@@ -1,38 +1,5 @@
 [
 
-  {
-    "fact": "",
-    "keywords": ["toxicological effects"],
-    "references": [
-      {
-        "link": {
-          "authors": [
-            "Multidisciplinary Association for Psychedelic Studies (MAPS)"
-          ],
-          "title": "Investigator’s Brochure",
-          "year": 2019,
-          "uri": "https://mapscontent.s3-us-west-1.amazonaws.com/research-archive/mdma/MDMA-Investigator-Brochure-IB-11thEdition-MAPS-2019-07-10.pdf"
-        },
-        "page": 0,
-        "excerpt": "Synthesis of MDMA is relatively simple and is often produced illegally in laboratories with no quality control. These synthesized tablets also may be cut or mixed with other psychoactive substances. Substances found mixed with MDMA have included amphetamine methamphetamine, dextromethorphan, paramethoxymethamphetamine (PMMA), paramethoxyamphetamine (PMA), cathinones, ketamine, caffeine, and ephedrine [124, 125]. Retrospective studies in Ecstasy users are described in Section 4.3 Physiological Effects in Epidemiological Settings and case reports of morbidity and mortality in Ecstasy users are included in Section 4.5 Serious Reports, Mortality, and Morbidity in Animals and Epidemiological Settings to provide the context of potential safety information of a related compound to MDMA which has extensive use outside of a research setting.",
-        "keywords": ["toxicological effects"],
-        "referenced_links": [
-          {
-            "authors": ["Tanner-Smith, E.E."],
-            "title": "Pharmacological content of tablets sold as \"ecstasy\": results from an online testing service. Drug Alcohol Depend, 2006. 83(3): p. 247-54.",
-            "year": 2006,
-            "uri": "https://www.researchgate.net/publication/7405196_Pharmacological_content_of_tablets_sold_as_ecstasy_Results_from_an_online_testing_service"
-          },
-          {
-            "authors": ["Brunt, T.M.", "et al."],
-            "title": "Drug testing in Europe: monitoring results of the Trans European Drug Information (TEDI) project. Drug Test Anal, 2017. 9(2): p. 188-198.",
-            "year": 2017,
-            "uri": "https://pubmed.ncbi.nlm.nih.gov/26888408/"
-          }
-        ]
-      }
-    ]
-  },
 
 
   {
