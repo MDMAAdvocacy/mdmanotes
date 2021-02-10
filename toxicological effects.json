@@ -92,8 +92,8 @@
 
 
   {
-    "fact": "",
-    "keywords": ["toxicological effects"],
+    "fact": "Several human molecular imaging studies indicated that the 5-HT transporter (SERT) binding is decreased in different brain regions of frequent MDMA users but there is uncertainty whether this alteration in binding reflect neurotoxicitys",
+    "keywords": ["toxicological effects", "SERT", "dose", "serotonin"],
     "references": [
       {
         "link": {
@@ -105,15 +105,82 @@
           "uri": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5021729/pdf/213_2016_Article_4396.pdf"
         },
         "page": 0,
-        "excerpt": "Several human molecular imaging studies indicated that the 5-HT transporter (SERT) binding is decreased in different brain regions of fre- quent MDMA users (Buchert et al. 2007; McCann et al. 2005; Zhou et al. 1998). However, there is discussion whether this alteration in binding may reflect neurotoxicity. Some experi- mental studies in rodents and primates indicate that adminis- tration of MDMA damages the structural and functional in- tegrity of the 5-HT system. In these studies, immunocyto- chemistry was used and markers of 5-HT axon degeneration were assessed, e.g. concentrations of 5-hydroxyindoleacetic acid (5-HIAA), 5-HT and the SERT (Battaglia et al. 1987; Commins et al. 1987). Immunocytochemistry showed mor- phologic evidence of neuronal degeneration due to adminis- tration of MDMA (Battaglia et al. 1987; Molliver et al. 1990; O’Hearn et al. 1988; Ricaurte and McCann 1992). In contrast, alternative explanations for the loss of SERT after MDMA administration were put forward as well. It was suggested that the administration of MDMA may cause a state of metabolic exhaustion through a mechanism of modifications in gene expression and protein function (Baumann et al. 2007). This hypothesis is supported by studies that measured glial activa- tion and silver staining, also indicators of neurotoxicity. In these studies, no correlation was found between 5-HT deple- tion induced by MDMA administration and markers of neu- rotoxicity in mice treated with 10–20 mg/kg MDMA (Pubill et al. 2003; Wang et al. 2004).",
-        "keywords": ["toxicological effects"],
+        "excerpt": "Several human molecular imaging studies indicated that the 5-HT transporter (SERT) binding is decreased in different brain regions of frequent MDMA users (Buchert et al. 2007; McCann et al. 2005; Zhou et al. 1998). However, there is discussion whether this alteration in binding may reflect neurotoxicity. Some experimental studies in rodents and primates indicate that administration of MDMA damages the structural and functional integrity of the 5-HT system. In these studies, immunocytochemistry was used and markers of 5-HT axon degeneration were assessed, e.g. concentrations of 5-hydroxyindoleacetic acid (5-HIAA), 5-HT and the SERT (Battaglia et al. 1987; Commins et al. 1987). Immunocytochemistry showed morphologic evidence of neuronal degeneration due to administration of MDMA (Battaglia et al. 1987; Molliver et al. 1990; O’Hearn et al. 1988; Ricaurte and McCann 1992). In contrast, alternative explanations for the loss of SERT after MDMA administration were put forward as well. It was suggested that the administration of MDMA may cause a state of metabolic exhaustion through a mechanism of modifications in gene expression and protein function (Baumann et al. 2007). This hypothesis is supported by studies that measured glial activation and silver staining, also indicators of neurotoxicity. In these studies, no correlation was found between 5-HT depletion induced by MDMA administration and markers of neu- rotoxicity in mice treated with 10–20 mg/kg MDMA (Pubill et al. 2003; Wang et al. 2004).",
+        "keywords": ["toxicological effects", "SERT", "dose", "serotonin"],
         "referenced_links": [
+          {
+            "authors": [Buchert R, Thiele F, Thomasius R, Wilke F, Petersen K, Brenner W, Mester J, Spies L, Clausen M (2007) Ecstasy-induced reduction of the availability of the brain serotonin transporter as revealed by [11C](+)McN5652-PET and the multi-linear reference tissue model: loss of transporters or artifact of tracer kinetic modelling? J Psychopharmacol 21:628–634],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [McCann UD, Szabo Z, Seckin E, Rosenblatt P, Mathews WB, Ravert HT, Dannals RF, Ricaurte GA (2005) Quantitative PET studies of the serotonin transporter in MDMA users and controls using [11C]McN5652 and [11C]DASB. Neuropsychopharmacology 30: 1741–1750],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [Zhou FC, Tao-Cheng JH, Segu L, Patel T, Wang Y (1998) Serotonin transporters are located on the axons beyond the synaptic junctions: anatomical and functional evidence. Brain Res 805:241–254],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [Battaglia G, Yeh SY, O’Hearn E, Molliver ME, Kuhar MJ, De Souza EB (1987) 3,4-Methylenedioxymethamphetamine and 3,4- methylenedioxyamphetamine destroy serotonin terminals in rat brain: quantification of neurodegeneration by measurement of [3H]paroxetine-labeled serotonin uptake sites. J Pharmacol Exp Ther 242:911–916],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
           {
             "authors": [],
             "title": "",
             "year": 9999,
             "uri": ""
-          }
+          },
+          {
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+
         ]
       }
     ]
