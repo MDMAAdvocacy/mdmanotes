@@ -963,10 +963,16 @@
         "keywords": ["toxicological effects", "neurotoxicity"],
         "referenced_links": [
           {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["McCann, U.D.", "G.A. Ricaurte."],
+            "title": "Caveat emptor: editors beware. Neuropsychopharmacology, 2001. 24(3): p. 333-6.",
+            "year": 2001,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/11256359/"
+          },
+          {
+            "authors": ["Rogers, G.", "et al."],
+            "title": "The harmful health effects of recreational ecstasy: a systematic review of observational evidence. Health Technol Assess, 2009. 13(6): p. iii-iv, ix-xii, 1-315.",
+            "year": 2009,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/19195429/"
           }
         ]
       }
@@ -1044,11 +1050,24 @@
         "keywords": ["toxicological effects", "profile"],
         "referenced_links": [
           {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Becker, J.", "Neis, P.", "Rohrich, J.", "Zorntlein, S."],
+            "title": "(in press). A fatal paramethoxymethamphetamine intoxication. Legal Medicine.",
+            "year": 2003,
+            "uri": "A fatal paramethoxymethamphetamine intoxication. Legal Medicine."
+          },
+          {
+            "authors": ["Felgate, H. E.", "Felgate, P. D.", "James, R. A.", "Sims, D. N.", "Vozzo, D. C."],
+            "title": "Recent paramethoxyamphetamine deaths. Journal of Analytical Toxicology, 22(2), 169–172.",
+            "year": 1998,
+            "uri": "https://academic.oup.com/jat/article/22/2/169/780672"
+          },
+          {
+            "authors": ["Weinmann, W.", "Bohnert, M."],
+            "title": "Lethal monointoxication by overdosage of MDEA. Forensic Science International, 91(2), 91–101.",
+            "year": 1998,
+            "uri": "https://www.sciencedirect.com/science/article/abs/pii/S0379073897001850"
           }
+
         ]
       }
     ]
@@ -1118,12 +1137,6 @@
         "excerpt": "Conclusions Preclinical and clinical molecular imaging studies on the effects of ecstasy/MDMA use/administration on neurotransmitter systems show quite consistent alterations of the 5-HT system. Particularly, in human studies, loss of SERT [5-HT transporter ] binding was observed in heavy ecstasy users, which might reflect 5-HT neurotoxicity, although alternative explanations (e.g. down-regulation of the SERT) cannot be excluded.",
         "keywords": ["toxicological effects", "serotonin", "5-HT system"],
         "referenced_links": [
-          {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
         ]
       }
     ]
@@ -1193,12 +1206,6 @@
         "excerpt": "As suggested by the authors, the decreases in the forebrain may reflect 5-HT neurotoxicity and the increases in the brainstem could be explained by an up-regulation of synthesis to compensate the loss of 5-HT neurons. Nevertheless, further research should be performed to draw definitive conclusions whether 5- HT synthesis is altered in MDMA users....Also, it may be relevant to perform studies in small laboratory animals with this radio- tracer, to validate whether administration of MDMA is able to induce detectable changes in 5-HT synthesis as assessed by this radiotracer and to study the relationship between 5-HT synthesis and 5-HT neurotoxicity.",
         "keywords": ["toxicological effects"],
         "referenced_links": [
-          {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
         ]
       }
     ]
@@ -1245,33 +1252,6 @@
         },
         "page": 0,
         "excerpt": "Consistent with findings in animals, 14 out of the 16 SERT studies performed in humans also showed significantly lower SERT [5-HT Transporter] binding, particularly in cortical brain areas....However, not all studies corrected for multiple comparisons. Ten studies examined SERT    binding in the occipital cortex, and in six of these studies, the decrease of SERT binding was most pronounced in this particular brain area, with ES ranging from −0.21 to −2.17. Several experimental studies have reported that, indeed, high doses of ecstasy affect preferentially 5-HT-ergic projec- tions to the occipital cortex (Oliveri and Calvo 2003). Hadzidimitrou and colleagues (1999) and Molliver et al. (1990) stated that axons with a great length, e.g. axons to the occipital cortex, have a higher sensitivity to neurotox- ic substances. Besides the cortical regions, forebrain re- gions were also examined. Four studies explored hippo- campal SERT, and in 3 out of these 4 studies was the SERT binding significantly reduced in MDMA users; however, only 2 were corrected for multiple comparisons....It has been shown that heavy MDMA users have verbal and visuo-spatial memory deficits, and loss of SERT in the hippocampus may contribute to these deficits (Bosch et al. 2013). For cognitive processes like language and memory, the thalamus is also very important (Herrero et al. 2002).",
-        "keywords": ["toxicological effects"],
-        "referenced_links": [
-          {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "fact": "Use/administration of MDMA declines SERT [5-HT Transporter] binding",
-    "keywords": ["toxicological effects"],
-    "references": [
-      {
-        "link": {
-          "authors": [
-            "Yosta Vegting.", "Liesbeth Reneman.","Jan Booij"
-          ],
-          "title": "The effects of ecstasy on neurotransmitter systems: a review on the findings of molecular imaging studies",
-          "year": 2016,
-          "uri": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5021729/pdf/213_2016_Article_4396.pdf"
-        },
-        "page": 0,
-        "excerpt": "Confirming previous studies, use/administration of MDMA declines SERT [5-HT Transporter] binding....5-HT2A receptor (Activation of the 5-HT2A receptor in hypothalamus causes increases in hormonal levels of oxytocin, prolactin, ACTH, corticosterone, and renin.[37][ https://en.wikipedia.org/wiki/5-HT2A_receptor)",
         "keywords": ["toxicological effects"],
         "referenced_links": [
           {
@@ -1403,12 +1383,6 @@
         "excerpt": "In the present review, we examined the effects of the use/ administration of the drug ecstasy/MDMA on neurotransmitter systems in human and animal brains through imaging studies. The results of imaging studies reveal consistently that heavy use/administration of ecstasy/MDMA induces loss of SERT binding; however, these studies cannot conclude definitely whether this reduction in binding represents 5-HT neurotoxity. The effects of MDMA/ecstasy on the 5-HT2A system are not consistent, while in human, the DA system may not be significantly affected. Some studies showed that use of MDMA is correlated with deficits on several cognitive functions; however, opinions remain divided on this topic. Therefore, to come up with definite conclusions whether the use of ecstasy is neurotoxic in humans, large translational studies are still needed",
         "keywords": ["toxicological effects", "serotonin", "5-HT neurotoxity"],
         "referenced_links": [
-          {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
         ]
       }
     ]
@@ -1479,10 +1453,10 @@
         "keywords": ["toxicological effects", "SERT"],
         "referenced_links": [
           {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Green AR.", "Mechan AO.", "Elliott JM.", "O’Shea E.", "Colado MI."],
+            "title": "The pharmacology and clinical pharmacology of 3,4-methylenedioxymethamphetamine (MDMA, “Ecstasy”). Pharmacol Rev. 2003;55(3):463–508.",
+            "year": 2003,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/12869661/"
           }
         ]
       }
@@ -1532,12 +1506,6 @@
         "excerpt": "There is considerable evidence that MDMA produces neurotoxicity and cognitive deficits at high doses; however, these findings may not generalize to typical recreational or therapeutic use of low-dose MDMA.",
         "keywords": ["toxicological effects", "cognitive effects", "dose"],
         "referenced_links": [
-          {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
         ]
       }
     ]
@@ -1559,12 +1527,6 @@
         "excerpt": "Here, we systematically review 25 years of research on the cognitive effects of MDMA in animals, with a critical focus on dose. We found no evidence that doses of less than 3 mg/kg MDMA—the dose range that users typically take—produce cognitive deficits in animals. Doses of 3 mg/kg or greater, which were administered most often and frequently ranged from 5 to 20 times greater than an average dose, also did not produce cognitive deficits in a slight majority of experiments. Overall, the preclinical evidence of MDMA-induced cognitive deficits is weak and, if anything, may be the result of unrealistically high dosing. While factors associated with recreational use such as polydrug use, adulterants, hyperthermia, and hyponatremia can increase the potential for neurotoxicity, the short-term, infrequent, therapeutic use of ultra low-dose MDMA is unlikely to pose significant cognitive risks. Future studies must examine any adverse cognitive effects of MDMA using clinically relevant doses to reliably assess its potential as a psychotherapeutic.",
         "keywords": ["toxicological effects", "cognitive effects", "dose"],
         "referenced_links": [
-          {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
         ]
       }
     ]
@@ -1607,6 +1569,12 @@
         "excerpt": "The animal and human data together suggest that heavy use of MDMA may produce neurotoxicity, but typical (i.e., low to moderate) MDMA use may have no effect on brain structure and function. Human MDMA research, however, may have issues with experimental design, confounding variables, and methodological tech- niques (explained further in section IV and by Gouzoulis- Mayfrank and Daumann, 2006). In this review, we explore the functional consequences of MDMA use, specifically the effects on cognition, as potential indicators of MDMA-induced neurotoxicity",
         "keywords": ["toxicological effects", "dose"],
         "referenced_links": [
+          {
+            "authors": ["Gouzoulis-Mayfrank E.", "Daumann J."],
+            "title": "Neurotoxicity of methylenedioxyamphetamines (MDMA; ecstasy) in humans: how strong is the evidence for persistent brain damage? Addiction 101:348–361.",
+            "year": 2006,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/16499508/"
+          }
         ]
       }
     ]
@@ -1676,7 +1644,6 @@
         "excerpt": "The two most frequently reported causes of death include hyperthermia and hyponatremia.",
         "keywords": ["toxicological effects", "death", "hyperthermia", "hyponatremia"],
         "referenced_links": [
-
         ]
       }
     ]
