@@ -109,86 +109,82 @@
         "keywords": ["toxicological effects", "SERT", "dose", "serotonin"],
         "referenced_links": [
           {
-            "authors": [Buchert R, Thiele F, Thomasius R, Wilke F, Petersen K, Brenner W, Mester J, Spies L, Clausen M (2007) Ecstasy-induced reduction of the availability of the brain serotonin transporter as revealed by [11C](+)McN5652-PET and the multi-linear reference tissue model: loss of transporters or artifact of tracer kinetic modelling? J Psychopharmacol 21:628–634],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Buchert R.", "Thiele F.", "Thomasius R.", "Wilke F.", "Petersen K.", "Brenner W.", "Mester J.", "Spies L.", "Clausen M."],
+            "title": "Ecstasy-induced reduction of the availability of the brain serotonin transporter as revealed by [11C](+)McN5652-PET and the multi-linear reference tissue model: loss of transporters or artifact of tracer kinetic modelling? J Psychopharmacol 21:628–634",
+            "year": 2007,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/17092972/"
           },
           {
-            "authors": [McCann UD, Szabo Z, Seckin E, Rosenblatt P, Mathews WB, Ravert HT, Dannals RF, Ricaurte GA (2005) Quantitative PET studies of the serotonin transporter in MDMA users and controls using [11C]McN5652 and [11C]DASB. Neuropsychopharmacology 30: 1741–1750],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["McCann UD.", "Szabo Z.", "Seckin E.", "Rosenblatt P.", "Mathews WB.", "Ravert HT.", "Dannals RF.", "Ricaurte GA."],
+            "title": "Quantitative PET studies of the serotonin transporter in MDMA users and controls using [11C]McN5652 and [11C]DASB. Neuropsychopharmacology 30: 1741–1750",
+            "year": 2005,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/15841106/"
           },
           {
-            "authors": [Zhou FC, Tao-Cheng JH, Segu L, Patel T, Wang Y (1998) Serotonin transporters are located on the axons beyond the synaptic junctions: anatomical and functional evidence. Brain Res 805:241–254],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Zhou FC.", "Tao-Cheng JH.", "Segu L.", "Patel T.", "Wang Y."],
+            "title": "Serotonin transporters are located on the axons beyond the synaptic junctions: anatomical and functional evidence. Brain Res 805:241–254",
+            "year": 1998,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/9733975/"
           },
           {
-            "authors": [Battaglia G, Yeh SY, O’Hearn E, Molliver ME, Kuhar MJ, De Souza EB (1987) 3,4-Methylenedioxymethamphetamine and 3,4- methylenedioxyamphetamine destroy serotonin terminals in rat brain: quantification of neurodegeneration by measurement of [3H]paroxetine-labeled serotonin uptake sites. J Pharmacol Exp Ther 242:911–916],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Battaglia G.", "Yeh SY.", "O’Hearn E.", "Molliver ME.", "Kuhar MJ.", "De Souza EB."],
+            "title": "3,4-Methylenedioxymethamphetamine and 3,4- methylenedioxyamphetamine destroy serotonin terminals in rat brain: quantification of neurodegeneration by measurement of [3H]paroxetine-labeled serotonin uptake sites. J Pharmacol Exp Ther 242:911–916",
+            "year": 1987,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/2443644/"
           },
           {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Commins DL.", "Vosmer G.", "Virus RM.", "Woolverton WL", "Schuster CR.", "Seiden LS."],
+            "title": "Biochemical and histological evidence that methylenedioxymethylamphetamine (MDMA) is toxic to neurons in the rat brain. J Pharmacol Exp Ther 241:338–345",
+            "year": 1987,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/2883295/"
           },
           {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Molliver ME.", "Berger UV.", "Mamounas LA.", "Molliver DC.", "O’Hearn E.", "Wilson MA."],
+            "title": "Neurotoxicity of MDMA and related compounds: anatomic studies. Ann N Y Acad Sci 600:649–661 discus- sion 661-4",
+            "year": 1990,
+            "uri": "https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/j.1749-6632.1990.tb16916.x"
           },
           {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["O’Hearn E.", "Battaglia G.", "De Souza EB.", "Kuhar MJ.", "Molliver ME."],
+            "title": "Methylenedioxyamphetamine (MDA) and methylenedioxymethamphetamine (MDMA) cause selective ablation of serotonergic axon terminals in forebrain: immunocytochemical evidence for neurotoxicity. J Neurosci 8:2788–2803",
+            "year": 1988,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/2457659/"
           },
           {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Ricaurte GA.", "McCann UD."],
+            "title": "Neurotoxic amphetamine analogues: effects in monkeys and implications for humans. Ann N Y Acad Sci 648:371–382",
+            "year": 1992,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/1379014/"
           },
           {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Baumann MH.", "Wang X.", "Rothman RB."],
+            "title": "3,4- Methylenedioxymethamphetamine (MDMA) neurotoxicity in rats: a reappraisal of past and present findings. Psychopharmacology 189:407–424",
+            "year": 2007,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/16541247/"
           },
           {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Pubill D.", "Canudas AM.", "Pallas M.", "Camins A.", "Camarasa J.", "Escubedo E."],
+            "title": "Different glial response to methamphetamine- and methylenedioxymethamphetamine-induced neurotoxicity. Naunyn Schmiedeberg’s Arch Pharmacol 367:490–499",
+            "year": 2003,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/12684743/"
           },
           {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          },
-          {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          },
+            "authors": ["Wang X.", "Baumann MH.", "Xu H", "Rothman RB"],
+            "title": "3,4- Methylenedioxymethamphetamine (MDMA) administration to rats decreases brain tissue serotonin but not serotonin transporter protein and glial fibrillary acidic protein. Synapse 53:240–248",
+            "year": 2004,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/15266556/"
+          }
 
         ]
       }
     ]
   },
 
+
+
   {
-    "fact": "",
-    "keywords": ["toxicological effects"],
+    "fact": "Findings on 5-HT2A receptor binding in MDMA users are inconsistent and it is uncertain if there is a relationship between time of abstinence and 5-HT2A receptor binding.",
+    "keywords": ["toxicological effects", "SERT"],
     "references": [
       {
         "link": {
@@ -200,76 +196,16 @@
           "uri": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5021729/pdf/213_2016_Article_4396.pdf"
         },
         "page": 0,
-        "excerpt": "Eleven animal studies looked into the effects of MDMA on SERT binding, and all of them showed lower SERT [5-HT Transporter] binding, reaching statistical significant effects in ten of these studies (Table 3). The ES were large (ranging from −0.38 to −20.03), which indicates that the effect of MDMA on SERT binding is a robust finding in animals....As compared to human studies, an advantage of animal studies is that the animals were solely treated with MDMA. In humans, however, polydrug use is common, which makes it harder to look at the effects of MDMA per se (Gouzoulis-Mayfrank and Daumann 2006). Consequently, it may be hard to generalize the findings observed in animals to humans. Also, in animal studies, MDMA was administered frequently. Indeed, most of the an- imal studies administered MDMA twice a day for 4 days in a row, whereas humans typically only use one or two tablets of ecstasy in the weekend. Moreover, relatively high doses with- in a short interval (e.g. two doses per day for four consecutive days) of MDMA were used in the animal studies (range 20– 141 mg/kg), which may explain the large ES, and the drug was administered commonly intraperitoneally. However, some research indicates that due to differences in metabolism, neurotoxic dosages of MDMA are different between small animal species and primates. In rats, only high dosages of at least 20 mg/kg may be neurotoxic (Schmidt 1987). Using differences in clearance and body mass/surface area between monkeys and humans,...an estimation of the neurotoxic dosage of MDMA for a human can be made, which was estimated at 1.28 mg/kg by Ricaurte et al. (2000). As mentioned before, humans typically use one or two tablets of ecstasy, each con- taining approximately 138 mg (reflecting 2–4 mg/kg in a per- son of 70 kg) (Van Laar et al. 2015). This dosage may be in the neurotoxic range based on the prediction by Ricaurte et al. (2000). In contrast, Baumann et al. (2007) argued that inter- species scaling, which means adjusting doses between spe- cies, should not be used, because behavioural, endocrine and neurochemical reactions will occur at corresponding doses, around 1–2 mg/kg. Furthermore, other researchers argued that high doses, i.e. >25 mg/kg, of MDMA produce neurotoxicity to all types of neurons (Jensen et al. 1993).",
-        "keywords": ["toxicological effects"],
+        "excerpt": "So, all in all, findings on 5-HT2A receptor binding in MDMA users are inconsistent and it is uncertain if there is a relationship between time of abstinence and 5-HT2A receptor binding.",
+        "keywords": ["toxicological effects", "SERT"],
         "referenced_links": [
-          {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
         ]
       }
     ]
   },
   {
-    "fact": "",
-    "keywords": ["toxicological effects"],
-    "references": [
-      {
-        "link": {
-          "authors": [
-            "Yosta Vegting.", "Liesbeth Reneman.","Jan Booij"
-          ],
-          "title": "The effects of ecstasy on neurotransmitter systems: a review on the findings of molecular imaging studies",
-          "year": 2016,
-          "uri": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5021729/pdf/213_2016_Article_4396.pdf"
-        },
-        "page": 0,
-        "excerpt": "Consistent with findings in animals, 14 out of the 16 SERT studies performed in humans also showed significantly lower SERT [5-HT Transporter] binding, particularly in cortical brain areas....However, not all studies corrected for multiple comparisons. Ten studies examined SERT    binding in the occipital cortex, and in six of these studies, the decrease of SERT binding was most pronounced in this particular brain area, with ES ranging from −0.21 to −2.17. Several experimental studies have reported that, indeed, high doses of ecstasy affect preferentially 5-HT-ergic projec- tions to the occipital cortex (Oliveri and Calvo 2003). Hadzidimitrou and colleagues (1999) and Molliver et al. (1990) stated that axons with a great length, e.g. axons to the occipital cortex, have a higher sensitivity to neurotox- ic substances. Besides the cortical regions, forebrain re- gions were also examined. Four studies explored hippo- campal SERT, and in 3 out of these 4 studies was the SERT binding significantly reduced in MDMA users; however, only 2 were corrected for multiple comparisons....It has been shown that heavy MDMA users have verbal and visuo-spatial memory deficits, and loss of SERT in the hippocampus may contribute to these deficits (Bosch et al. 2013). For cognitive processes like language and memory, the thalamus is also very important (Herrero et al. 2002).",
-        "keywords": ["toxicological effects"],
-        "referenced_links": [
-          {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "fact": "",
-    "keywords": ["toxicological effects"],
-    "references": [
-      {
-        "link": {
-          "authors": [
-            "Yosta Vegting.", "Liesbeth Reneman.","Jan Booij"
-          ],
-          "title": "The effects of ecstasy on neurotransmitter systems: a review on the findings of molecular imaging studies",
-          "year": 2016,
-          "uri": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5021729/pdf/213_2016_Article_4396.pdf"
-        },
-        "page": 0,
-        "excerpt": "Three out of five imaging studies showed an increased 5- HT2A binding in MDMA users (Table 5).  In these three studies, the period of abstinence for ecstasy ranged between 2.0 and 169.8 weeks and ES ranged between 0.14 and 1.84....The other two studies showed a loss of 5-HT2A receptor binding, and in these studies, the period of abstinence ranged between 1.6 and 36.9 weeks....The [123I]R91150 SPECT study of Reneman et al. (2002c) showed that in recent MDMA users (mean time of abstinence 3.3 weeks), postsynaptic 5-HT2A receptor binding was significantly lower in all cortical areas studied, while 5-HT2A receptor densities were significantly higher in the occipital cortex of ex-MDMA users....Moreover, this study showed a significant positive correlation between cortical 5-HT2A receptor binding and duration of abstinence from MDMA (P < 0.01)....Also, the same study showed, using an ex vivo technique in rats and using the same radiotracer, a decrease of binding followed by a time-dependent recovery of cortical 5-HT2A receptor binding, which was strongly and positively associated with the degree of 5-HT depletion (Reneman et al. 2002c)....However, no positive correlation be-tween the 5-HT2A receptor binding and time of abstinence was found in the other studies (Di Iorio et al. 2012; Erritzoe et al. 2011; Urban et al. 2012). The time of abstinence in the study of Erritzoe et al. (2011) ranged between 1.6 and 36.9 weeks and in the study of Di Iorio et al. (2012) between 34 and 169.8 weeks, so these ranges should be large enough to eval- uate a possible correlation between 5-HT2A receptor binding and time of abstinence. Moreover, the study of Urban et al. (2012) did not show a decrease in receptor binding, although the subjects were also relatively recent MDMA users (mean time of abstinence 5.7 weeks, ranging from 2 to 8 weeks), comparable to the study of Reneman et al. (2002c). So, all in all, findings on 5-HT2A receptor binding in MDMA users are inconsistent and it is uncertain if there is a relationship be- tween time of abstinence and 5-HT2A receptor binding.",
-        "keywords": ["toxicological effects"],
-        "referenced_links": [
-          {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "fact": "",
-    "keywords": ["toxicological effects"],
+    "fact": "Cause of SERT binding alteration remains unclear",
+    "keywords": ["toxicological effects", "SERT"],
     "references": [
       {
         "link": {
@@ -282,8 +218,50 @@
         },
         "page": 0,
         "excerpt": "The main outcome of imaging research is commonly expressed in terms of increased or decreased receptor/ transporter binding; however, the cause of the alteration remains unclear in these studies....There are at least four explanations for the observed decrease in receptor/transporter binding: down-regulation and/or endocytosis of the receptor/transporter, neuronal damage resulting in loss of receptors/ transporters which are expressed on this particular neuron, decreased expression of protein levels of the receptor and endogenous neurotransmitter release induced by the drug which could reduce the binding of the radiotracer (e.g. administration of MDMA/ecstasy can induce 5-HT release, which can lead to lower 5-HT2A receptor availability)....In this regard, it is of interest that a study by Quelch et al. (2012) showed a significant reduction in the ability of the radioligand [3H]DASB to bind to the SERTs that are located intracellularly (as compared to binding on the SERT expressed on the cell membrane) and they speculate that down-regulation could (partly) explain the reductions in SERT binding in MDMA studies with the radioligand [11C]DASB, since MDMA has been shown to redistribute SERT into intracellular compartments Kivell et al. 2010)....To distinguish between causes of lower receptor/transporter binding, further research in animal brains, e.g. using electron microscopy (to assess internalization of receptor binding) or high-performance liquid chromatography to assess neurotransmitter concentrations and determination of Bmax (number of binding sites) and Kd (affinity for the receptor), would be helpful....Also, more translational research is necessary to examine in which conditions lower SERT binding may reflect neurotoxicity. This is relevant since it is still debated whether ecstasy use/administration is indeed neurotoxic. There are several techniques developed that claim to measure neurotoxicity, e.g. immunocytochemistry, immunohistochemistry, reactive gliosis and silver staining. However, these techniques differ in sensitivity and specificity and it can be questioned whether they all can demonstrate 5-HT neurotoxicity. Immunocytochemistry can be used to look at the structural and functional integrity of the assessed neurotransmitter system. Immunohistochemistry can be used to assess 5-HT axon degeneration; with this technique concentrations of 5- hydroxyindoleacetic acid (5-HIAA), 5-HT and the SERT can be measured (Battaglia et al. 1987; Commins et al. 1987). Glial activation (reactive gliosis) is a response to all nervous system injury, and silver staining is a direct way to stain degenerating neurons (O’Callaghan and Sriram 2005). However, there are several limitations of these techniques. It is argued that immunohistochemistry should be validated by other means, because the neurotransmitter levels could be un- measurable due to pharmacological depletions, while the neu- ron itself can be intact (Baumann et al. 2007; Chang and Slikker Jr 1995). Silver staining is not selective for damage to serotonergic axons but also measures loss of other types of neurons. However, this technique is very useful for measuring neuronal loss (Jensen et al. 1993; O’Callaghan and Miller 1993). In fact, no SPECT or PET tracer is available that can directly assess serotonergic/dopaminergic toxicity or degener- ation per se. So, until yet, whether or not a lowered receptor/ transporter binding as assessed by PET/SPECT studies in humans represents neurotoxicity is still a matter of interpretation . Importantly, MDMA is not only used recreationally. Some researchers proposed to treat patients with MDMA, e.g. as a catalyst in psychotherapy for PTSD patients (Amoroso 2015; Doblin et al. 2014; White 2014), which further highlights the need to be able to assess whether or not the use of ecstasy is neurotoxic to humans.",
-        "keywords": ["toxicological effects"],
+        "keywords": ["toxicological effects", "SERT"],
         "referenced_links": [
+          {
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
           {
             "authors": [],
             "title": "",
@@ -294,6 +272,9 @@
       }
     ]
   },
+
+
+
   {
     "fact": "",
     "keywords": ["toxicological effects"],
