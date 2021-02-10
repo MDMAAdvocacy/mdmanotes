@@ -549,10 +549,22 @@
         "keywords": ["toxicological effects"],
         "referenced_links": [
           {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Baumann, M.H.", "et al."],
+            "title": "Effects of dose and route of administration on pharmacokinetics of (+ or -)-3,4-methylenedioxymethamphetamine in the rat. Drug Metab Dispos, 2009. 37(11): p. 2163-70.",
+            "year": 2009,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/19679675/"
+          },
+          {
+            "authors": ["Concheiro, M.", "et al."],
+            "title": "Nonlinear pharmacokinetics of (+/-)3,4-methylenedioxymethamphetamine (MDMA) and its pharmacodynamic consequences in the rat. Drug Metab Dispos, 2014. 42(1): p. 119-25.",
+            "year": 2014,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/24141857/"
+          },
+          {
+            "authors": ["Mueller, M.", "et al."],
+            "title": "Direct comparison of (+/-) 3,4-methylenedioxymethamphetamine (\"ecstasy\") disposition and metabolism in squirrel monkeys and humans. Ther Drug Monit, 2009. 31(3): p. 367-73",
+            "year": 2009,
+            "uri": "https://core.ac.uk/download/pdf/10699263.pdf"
           }
         ]
       }
@@ -636,10 +648,15 @@
         "keywords": ["toxicological effects"],
         "referenced_links": [
           {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Frith, C.H.", "et al."],
+            "title": "Toxicity of methylenedioxymethamphetamine (MDMA) in the dog and the rat. Fundam Appl Toxicol, 1987. 9(1): p. 110-9.",
+            "year": 1987,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/2887476/"
+          },
+          {
+            "authors": ["Goad, P.T."],
+            "title": "Acute and subacute oral toxicity study of MDMA in rats (protocol number:EMD-AT-001, 1985) 1986: Unpublished; MAPS [Earth Metabolic Design Laboratories]",
+            "year": 1986
           }
         ]
       }
@@ -690,10 +707,34 @@
         "keywords": ["toxicological effects", "dose"],
         "referenced_links": [
           {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Cole, J.C.", "H.R. Sumnall."],
+            "title": "The pre-clinical behavioural pharmacology of 3,4-methylenedioxymethamphetamine (MDMA). Neurosci Biobehav Rev, 2003. 27(3): p.199-217.",
+            "year": 2003,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/12788333/"
+          },
+          {
+            "authors": ["Gurtman, C.G.", "et al."],
+            "title": "Increased anxiety in rats after 3,4-methylenedioxymethamphetamine: association with serotonin depletion. Eur J Pharmacol, 2002. 446(1-3): p. 89-96",
+            "year": 2002,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/12098589/"
+          },
+          {
+            "authors": ["Callahan, B.T.", "B.J. Cord.", "G.A. Ricaurte."],
+            "title": "Long-term impairment of anterograde axonal transport along fiber projections originating in the rostral raphe nuclei after treatment with fenfluramine or methylenedioxymethamphetamine. Synapse, 2001. 40(2): p. 113-21.",
+            "year": 2001,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/11252022/"
+          },
+          {
+            "authors": ["Hatzidimitriou, G.", "U.D. McCann.", "G.A. Ricaurte."],
+            "title": "Altered serotonin innervation patterns in the forebrain of monkeys treated with (+/-)3,4-methylenedioxymethamphetamine seven years previously: factors influencing abnormal recovery. J Neurosci, 1999. 19(12): p. 5096-107.",
+            "year": 1999,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/10366642/"
+          },
+          {
+            "authors": ["Green, A.R.", "et al."],
+            "title": "The pharmacology and clinical pharmacology of 3,4-methylenedioxymethamphetamine (MDMA, \"ecstasy\"). Pharmacol Rev, 2003. 55(3): p.463-508.",
+            "year": 2003,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/12869661/"
           }
         ]
       }
@@ -717,10 +758,10 @@
         "keywords": ["toxicological effects", "serotonin", "serotonin syndrome"],
         "referenced_links": [
           {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Green, A.R.", "et al."],
+            "title": "The pharmacology and clinical pharmacology of 3,4-methylenedioxymethamphetamine (MDMA, \"ecstasy\"). Pharmacol Rev, 2003. 55(3): p.463-508.",
+            "year": 2003,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/12869661/"
           }
         ]
       }
@@ -772,10 +813,10 @@
         "keywords": ["toxicological effects", "retinal"],
         "referenced_links": [
           {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Lv, X.F.", "L.M. Tao.", "H. Zhong."],
+            "title": "Long-term systemic administration with low dose of 3,4-methylenedioxymethamphetamine causes photoreceptor cell damage in CD1 mice. Cutan Ocul Toxicol, 2019. 38(1): p. 81-87.",
+            "year": 2019,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/30360644/"
           }
         ]
       }
