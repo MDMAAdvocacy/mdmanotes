@@ -221,51 +221,76 @@
         "keywords": ["toxicological effects", "SERT"],
         "referenced_links": [
           {
-            "authors": [],
+            "authors": ["Quelch DR.", "Parker CA.", "Nutt DJ.", "Tyacke RJ.", "Erritzoe D." Influence of different cellular environments on [(3)H]DASB radioligand bind- ing. Synapse 66:1035–1039],
+            "title": "",
+            "year": 2012,
+            "uri": ""
+          },
+          {
+            "authors": ["Kivell B.", "Day D.", "Bosch P.", "Schenk S.", "Miller J."  MDMA causes a redistribution of serotonin transporter from the cell surface to the intracellular compartment by a mechanism independent of phospho- p38-mitogen activated protein kinase activation. Neuroscience 168: 82–95],
+            "title": "",
+            "year": 2010,
+            "uri": ""
+          },
+          {
+            "authors": ["Battaglia G.", "Yeh SY.", "O’Hearn E.", "Molliver ME.", "Kuhar MJ.", "De Souza EB." (1987) 3,4-Methylenedioxymethamphetamine and 3,4- methylenedioxyamphetamine destroy serotonin terminals in rat brain: quantification of neurodegeneration by measurement of [3H]paroxetine-labeled serotonin uptake sites. J Pharmacol Exp Ther 242:911–916],
+            "title": "",
+            "year": 1987,
+            "uri": ""
+          },
+          {
+            "authors": ["Commins DL.", "Vosmer G.", "Virus RM.", "Woolverton WL.", "Schuster CR.", "Seiden LS." (1987) Biochemical and histological evidence that methylenedioxymethylamphetamine (MDMA) is toxic to neurons in the rat brain. J Pharmacol Exp Ther 241:338–345],
+            "title": "",
+            "year": 1987,
+            "uri": ""
+          },
+          {
+            "authors": ["O’Callaghan JP.", "Sriram K." (2005) Glial fibrillary acidic protein and related glial proteins as biomarkers of neurotoxicity. Expert Opin Drug Saf 4:433–442
+            ],
             "title": "",
             "year": 9999,
             "uri": ""
           },
           {
-            "authors": [],
+            "authors": ["Baumann MH.", "Wang X.", "Rothman RB." (2007) 3,4- Methylenedioxymethamphetamine (MDMA) neurotoxicity in rats: a reappraisal of past and present findings. Psychopharmacology 189:407–424],
             "title": "",
-            "year": 9999,
+            "year": 2007,
             "uri": ""
           },
           {
-            "authors": [],
+            "authors": ["Chang LW.", "Slikker Jr W." (1995) Neurotoxicology: approaches and methods. Academic Press],
             "title": "",
-            "year": 9999,
+            "year": 1995,
             "uri": ""
           },
           {
-            "authors": [],
+            "authors": ["Jensen KF.", "Olin J.", "Haykal-Coates N.", "O’Callaghan J.", "Miller DB.", "de Olmos JS." (1993) Mapping toxicant-induced nervous system dam- age with a cupric silver stain: a quantitative analysis of neural de- generation induced by 3, 4-methylenedioxymethamphetamine. NIDA Res Monogr 136:133–149],
             "title": "",
-            "year": 9999,
+            "year": 1993,
             "uri": ""
           },
           {
-            "authors": [],
+            "authors": ["O’Callaghan JP.", "Miller DB." (1993) Quantification of reactive gliosis as an approach to neurotoxicity. Assess Neurotoxic Drugs Abuse 136: 188–212],
             "title": "",
-            "year": 9999,
+            "year": 1993,
             "uri": ""
           },
           {
-            "authors": [],
+            "authors": ["Amoroso T." (2015) The psychopharmacology of +/-3,4 methylenedioxymethamphetamine and its role in the treatment of posttraumatic stress disorder. J Psychoactive Drugs:1–8],
             "title": "",
-            "year": 9999,
+            "year": 2015,
             "uri": ""
           },
           {
-            "authors": [],
+            "authors": ["Doblin R.", "Greer G.", "Holland J.", "Jerome L.", "Mithoefer MC.", "Sessa B." (2014) A reconsideration and response to Parrott AC (2013) BHuman psy- chobiology of MDMA or ‘Ecstasy’: an overview of 25 years of empirical research^. Hum Psychopharmacol 29:105–108],
             "title": "",
-            "year": 9999,
+            "year": 2014,
             "uri": ""
           },
           {
-            "authors": [],
+            "authors": ["White CM." (2014) 3,4-Methylenedioxymethamphetamine’s (MDMA’s) impact on posttraumatic stress disorder. Ann Pharmacother 48: 908–915],
             "title": "",
-            "year": 9999,
+            "year": 2014,
             "uri": ""
           }
         ]
