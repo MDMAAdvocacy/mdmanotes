@@ -1,0 +1,59 @@
+[
+
+  {
+    "_id": {
+      "$oid": "5f6afb97ba4228b86dcd4e57"
+    },
+    "fact": "MDMA is monoamine reuptake inhibitor that leads to monoamine release and inhibits monoamine oxidase-A",
+    "keywords": [
+      "pharmacological effects"
+    ],
+    "references": [
+      {
+        "link": {
+          "authors": [
+            "Multidisciplinary Association for Psychedelic Studies (MAPS)"
+          ],
+          "title": "Investigator’s Brochure",
+          "year": 2019,
+          "uri": "https://mapscontent.s3-us-west-1.amazonaws.com/research-archive/mdma/MDMA-Investigator-Brochure-IB-11thEdition-MAPS-2019-07-10.pdf"
+        },
+        "page": 53,
+        "excerpt": "As a monoamine reuptake inhibitor that leads to monoamine release and inhibits monoamine oxidase-A [146] combining MDMA with a monoamine oxidase inhibitor (MAOI) medication presents a risk for provoking serotonin syndrome and increases in sympathetic activity. Fatalities have occurred apparently as a result of combining MAOI medications with MDMA [147, 148]. For this reason, MAOI medications are tapered for at least five half-lives of the medication and active metabolites, plus 1 week for symptom stabilization in sponsor-supported studies.",
+        "keywords": [
+          "pharmacological effects"
+        ],
+        "referenced_links": [
+          {
+            "authors": [
+              "Leonardi, E.T.",
+              "E.C. Azmitia."
+            ],
+            "title": "MDMA (ecstasy) inhibition of MAO type A and type B: comparisons with fenfluramine and fluoxetine (Prozac). Neuropsychopharmacology, 1994. 10(4): p. 231-8.",
+            "year": 1994,
+            "uri": "https://www.nature.com/articles/npp199426"
+          },
+          {
+            "authors": [
+              "Pilgrim, J.L.",
+              "et al."
+            ],
+            "title": "Serotonin toxicity involving MDMA (ecstasy) and moclobemide. Forensic Sci Int, 2012. 215(1-3): p. 184-8.",
+            "year": 2012,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/21570786/"
+          },
+          {
+            "authors": [
+              "Vuori, E.",
+              "et al."
+            ],
+            "title": "Death following ingestion of MDMA (ecstasy) and moclobemide. Addiction, 2003. 98(3): p. 365-8.",
+            "year": 2003,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/12603236/"
+          }
+        ]
+      }
+    ]
+  }
+
+]
