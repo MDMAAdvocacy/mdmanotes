@@ -1,102 +1,8 @@
 [
 
 
-
-
   {
-    "fact": "",
-    "keywords": ["toxicological effects"],
-    "references": [
-      {
-        "link": {
-          "authors": [
-            "Multidisciplinary Association for Psychedelic Studies (MAPS)"
-          ],
-          "title": "Investigator’s Brochure",
-          "year": 2019,
-          "uri": "https://mapscontent.s3-us-west-1.amazonaws.com/research-archive/mdma/MDMA-Investigator-Brochure-IB-11thEdition-MAPS-2019-07-10.pdf"
-        },
-        "page": 0,
-        "excerpt": "The majority of toxicological studies employed multiple dosing regimens to account for the shorter drug half-life in animals compared to humans, with doses ranging from 5 mg/kg to 20 mg/kg, via s.c., i.p., oral, or gavage administration. Frequently, doses are administered at regular intervals of two to four times per day. Other regimens employ these doses once daily for 5 or 7 days. Nearly all preclinical toxicology data is derived from repeated dose studies....Preclinical research selected doses through use of simple dose conversions or allometric scaling, a method of modeling human equivalent doses in other species [377]. Comparison of pharmacokinetic data (Cmax, AUC, Tmax) for plasma MDMA concentrations between humans and rodents, considering the impact of route of administration, it is difficult to translate the relevance of high dose multi- day dosing findings in preclinical toxicity studies to intermittent dosing regimens in humans...In order to establish the DMF [drug master file] and IND [investigational new drug] for MDMA, MAPS sponsored randomized 28-day repeated dose general toxicity studies in both genders of Sprague-Dawley rats (53 male, 52 female) (MDMA 0, 10, 50, 100 mg/kg oral gavage) and the dog (12 male, 12 female) (MDMA 0, 3, 9, 15 mg/kg oral dosing with gelatin capsules) [378]. The initial highest dose was set at 18 mg/kg but after the death of one female dog, the highest dose was subsequently reduced to 15 mg/kg. Dosing was once daily for 28 days. This research was performed within the USA, which is a member of the Mutual Acceptance of Data (MAD) program, and studies were conducted in compliance with GLP in the USA based on standards in 1986 to the satisfaction of FDA. Both sexes of dogs administered 9 and 15 mg/kg of MDMA and rats receiving 50 and 100 mg/kg gained less weight than controls and the 3 mg/kg group, with significant differences in food consumption observed as early as the first week which were no longer significantly different by the third week for the rats and the fourth week for the dogs. Gross observations at necropsy in the dog possibly related to MDMA included reduced testicular size for one of three dogs receiving 9 mg/kg and one of three dogs receiving 15 mg/kg and prostatic enlargement in two dogs receiving 15 mg/kg. No gross lesions were seen in the rats at necropsy. Blood chemistry and urinalysis values were unremarkable in the dog. Clinical pathology findings showing a trend to decrease with dose in the rat were urinary pH, blood urea nitrogen, glucose, creatinine (females), lactate dehydrogenase (females), and chloride, in contrast total white blood cell count (WBC) and phosphorus showed a trend to increase with dose. No MDMA-related lesions were seen in the brains of either species. Histopathological examinations showed mild, diffuse atrophy in the two dogs with reduced testicular size. Mild, focal atrophy was furthermore observed in the testes of one additional dog from the 15 mg/kg group. The two dogs with grossly enlarged prostates showed hyperplasia of the prostate. Brain lesions attributable to MDMA were observed in five of ten male rats administered 100 mg/kg (no lesions were observed in females). These lesions presented as vacuolated lesions apparent in the fiber tracts of the brainstem adjacent to the trigeminal nuclei. Possibly MDMA-related lesions were observed in the CNS of the dogs as well. In the cerebrum, these lesions included floccular changes of white matter, focal neural malacia and focal cellular infiltrates. Neural chromatolysis was observed in the brainstem. However, the authors noted that it is difficult to extrapolate the findings due to the low sample size (three dogs per gender per group)...A study administering Sprague-Dawley rats 40 mg/kg or 80 mg/kg of MDMA twice a day for four days showed no morphological brain changes. Neurochemical brain changes related to MDMA administration included a 50% decrease in serotonin (5-HT) and 5-Hydroyindoleacetic acid (5-HIAA) at both dosing levels. This decrease was apparent both two and four weeks after treatment. A temporary 34% decrease in homovanillic acid (HVA) was observed in the 80 mg/kg group at two weeks after treatment. Four weeks after treatment the HVA levels had returned to normal. These findings indicate that several, high dose administrations of MDMA produce long term reductions (4 weeks) in 5-HT and 5-HIAA in the rat while having no apparent effect on the dopaminergic system. [379]...In a sponsor-supported study of Sprague-Dawley rats, oral toxicity was assessed in a 13-day increasing dose regimen [380]. The initial dose started at 25 mg/kg and was increased by 25 mg/kg on a daily basis until 300 mg/kg was reached. Adverse reactions were observed in all doses above 25 mg/kg and included hyperexcitability, uncontrolled urination, piloerection and bulging eyes. Tremors, muscle spasms, impaired movement, convulsions and death were observed in the highest of dose levels (not listed in original report). Deaths occurred at doses in the range of 150 and 300 mg/kg. Blood chemistry analyses suggested possible liver and kidney damage in animals receiving higher doses, however, gross pathology and microscopy found no treatment-related damage to the liver. The only renal change observed microscopically was mild to minimal hydronephrosis, which the researchers attributed to treatment-related polyuria (abnormally large urine production). Minimal tubular atrophy was seen in the testes of 3 of the 20 treated male rats, suggesting a possible relationship between high dose, repeated MDMA treatment and minimal testicular atrophy in the male rat. Gross pathology revealed reddened lungs and enlarged urinary bladders (most likely polyuria-related) in some animals and were deemed potentially treatment-related. Histopathological observations of brain tissue revealed no signs of brain damage in any of the treated rats....Findings from an examination of ovarian tissue in vitro and in vivo (5 mg/kg daily x 3) reported effects seen in vitro, such as resuming meiosis, but in vivo exposure did not produce changes in gene activity in ovarian cells [381]. The authors acknowledge differences in metabolism between rats and humans. Their research examined a wide array of different environmental otherwise unrelated compounds that were viewed as potential environmental ‘contaminants,’ wherein the authors hypothesized that short-term exposure to MDMA and other compounds was mitigated by a protective effect of specific ovarian cells (cumulus cells).",
-        "keywords": ["toxicological effects"],
-        "referenced_links": [
-          {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
-        ]
-      }
-    ]
-  },
-
-
-  {
-    "fact": "",
-    "keywords": ["toxicological effects"],
-    "references": [
-      {
-        "link": {
-          "authors": [
-            "Multidisciplinary Association for Psychedelic Studies (MAPS)"
-          ],
-          "title": "Investigator’s Brochure",
-          "year": 2019,
-          "uri": "https://mapscontent.s3-us-west-1.amazonaws.com/research-archive/mdma/MDMA-Investigator-Brochure-IB-11thEdition-MAPS-2019-07-10.pdf"
-        },
-        "page": 0,
-        "excerpt": "MDMA (15 mg/kg, s.c.) administered to pregnant rats was detected in amniotic fluid [384] indicating the potential for neonatal exposure. Preliminary teratological studies in rats (N=12 per dose) given 0, 2.5, or 10 mg/kg MDMA by gavage on alternate gestational days (GD) 6 to 18 found no abnormalities in gestational duration, litter size, neonatal birth weights, or birth defects (N=10 litters per dose), despite statistically significant reduction in maternal weight gain at 10 mg/kg [385]. These results are in contrast to physiological abnormalities resulting from prenatal methamphetamine and d-amphetamine exposure in mice and rabbits [386]....In a single-generation fertility and developmental toxicity study, C57BL/6 mice (N=25 per dose per gender) received a daily dose of 0, 1.25, 5, or 20 mg/kg MDMA via gavage [387]. Dosing for females spanned 2 weeks before mating through GD15 of pregnancy. Dosing for males spanned 4 weeks through the first day of pregnancy. There were no cases of MDMA-related mortality in females at all treatment levels. Gross necropsy of organs of MDMA-treated groups of male and female mice were unremarkable. No changes in copulation or fertility indices arose in MDMA- treated animals, but fewer pregnancies arose in all three MDMA-treated groups. When the fetuses were examined, no external, visceral, or skeletal malformations were detected in control or 1.25 mg/kg groups, but at 5 mg/kg (2 of 129) and 20 mg/kg (5 of 138) fetuses exhibited a cleft palate, anophthalmia, or skeletal malformations (short tail). Taken together, these studies suggest that MDMA has weak reproductive or developmental toxicity at high doses when MDMA exposure starts 2 weeks prior to mating and continues through GD15, which temporally covers ovulation through organogenesis and closure of the hard palate, in the females and spermatogenesis in the males....In a separate perinatal/postnatal toxicity study done by the same researchers, C57BL/6 female mice (N=25) received a daily dose of 0, 1.25, 5, or 20 mg/kg MDMA via gavage daily from GD6 slightly after implantation through postnatal day (PND) 21 end of lactation [387]. Pup viability was assessed daily and gross external examination of pups occurred on PND 0, 4, 7, 14, 21, and 28. Behavioral and physical indices of development were observed in the F1 animals, such as pinnae detachment and righting reflex. Testes descent in males occurred on PND20 and vaginal opening occurred in selected females on PND30. Delivery and post-partum (nesting) behavior did not differ across treatment groups, and no MDMA-related differences in pup viability were detected, including pup survival rate and sex ratios per litter. No significant abnormalities were observed at necropsy of mice either found dead at lactation or killed at PND20. In contrast to the first study described above where MDMA was given 2 weeks before mating through GD15, when MDMA was given to only the females from GD6 to the end of lactation (both studies covered the period of organogenesis and closure of hard palate), there were no signs of impaired development and no significant differences in sexual development or reproductive capacity of F1 and F2 mice. This suggests that either dual exposure of male and female breeding pairs exacerbated reproductive toxicity, or possible evidence of a critical period for MDMA reproductive toxicity prior to organogenesis....Male fertility after prenatal exposure was studied in male pups born to female Sprague-Dawley rats (N=6 per group) that received 0, 0.5, 5, or 10 mg/kg s.c. daily for three consecutive days per week for 10 weeks, including gestation and 3 weeks of lactation [388]. These females were mated with untreated males. The 5 mg/kg s.c. dose is two-fold greater than a human-equivalent dose based on plasma levels in other studies [86, 127, 132] and s.c dosing leads to higher plasma levels then dosing by gavage which was used in the studies above. There were no signs of toxicity in the 0.5 and 5 mg/kg groups, but dams in the 10 mg/kg group showed signs of sickness the week before delivery, and four of the six receiving 10 mg/kg and one of the five receiving 5 mg/kg were found dead at or prior to GD16. Mortality at 10 mg/kg s.c. indicates that this dose is too high for use in reproductive toxicity studies; the authors subsequently discontinued the 10 mg/kg dose after week 10. Vestibular and motor function were assessed on PND21, with no differences between groups. Balano-preputial separation happened later than controls after 5 mg/kg in male pups on PND37-54. There were no differences in mating or fertility rate in F1 males. Hormone levels were similar across groups at PD81 and sperm morphology was unaffected. However, MDMA administration resulted in a significant higher incidence of DNA damage in Comet Test of sperm DNA at 5 mg/kg in relation to the control group. Minor dose-dependent alterations were seen in testicles, spleen and kidneys. There were no pathologies of the epididymis. Testicles showed a slight decrease in numbers of germ cells in 5 mg/kg treated rats...A second study investigated male fertility after 0.5, 5 and 10 mg/kg administered s.c. once daily three times per week in rats (N=20 per group) for 12 weeks, covering puberty to onset of sexual maturity [389]. Ten rats per dose were mated with untreated females, with mating behavior alone serving as measure of reproductive function without reporting signs of conception. The other 10 rats per group were examined for testicular and sperm parameters, including sperm count and motility and morphology. There was a dose-dependent increase in tubular degeneration in testes in MDMA-treated rats, but sperm motility and morphology were unaffected. A 28-day repeated dose, sponsor-supported preclinical study, showed gross reductions in testicular size and microscopic evidence of testicular atrophy and prostatic enlargement. Mild testicular atrophy was observed microscopically in one of three dogs for the medium (9 mg/kg) and two of three dogs in the high (15 mg/kg) dose groups [378]. Prostatic enlargement was observed in two out of three dogs in the 15 mg/kg dose group. Thirteen days of repeated, increasing doses in the rat, starting at 25 mg/kg and ending at 300 mg/kg resulted in tubular atrophy in the testes of 3 of 20 rats [380]. When compared with sham-treatment or controls, testicular tissue from male rats that received daily injections of 5 or 10 mg/kg MDMA for 16 days exhibited increases in heat shock protein 70 (HSP70) and signs of apoptotic cells [390]. Taken together, these studies suggest minimal male fertility toxicity at human-equivalent doses, with signs of increased toxicity at higher doses....In an initial developmental toxicity study, pregnant rats were administered twice-daily injections of high doses of MDMA (15 mg/kg) or saline from embryonic days (E) 14 to 20. Rat pups that had received MDMA showed reductions in the dopamine metabolite homovanillic acid, along with reductions in the serotonin metabolite 5-HIAA. Prenatally exposed MDMA animals also had reduced dopamine and serotonin turnover in the nucleus accumbens [391]. The same team reported postnatal exposure to MDMA correlated with reductions in serotonin and its metabolite, as well as significant increases in dopamine turnover and the prevalence of a dopamine metabolite in multiple forebrain structures and the brainstem. BDNF was significantly increased (19% to 38%) in all forebrain structures and in the brainstem in MDMA-exposed neonates [392]. The researchers proposed that the increase in BDNF was compensating to minimize MDMA effects. However, later studies found that neonatal MDMA exposure did not affect hippocampal concentrations of serotonin or dopamine [393] and that enhanced BDNF detected in the occipital lobe did not mediate the abnormal serotonergic signaling observed following neonatal MDMA exposure [394]. PND 11 and 20 were proposed to be equivalent to the third trimester of gestation in humans [392], so it is possible that exposure to high doses of MDMA in utero could have developmental effects, but these do not appear to be related to BDNF levels. The doses used in the rat studies are approximately eight to 10 times greater than a human equivalent dose....Prenatal MDMA exposure at high doses significantly increased locomotor activity of rat pups in a 20-minute novel cage environment test [391]. Rodents treated with MDMA during development were not significantly different than rodents who received MDMA as adults. The results of several behavioral tests indicate that developmental MDMA exposure combined with adult exposure may interfere with some aspects of learning, including visual-spatial memory and time spent with a novel object [393]. Neonatal MDMA administration did not alter working memory in the object-recognition test in young adulthood (PD 68 to 73) and there were no differences in binding of the radiolabeled selective serotonin reuptake inhibitors (SSRI) citalopram to the SERT at this age....However, the pretreated animals showed increased thermal dysregulation and serotonin syndrome responses following MDMA challenge, especially with respect to head- weaving stereotypy [395]. Another team also found that neonatal rat MDMA exposure exacerbated hyperthermic response to a subsequent dose to MDMA [396]. A study in neonatal rats suggests two distinct critical periods wherein repeated doses affected learning versus acoustic startle [397]. Serotonergic factors may be involved in the developmental effects of MDMA, with the SSRI citalopram producing similar learning impairments in neonatally exposed rats [398]. Given differences between human and rodent development and thermoregulation, it is not clear whether such findings can be generalized to humans (see Section 4.2.2.3 Thermoregulatory Effects in Animals)....Previous research supported a possible link between Ecstasy use and birth defects [399], while an epidemiological study of a large cohort of pregnant women in England conducted in 2004 failed to support this link, at least in respect to a specific cardiac defect [400]. However, the authors also stated that exposure to MDMA in their sample was too low to establish risk. An earlier survey of a drug-using population suggests that most women cease using Ecstasy when they learn they are pregnant [401]. A 2012 survey of 96 women in the UK interviewed about their drug use during pregnancy found a link between self-reported extent of prenatal MDMA exposure and delays in infant development at 12 months, with heavily exposed infants delayed in mental and motor development, but not language or emotional development [402]. These results were repeated in a 2016 survey of 96...Since there may be a critical period during which exposure to MDMA could alter development, and as a result of the relative lack of information concerning its...developmental toxicity, women who are pregnant or who are not using an effective means of birth control should not receive MDMA in clinical trials. None of the sponsor’s studies enroll pregnant or lactating participants .",
-        "keywords": ["toxicological effects"],
-        "referenced_links": [
-          {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
-        ]
-      }
-    ]
-  },
-
-  {
-    "fact": "",
-    "keywords": ["toxicological effects"],
-    "references": [
-      {
-        "link": {
-          "authors": [
-            "Multidisciplinary Association for Psychedelic Studies (MAPS)"
-          ],
-          "title": "Investigator’s Brochure",
-          "year": 2019,
-          "uri": "https://mapscontent.s3-us-west-1.amazonaws.com/research-archive/mdma/MDMA-Investigator-Brochure-IB-11thEdition-MAPS-2019-07-10.pdf"
-        },
-        "page": 0,
-        "excerpt": "In a 13-day toxicity study, using repeated and increasing dosing, ranging from 25 mg/kg to 300 mg/kg caused no changes in the brain tissue of treated rats compared to controls [380]. A 28-day repeated dose, toxicity study in the rat showed vacuolar changes in the brainstem adjacent to the trigeminal nuclei in one of ten animals receiving 50 mg/kg of MDMA and similar lesions in five of ten animals receiving 100 mg/kg. [379] Lesions were also observed in the CNS of MDMA- treated dogs in an identical toxicology study with doses of 3, 9 and 15 mg/kg, however the presence of the lesions was not dose-dependent, suggesting that they could be background events. These lesions included white matter changes, neural malacia and cellular infiltrates of the cerebrum. Neural chromatolysis was observed in the brainstem. The pathogenesis of these changes is unknown. Another sponsor-supported study of male Sprague-Dawley rats using 40 mg/kg and 80 mg/kg twice a day for four days did not produce any morphological brain changes but found a reduction in serotonin (5-HT) and 5-Hydroyindoleacetic acid (5-HIAA) at both dosing levels [379]....Research conducted from 2018 to 2019 has focused on hypothesized contributing factors involved in MDMA neurotoxicity. Autophagy, a means of addressing dysfunctional organelles or abnormal proteins that are considered a marker of environmental stress. In vitro studies with mouse brainstem tissue that exposed cells to high doses of MDMA (100 to 1000 μM) for 24, 48 or 72 hours and using immunoassays detected signs of autophagy after 1000 μM at 24 hours and 500 μM after 72 hours [453]. An in vivo study in rats that received twice-daily doses of 10 mg/kg MDMA for four consecutive days. MDMA increased signs of autophagy in dorsal raphe and reduced indicators of brain serotonin transporter, while inhibiting autophagy attenuated reduction in SERT markers [454]....Reducing autophagy also reduced corticosterone release and reduction in activity during the “forced swim” test, considered a rodent model of antidepressant action, with more time spent swimming a sign of antidepressant drug activity. The authors consider these findings a demonstration that autophagy plays a key role in MDMA neurotoxicity. These studies do not address whether these processes occur in humans, or during lower, less intensive dose regimens.",
-        "keywords": ["toxicological effects"],
-        "referenced_links": [
-          {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
-        ]
-      }
-    ]
-  },
-
-
-
-
-
-
-
-
-  {
-    "fact": "",
+    "fact": "MDMA must be administered systemically for neurotoxicity to occur",
     "keywords": ["toxicological effects"],
     "references": [
       {
@@ -109,19 +15,174 @@
           "uri": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3931692/pdf/sar-4-083.pdf"
         },
         "page": 0,
-        "excerpt": "Time-course studies demonstrated a biphasic action of MDMA consisting of the initial 5-HT depletion discussed earlier, a short-term recovery of 5-HT levels seen at 1–2 days following dosing, and then a secondary, more long-lasting depletion measured at 1–2 weeks and beyond.33 Histological examination of brain tissues from treated rats and monkeys consistently showed a persistent reduction in the density of axons immunoreactive for 5-HT or for SERT (Figure 1). Moreover, staining of brain tissues obtained at earlier time points revealed swollen axons and a positive reaction for silver staining, both of which are consistent with the notion of drug-induced axonal degeneration.33,81...The latter observations coupled with the apparent loss of serotonergic axons stained with immunohistochemi- cal methods quickly gave rise to the hypothesis that high doses of MDMA cause a degeneration of rostral forebrain serotonergic fibers.33,81 Nevertheless, other experimental approaches suggest that MDMA may not be causing long- lasting physical damage to the serotonergic fibers; rather, there is evidence that serotonergic neurons are responding to the drug by dramatically reducing expression of the genes for SERT and for tryptophan hydroxylase.82,83 According to this downregulation hypothesis, long-lasting reductions in gene expression can explain both the persistent depletion of 5-HT (because tryptophan hydroxylase activity is too low to sustain normal levels of this neurotransmitter) and the seem- ing disappearance of fibers that are immunoreactive for 5-HT or SERT (ie, the “lost” fibers are still present but are difficult to visualize due to the substantial decrease in both 5-HT and SERT protein; see Biezonski and Meyer83 for a discussion of the neurodegeneration versus downregulation hypothesis of MDMA neurotoxicity)....Regardless of which hypothesis is proven correct, two important points should be noted. First, proponents of the neurodegeneration hypothesis focus on the apparent loss of serotonergic fibers in the forebrain; the cell bodies of the serotonergic neurons in the midbrain raphe nuclei appear to be spared (ie, MDMA is generally not thought to cause serotonergic nerve cell death). Second, even if forebrain serotonergic fibers are not physically damaged, as postulated by the downregulation hypothesis, long-lasting deficits in 5-HT levels and in SERT expression would still cause severe dysfunction of the serotonergic system. In this broader sense, MDMA is a serotonergic neurotoxin accord- ing to both hypotheses....Long-term studies of MDMA-treated animals indi- cate that a reappearance of serotonergic fibers and 5-HT reuptake sites occurs over time; however, recovery may take many months following extremely high doses of the drug.33 Moreover, some rats and monkeys exhibited abnormal fiber patterns after recovery had occurred,33 and, in one highly cited paper from Hatzidimitriou et al, forebrain 5-HT- immunoreactive fibers were still abnormal in monkeys at 7 years after dosing.84 Such findings are remarkable in showing the potential persistence of MDMA-related disturbances in serotonergic function....Several factors influence the extent and the characteristics of MDMA-induced neurotoxicity. The first factor is dose of the drug. Not surprisingly, the greatest degree of 5-HT depletion is produced by high (and typically multiple) doses of MDMA (eg, four injections of 10 mg/kg given to rats at 2-hour intervals in a single day). However, serotonergic deficits have been reported following single doses at lower levels. A recent example comes from Mueller et al,85 who reported that single oral doses as low as 5.7 mg/kg given to squirrel monkeys produced statistically significant reductions in 5-HT concentrations and SERT binding in many forebrain areas when measured 1 week after drug administration. Do and Schenk86 also found that intravenous self-administration of a relatively low dose of MDMA (0.5–1.0 mg/kg per infusion) by rats eventually led to 30%–35% reductions in forebrain 5-HT, though the cumulative amount of drug taken by the animals over time was 315 mg/kg....Second, there are important species differences in MDMA neurotoxicity. For example, in laboratory mice, MDMA exerts much greater deleterious effects on the dopamine system than on the serotonergic system.87 Whereas rats do exhibit some dop- aminergic effects at high MDMA doses, there is relatively little actual depletion of dopamine compared to that found in mice.87,88 The reason for this species difference has not yet been determined...Third, ambient temperature can modulate the extent of MDMA-induced neurotoxicity. As mentioned earlier, at the typical temperatures found in a laboratory animal colony room, a human residence, or a dance club, MDMA elevates core body (and brain) temperature. The significance of this hyperthermic effect can be seen by the fact that, in rats maintained in a slightly cooler environment, MDMA administration led to a hypothermic instead of a hyperthermic response, and the hypothermic animals failed to exhibit reductions in brain 5-HT.89...Finally, prior exposure to low-to-moderate doses of MDMA can blunt or even prevent the neurotoxic effects of a subsequent high-dose treatment regimen.90,91 It is not yet known whether this effect, which has been termed “MDMA preconditioning,” applies to human recreational ecstasy users....Substantial effort has been devoted to elucidating the cellular and molecular mechanisms of MDMA neurotoxicity. One of the important findings to emerge from this work is that MDMA must be administered systemically for neurotoxicity to occur. That is, microinjection of the drug directly into the brain fails to produce 5-HT depletion despite causing acute release of 5-HT.92 This finding has been interpreted by some researchers to mean that MDMA must be subjected to periph- eral metabolism (eg, in the liver) to produce neurotoxicity.93,94 Consistent with that view, neurotoxic metabolites of MDMA have been detected in rat brain and in human urine after MDMA ingestion. 93,94 Other studies, however, do not support the neurotoxic metabolite hypothesis.95,96 Regardless of the exact nature of the toxic agent, it is believed that this sub- stance is carried into the serotonergic neurons by way of the 5-HT uptake system, because blockade of SERT with an SSRI attenuates or even blocks MDMA-induced neurotoxicity.97 Once inside the serotonergic neurons, the toxic agent is thought to exert its effects by increasing the formation of oxygen-containing free radicals (ie, reactive oxygen spe- cies [ROS]), thereby producing oxidative stress on the cells....The central concept that MDMA-induced neurotoxicity is mediated by ROS is supported by studies demonstrating the formation of such species within the brains of MDMA- treated animals and the ability of antioxidants and free radi- cal scavengers to block the drug’s neurotoxic effects.98,99 An alternate neurotoxicity model hypothesizes that DA levels are increased within the serotonergic neurons due to a combina- tion of direct DA uptake via SERT and uptake of tyrosine with subsequent conversion to the DA precursor dihydroxy- phenylalanine (DOPA) and then to DA.98,99 According to this model, metabolism of the abnormally accumulated DA by monoamine oxidase B (MAO-B) within the serotonergic cells generates hydrogen peroxide, which can then undergo further chemical reactions to produce ROS and oxidative stress. On the other hand, studies by Yuan et al100 have yielded evidence against the DA hypothesis. To summarize, oxidative stress is likely to play a key role in MDMA-induced neurotoxicity; however, the cellular and molecular events that lead to ROS formation are not yet fully understood....Of critical importance is whether repeated use of ecstasy (or even a single dose) exerts neurotoxic effects in the human brain. Some investigators have questioned the relevance of animal (particularly rat) studies of MDMA neurotoxicity because the doses typically administered to the animals are much higher than those taken by most recre- ational ecstasy users and because of important differences in MDMA metabolism between rodents and humans.101–103 The latter issue limits the potential accuracy of using interspe- cies dose scaling to translate rodent MDMA doses to the amounts estimated to be consumed by recreational ecstasy users....On the other hand, a combination of biochemical and neuroimaging findings from the human ecstasy literature support the contention that “heavy” users may suffer from serotonergic deficits as well as other neurobiological abnormalities....Early studies found reduced levels of 5-hydroxy- indoleacetic acid (5-HIAA) in the cerebrospinal fluid of ecstasy users as well as blunted hormonal responses to various serotonergic drugs.33...More recently, Kish et al1 reported on a single case study of a 26-year-old man who used extremely large amounts of ecstasy (along with some cocaine and heroin) for several years before dying of an apparent drug overdose....Biochemical analyses of postmor- tem brain tissues revealed massive reductions in 5-HT and 5-HIAA levels in both the cortex and striatum compared to control tissues. These changes were accompanied by substantial decreases in SERT and tryptophan hydroxylase protein levels, which are further indications of serotonergic neurotoxicity in this subject....In addition to the important information gleaned from cerebrospinal fluid and postmortem tissue analyses, research- ers have made extensive use of modern neuroimaging meth- ods (including positron emission tomography [PET], single photon emission computed tomography [SPECT], magnetic resonance imaging [MRI], diffusion tensor imaging [DTI], and magnetic resonance spectroscopy [MRS]) to probe mark- ers of the serotonergic system along with other markers of brain structure, function, and chemistry. Such studies have consistently shown that SERT binding in various cortical as well as subcortical areas is significantly reduced in ecstasy/ polydrug users compared to matched controls.78,106–111...This effect could reflect either loss of forebrain serotonergic axons (as proposed by the neurodegeneration hypothesis of MDMA neurotoxicity in experimental animals81) or an MDMA-induced downregulation of SERT expression by the serotonergic neurons (as proposed by Biezonski and Meyer82,83). Some (though not all) of these studies found an inverse relationship between SERT binding and amount of ecstasy consumed, and some also found evidence for recovery of binding following abstinence from the drug. A second common finding concerns changes in cortical 5-HT2 receptor binding by PET or SPECT imaging. Binding was typically found to be significantly upregulated in ecstasy users,106,107,109,111,112 although a few studies found a down- regulation instead.106–109 Considering the typical regulation of G protein-coupled receptors (like the 5-HT found in animal studies, it is possible that initial ecstasy use causes a receptor downregulation due to excessive 5-HT release, whereas the 5-HT depletion thought to occur with chronic heavy ecstasy use leads to a compensatory receptor upregulation. Further studies are needed to substantiate this hypothesis....Importantly, there may be a causal relationship between the mood and cognitive changes observed in heavy ecstasy users and the dysregulated serotonergic transmis- sion implied by the above mentioned 5-HT depletion and altered SERT and 5-HT2A receptor expression, as well as potentially other serotonergic effects yet to be identified...Because animal studies of MDMA neurotoxicity have typically used large and/or repeated drug doses, we may ask whether one or a few modest doses of ecstasy are capable of exerting neurotoxic effects in users. This question has been addressed by several prospective studies of new ecstasy users participating in the Netherlands XTC Toxicity (NeXT) study. The results thus far have failed to show any serotonergic deficits in these low-dose users; however, other abnormali- ties were found related to brain vasculature and white matter structure. 114,115 Thus, the jury is still out on whether damaging effects can be produced by consuming even a few ecstasy tablets....MDMA without common adulterants. Even more striking are recent reports of severe morbidity and several fatalities stemming from ecstasy consumption at raves in San Fran- cisco and Los Angeles, CA, USA.124,125 In the San Francisco event, 12 patients were admitted to area hospitals with a variety of symptoms, including hyperthermia (up to 43°C, which is equivalent to 109°F), tachycardia, acute kidney injury, hypotension, acidosis, disseminated intravascular coagulation (formation of blood clots throughout the body), rhabdomyolysis (muscle breakdown), seizures, and altered mental state. Two of the patients died, and four others had persisting neurologic, musculoskeletal, or kidney problems.124 In the Los Angeles event, 18 individuals with confirmed use of ecstasy at the rave sought help at area hospitals. The presenting symptoms in this case were generally not as severe as those in San Francisco, although three patients were hospitalized (one requiring intensive care) and one patient later died at home after consuming multiple substances both during and after the event.125 Other studies have documented ecstasy-related fatalities in the US, UK, and elsewhere.126,127...As in the case of animals, high (often multiple) doses of MDMA are almost always responsible for acute toxic reac- tions in humans. Drug-induced hyperthermia that is exacer- bated by vigorous exercise in a hot rave environment plays a central role in these toxic effects. However, an overdose-like reaction can occur following a single ingestion in susceptible individuals who are genetically deficient in their ability to metabolize MDMA.128 A constellation of symptoms known as the “serotonin syndrome” (which constitutes many of the symptoms observed in the San Francisco rave patients) may also occur when MDMA is consumed along with other drugs (including certain prescription medications) that enhance sero- tonergic transmission by stimulating 5-HT release, blocking 5-HT reuptake, and/or inhibiting 5-HT metabolism.129 Finally, polydrug users may suffer severe morbidity or mortality due to toxic combinations of MDMA with other abused substances, particularly stimulants such as cocaine, amphetamine, or meth- amphetamine. Taken together, these observations highlight the risks of ecstasy consumption, which are greatest in the case of vulnerable individuals and when the substance is taken at high drug doses, in a hot environment, and/or in combination with various other prescription or illicit drugs.”",
+        "excerpt": "Substantial effort has been devoted to elucidating the cellular and molecular mechanisms of MDMA neurotoxicity. One of the important findings to emerge from this work is that MDMA must be administered systemically for neurotoxicity to occur. That is, microinjection of the drug directly into the brain fails to produce 5-HT depletion despite causing acute release of 5-HT.92 This finding has been interpreted by some researchers to mean that MDMA must be subjected to peripheral metabolism (eg, in the liver) to produce neurotoxicity.93,94 Consistent with that view, neurotoxic metabolites of MDMA have been detected in rat brain and in human urine after MDMA ingestion. 93,94 Other studies, however, do not support the neurotoxic metabolite hypothesis.95,96 Regardless of the exact nature of the toxic agent, it is believed that this substance is carried into the serotonergic neurons by way of the 5-HT uptake system, because blockade of SERT with an SSRI attenuates or even blocks MDMA-induced neurotoxicity.97 Once inside the serotonergic neurons, the toxic agent is thought to exert its effects by increasing the formation of oxygen-containing free radicals (ie, reactive oxygen spe- cies [ROS]), thereby producing oxidative stress on the cells....The central concept that MDMA-induced neurotoxicity is mediated by ROS is supported by studies demonstrating the formation of such species within the brains of MDMA- treated animals and the ability of antioxidants and free radical scavengers to block the drug’s neurotoxic effects.98,99 An alternate neurotoxicity model hypothesizes that DA levels are increased within the serotonergic neurons due to a combina- tion of direct DA uptake via SERT and uptake of tyrosine with subsequent conversion to the DA precursor dihydroxy- phenylalanine (DOPA) and then to DA.98,99 According to this model, metabolism of the abnormally accumulated DA by monoamine oxidase B (MAO-B) within the serotonergic cells generates hydrogen peroxide, which can then undergo further chemical reactions to produce ROS and oxidative stress. On the other hand, studies by Yuan et al100 have yielded evidence against the DA hypothesis. To summarize, oxidative stress is likely to play a key role in MDMA-induced neurotoxicity; however, the cellular and molecular events that lead to ROS formation are not yet fully understood",
         "keywords": ["toxicological effects"],
         "referenced_links": [
           {
-            "authors": [],
+            "authors": ["Esteban B.", "O’Shea E.", "Camarero J.", "Sanchez V.", "Green AR.", "Colado MI." 3,4-Methylenedioxymethamphetamine induces monoamine release, but not toxicity, when administered centrally at a concentration occurring following a peripherally injected neurotoxic dose. Psychopharmacology (Berl). 2001;154(3):251–260.],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": ["Erives GV.", "Lau SS.", "Monks TJ." Accumulation of neurotoxic thioether metabolites of 3,4-(±)-methylenedioxymethamphetamine in rat brain. J Pharmacol Exp Ther. 2008;324(1):284–292.],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": ["Perfetti X.", "O’Mathúna B.", "Pizarro N.", "et al." Neurotoxic thioether adducts of 3,4-methylenedioxymethamphetamine identified in human urine after ecstasy ingestion. Drug Metab Dispos. 2009;37(7):1448–1455],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": ["Mueller M.", "Yuan J.", "Felim A.", "et al." Further studies on the role of metabolites in (±)-3,4-methylenedioxymethamphetamine-induced serotonergic neurotoxicity. Drug Metab Dispos. 2009;37(10): 2079–2086.],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": ["Neudörffer A.", "Mueller M.", "Martinez CM.", "et al." Synthesis and neurotoxicity profile of 2,4,5-trihydroxymethamphetamine and its 6-(N-acetylcystein-S-yl) conjugate. Chem Res Toxicol. 2011;24(6): 968–978.],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": ["Li IH.", "Huang WS.", "Shiue CY.", "et al." Study on the neuroprotective effect of fluoxetine against MDMA-induced neurotoxicity on the serotonin transporter in rat brain using micro-PET. Neuroimage. 2010;49(2): 1259–1270.],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": ["Capela, JP.", "Carmo H.", "Remião F.", "Bastos ML.", "Meisel A.", "Carvalho F." Molecular and cellular mechanisms of ecstasy-induced neurotoxicity: an overview. Mol Neurobiol. 2009;39(3):210–271.],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": ["Puerta E.", "Hervias I.", "Aguirre N." On the mechanisms underlying 3,4-methylenedioxymethamphetamine toxicity: the dilemma of the chicken and the egg. Neuropsychobiology. 2009;60(3–4):119–129.],
             "title": "",
             "year": 9999,
             "uri": ""
           }
+
+        ]
+      }
+    ]
+  },
+
+  {
+    "fact": "No conclusive evidence MDMA exerts neurotoxic effects on the human brain.",
+    "keywords": ["toxicological effects", "credibility of studies"],
+    "references": [
+      {
+        "link": {
+          "authors": [
+            "Jerrold S Meyer"
+          ],
+          "title": "3,4-methylenedioxymethamphetamine (MDMA): current perspectives",
+          "year": 2013,
+          "uri": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3931692/pdf/sar-4-083.pdf"
+        },
+        "page": 0,
+        "excerpt": "Of critical importance is whether repeated use of ecstasy (or even a single dose) exerts neurotoxic effects in the human brain. Some investigators have questioned the relevance of animal (particularly rat) studies of MDMA neurotoxicity because the doses typically administered to the animals are much higher than those taken by most recreational ecstasy users and because of important differences in MDMA metabolism between rodents and humans.101–103 The latter issue limits the potential accuracy of using interspecies dose scaling to translate rodent MDMA doses to the amounts estimated to be consumed by recreational ecstasy users....On the other hand, a combination of biochemical and neuroimaging findings from the human ecstasy literature support the contention that “heavy” users may suffer from serotonergic deficits as well as other neurobiological abnormalities....Early studies found reduced levels of 5-hydroxy- indoleacetic acid (5-HIAA) in the cerebrospinal fluid of ecstasy users as well as blunted hormonal responses to various serotonergic drugs.33...More recently, Kish et al1 reported on a single case study of a 26-year-old man who used extremely large amounts of ecstasy (along with some cocaine and heroin) for several years before dying of an apparent drug overdose....Biochemical analyses of postmortem brain tissues revealed massive reductions in 5-HT and 5-HIAA levels in both the cortex and striatum compared to control tissues. These changes were accompanied by substantial decreases in SERT and tryptophan hydroxylase protein levels, which are further indications of serotonergic neurotoxicity in this subject....In addition to the important information gleaned from cerebrospinal fluid and postmortem tissue analyses, research- ers have made extensive use of modern neuroimaging methods (including positron emission tomography [PET], single photon emission computed tomography [SPECT], magnetic resonance imaging [MRI], diffusion tensor imaging [DTI], and magnetic resonance spectroscopy [MRS]) to probe markers of the serotonergic system along with other markers of brain structure, function, and chemistry. Such studies have consistently shown that SERT binding in various cortical as well as subcortical areas is significantly reduced in ecstasy/ polydrug users compared to matched controls.78,106–111...This effect could reflect either loss of forebrain serotonergic axons (as proposed by the neurodegeneration hypothesis of MDMA neurotoxicity in experimental animals81) or an MDMA-induced downregulation of SERT expression by the serotonergic neurons (as proposed by Biezonski and Meyer82,83). Some (though not all) of these studies found an inverse relationship between SERT binding and amount of ecstasy consumed, and some also found evidence for recovery of binding following abstinence from the drug. A second common finding concerns changes in cortical 5-HT2 receptor binding by PET or SPECT imaging. Binding was typically found to be significantly upregulated in ecstasy users,106,107,109,111,112 although a few studies found a down- regulation instead.106–109 Considering the typical regulation of G protein-coupled receptors (like the 5-HT found in animal studies, it is possible that initial ecstasy use causes a receptor downregulation due to excessive 5-HT release, whereas the 5-HT depletion thought to occur with chronic heavy ecstasy use leads to a compensatory receptor upregulation. Further studies are needed to substantiate this hypothesis....Importantly, there may be a causal relationship between the mood and cognitive changes observed in heavy ecstasy users and the dysregulated serotonergic transmission implied by the above mentioned 5-HT depletion and altered SERT and 5-HT2A receptor expression, as well as potentially other serotonergic effects yet to be identified.",
+        "keywords": ["toxicological effects", "credibility of studies"],
+        "referenced_links": [
+          {
+            "authors": ["Baumann MH.", "Wang X.", "Rothman RB." 3,4-Methylenedioxymethamph- etamine (MDMA) neurotoxicity in rats: a reappraisal of past and pres- ent findings. Psychopharmacology (Berl). 2007;189(4):407–424.],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": ["de la Torre R.", "Farré M." Neurotoxicity of MDMA (ecstasy): the limitations of scaling from animals to humans. Trends Pharmacol Sci. 2004;25(10):505–508.],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": ["Green AR.", "King MV.", "Shortall SE.", "Fone KCF." Lost in translation: preclinical studies on 3,4-methylenedioxymethamphetamine provide information on mechanisms of action, but do not allow accurate pre- diction of adverse events in humans. Br J Pharmacol. 2012;166(5): 1523–1536.],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": ["Green AR.", "Mechan AO.", "Elliott JM.", "O’Shea E.", "Colado MI." The pharmacology and clinical pharmacology of 3,4-methylenedioxymethamphetamine (MDMA, “Ecstasy”). Pharmacol Rev. 2003;55(3):463–508.],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": ["Thomasius R.", "Zapletalova P.", "Petersen K.", "et al." Mood, cognition and serotonin transporter availability in current and former ecstasy (MDMA) users: the longitudinal perspective. J Psychopharmacol. 2006;20(2): 211–225.],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": ["Cowan RL." Neuroimaging research in human MDMA users: a review. Psychopharmacology (Berl). 2007;189(4):539–556.],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": ["Cowan RL.", "Roberts DM.", "Joers JM." Neuroimaging in human MDMA (Ecstasy) users. A cortical model. Ann N Y Acad Sci. 2008;1139: 291–298.],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": ["Erritzoe D.", "Frokjaer VG.", "Holst KK.", "et al." In vivo imaging of cerebral serotonin transporter and serotonin(2A) receptor binding in 3,4-methylenedioxymethamphetamine (MDMA or “ecstasy”) and hallucinogen users. Arch Gen Psychiatry. 2011;68(6): 562–576.],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": ["Gouzoulis-Mayfrank E.", "Daumann J." Neurotoxicity of drugs of abuse – the case of methylenedioxymethamphetamines (MDMA, ecstasy), and amphetamines. Dialogues Clin Neurosci. 2009;11(3):305–317.],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": ["Kish SJ.", "Lerch J.", "Furukawa Y.", "et al." Decreased cerebral cortical serotonin transporter binding in ecstasy users: a positron emission tomography/[(11)C]DASB and structural brain imaging study. Brain. 2010;133(6):1779–1797.],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [Urban NB, Girgis RR, Talbot PS, et al. Sustained recreational use of ecstasy is associated with altered pre and postsynaptic markers of serotonin transmission in neocortical areas: a PET study with [11C]DASB and [11C]MDL 100907. Neuropsychopharmacology. 2012;37(6):1465–1473.],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [Biezonski DK, Meyer JS. Effects of 3,4-methylenedioxymethamphe tamine (MDMA) on serotonin transporter and vesicular monoamine transporter 2 protein and gene expression in rats: implications for MDMA neurotoxicity. J Neurochem. 2010;112(4):951–962.],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          }
+
+          {
+            "authors": [Biezonski DK, Meyer JS. The nature of 3,4-methylenedioxymetham- phetamine (MDMA)-induced serotonergic dysfunction: evidence for and against the neurodegeneration hypothesis. Curr Neuropharmacol. 2011;9(1):84–90.],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [Di Iorio CR, Watkins TJ, Dietrich MS, et al. Evidence for chronically altered serotonin function in the cerebral cortex of female 3,4-meth ylenedioxymethamphetamine polydrug users. Arch Gen Psychiatry. 2012;69(4):399–409.],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          }
+
         ]
       }
     ]
   }
+
+
+
+
 
 
 
