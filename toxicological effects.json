@@ -276,8 +276,8 @@
 
 
   {
-    "fact": "",
-    "keywords": ["toxicological effects"],
+    "fact": "Some evidence that there is a recovery of SERT binding after a period of abstinence.",
+    "keywords": ["toxicological effects", "SERT", "recovery"],
     "references": [
       {
         "link": {
@@ -289,15 +289,81 @@
           "uri": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5021729/pdf/213_2016_Article_4396.pdf"
         },
         "page": 0,
-        "excerpt": "Not only the causes, but also the duration of the effects of MDMA/ecstasy on receptor/transporter binding is important to be further explored. As mentioned earlier, a number of studies have investigated the effect of the duration of ecstasy abstinence on the SERT binding by examining the reversibility of the SERT binding in relation to period of abstinence from MDMA use/administration....Scheffel et al. (1998) already showed in a baboon study that SERT binding was in- creased from 40 days to 9 months after MDMA administration in the pons, midbrain and hypothalamus, whereas it remained decreased in cortical regions (pons: increase 35.7 %, mid- brain: increase 95 %, hypothalamus: increase 168.5 %)....In human studies, similar results were found. Reneman et al. (2001b) concluded that SERT [5-HT Transporter] binding of ex-MDMA users that stopped using MDMA for more than a year was similar to that binding of MDMA-naive controls....Moreover, Buchert et al. (2004) found a significant positive correlation between SERT binding and period of abstinence. Two years later, the same research group found a significant increase over the course of time of SERT binding of MDMA users and of SERT binding in the thalamus of ex-MDMA users, respectively (MDMA: P < 0.01; ex-MDMA: thalamus P = 0.006) (Buchert et al. 2006)....Selvaraj et al. (2009) further supported the idea of SERT recovery; there was no difference in SERT binding between former ecstasy users and drug-naive controls after 1 year of abstinence....Moreover, Erritzoe et al. (2011) concluded that the duration of abstinence was positively related to SERT binding in pallidostriatum, amygdala and thalamus, but not in the neocortex. According to their data, recovery of the pallidostriatal SERT [5-HT Transporter] binding takes 200 days....In conclusion, there seems to be some evidence that there is a recovery of SERT binding. If there is indeed recovery of SERT binding over time, the relevant question is then whether this recovery represents functionally intact 5-HT neurons....The study of Reneman et al. (2001b) suggests that this may not be the case, because SERT binding in ex-MDMA users, who had stopped using MDMA for more than 1 year, was similar to control levels but demonstrated similar deficits on the RAVLT memory test as current MDMA users....Indeed, a couple of studies showed that even small doses of MDMA could lead to cognitive impairments, e.g. in verbal memory, and these impairments persist over time (Quednow et al. 2006; Schilt et al. 2007)....A review of Parrott (2013) confirms that different cognitive functions can be affected by ecstasy use. There are deficits found not only in retrospective and prospective memory but also in higher cognition, complex visual processing, sleep architecture, sleep apnoea, pain, neurohormonal activity and psychiatric status....Therefore, recovery of SERT binding may reflect sprouting of 5-HT neurons or reduced endogenous neurotransmitter release after 5-HT toxicity has occurred, instead of recovery of the functional integrity of the 5-HT neurons....However, another study of Halpern et al. (2011) found little evidence in ecstasy users for cognitive impairments. This study was designed to minimize methodological limitations and concluded that studies on cognitive function should be interpreted with caution. If it is true that use of ecstasy does not lead to persistent cognitive impairments, the recovery of SERT binding may simply reflect normalization of the adaptation (e.g. down-regulation), which may occur initially after MDMA use.",
-        "keywords": ["toxicological effects"],
+        "excerpt": "Reneman et al. (2001b) concluded that SERT [5-HT Transporter] binding of ex-MDMA users that stopped using MDMA for more than a year was similar to that binding of MDMA-naive controls....Moreover, Buchert et al. (2004) found a significant positive correlation between SERT binding and period of abstinence. Two years later, the same research group found a significant increase over the course of time of SERT binding of MDMA users and of SERT binding in the thalamus of ex-MDMA users, respectively (MDMA: P < 0.01; ex-MDMA: thalamus P = 0.006) (Buchert et al. 2006)....Selvaraj et al. (2009) further supported the idea of SERT recovery; there was no difference in SERT binding between former ecstasy users and drug-naive controls after 1 year of abstinence....Moreover, Erritzoe et al. (2011) concluded that the duration of abstinence was positively related to SERT binding in pallidostriatum, amygdala and thalamus, but not in the neocortex. According to their data, recovery of the pallidostriatal SERT [5-HT Transporter] binding takes 200 days....In conclusion, there seems to be some evidence that there is a recovery of SERT binding. If there is indeed recovery of SERT binding over time, the relevant question is then whether this recovery represents functionally intact 5-HT neurons....The study of Reneman et al. (2001b) suggests that this may not be the case, because SERT binding in ex-MDMA users, who had stopped using MDMA for more than 1 year, was similar to control levels but demonstrated similar deficits on the RAVLT memory test as current MDMA users.",
+        "keywords": ["toxicological effects", "SERT", "recovery"],
         "referenced_links": [
           {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Buchert R.", "Thomasius R.", "Wilke F.", "Petersen K.", "Nebeling B.", "Obrocki J.", "Schulze O.", "Schmidt U.", "Clausen M."],
+            "title": "A voxel-based PET investigation of the long-term effects of Becstasy^ consumption on brain serotonin transporters. Am J Psychiatry 161:1181–1189",
+            "year": 2004,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/15229049/"
+          },
+          {
+            "authors": ["Buchert R.", "Thomasius R.", "Petersen K.", "Wilke F.", "Obrocki J.", "Nebeling B.", "Wartberg L.", "Zapletalova P.", "Clausen M."],
+            "title": "Reversibility of ecstasy-induced reduction in serotonin transporter availability in polydrug ecstasy users. Eur J Nucl Med Mol Imaging 33:188–199",
+            "year": 2006,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/16133393/"
+          },
+          {
+            "authors": ["Selvaraj S.", "Hoshi R.", "Bhagwagar Z.", "Murthy NV.", "Hinz R.", "Cowen P.", "Curran HV.", "Grasby P."],
+            "title": "Brain serotonin transporter binding in former users of MDMA (‘ecstasy’). Br J Psychiatry 194:355–359",
+            "year": 2009,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/19336788/"
+          },
+          {
+            "authors": ["Reneman L.", "Lavalaye J.", "Schmand B.", "de Wolff FA.", "van den Brink W.", "den Heeten GJ.", "Booij J."],
+            "title": "Cortical serotonin transporter density and verbal memory in individuals who stopped using 3,4- methylenedioxymethamphetamine (MDMA or Becstasy^): prelimi- nary findings. Arch Gen Psychiatry 58:901–906",
+            "year": 2001,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/11576026/"
           }
+
+        ]
+      }
+    ]
+  },
+
+  {
+    "fact": "No conclusive evidence MDMA use leads to persistent cognitive impairment",
+    "keywords": ["toxicological effects", "cognitive effects"],
+    "references": [
+      {
+        "link": {
+          "authors": [
+            "Yosta Vegting.", "Liesbeth Reneman.","Jan Booij"
+          ],
+          "title": "The effects of ecstasy on neurotransmitter systems: a review on the findings of molecular imaging studies",
+          "year": 2016,
+          "uri": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5021729/pdf/213_2016_Article_4396.pdf"
+        },
+        "page": 0,
+        "excerpt": "Indeed, a couple of studies showed that even small doses of MDMA could lead to cognitive impairments, e.g. in verbal memory, and these impairments persist over time (Quednow et al. 2006; Schilt et al. 2007)....A review of Parrott (2013) confirms that different cognitive functions can be affected by ecstasy use. There are deficits found not only in retrospective and prospective memory but also in higher cognition, complex visual processing, sleep architecture, sleep apnoea, pain, neurohormonal activity and psychiatric status....Therefore, recovery of SERT binding may reflect sprouting of 5-HT neurons or reduced endogenous neurotransmitter release after 5-HT toxicity has occurred, instead of recovery of the functional integrity of the 5-HT neurons....However, another study of Halpern et al. (2011) found little evidence in ecstasy users for cognitive impairments. This study was designed to minimize methodological limitations and concluded that studies on cognitive function should be interpreted with caution. If it is true that use of ecstasy does not lead to persistent cognitive impairments, the recovery of SERT binding may simply reflect normalization of the adaptation (e.g. down-regulation), which may occur initially after MDMA use.",
+        "keywords": ["toxicological effects", "cognitive effects"],
+        "referenced_links": [
+          {
+            "authors": ["Quednow BB.", "Jessen F.", "Kuhn KU.", "Maier W.", "Daum I.", "Wagner M."],
+            "title": "Memory deficits in abstinent MDMA (ecstasy) users: neuropsycho- logical evidence of frontal dysfunction. J Psychopharmacol 20:373– 384",
+            "year": 2006,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/16574711/"
+          },
+          {
+            "authors": ["Schilt T.", "de Win MM.", "Koeter M.", "Jager G.", "Korf DJ.", "van den Brink W.", "Schmand B."],
+            "title": "Cognition in novice ecstasy users with minimal exposure to other drugs: a prospective cohort study. Arch Gen Psychiatry 64:728–736",
+            "year": 2007,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/17548754/"
+          },
+          {
+            "authors": ["Parrott AC."],
+            "title": "Human psychobiology of MDMA or ‘Ecstasy’: an overview of 25 years of empirical research. Hum Psychopharmacol 28:289–307",
+            "year": 2013,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/23881877/"
+          },
+          {
+            "authors": ["Halpern JH.", "Sherwood AR.", "Hudson JI.", "Gruber S.", "Kozin D.", "Pope HG Jr."],
+            "title": "Residual neurocognitive features of long-term ecstasy users with minimal exposure to other drugs. Addiction 106:777–786",
+            "year": 2011,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/21205042/"
+          }
+
         ]
       }
     ]
@@ -320,20 +386,14 @@
         "excerpt": "Heavy use/administration of MDMA decreases SERT binding; however, after a certain period of time (40– 200 days), SERT binding recovers.",
         "keywords": ["toxicological effects", "SERT", "recovery"],
         "referenced_links": [
-          {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
         ]
       }
     ]
   },
 
   {
-    "fact": "",
-    "keywords": ["toxicological effects"],
+    "fact": "In humans, MDMA does not seem to affect the DA system.",
+    "keywords": ["toxicological effects", "dopamine", "SERT"],
     "references": [
       {
         "link": {
@@ -345,19 +405,15 @@
           "uri": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5021729/pdf/213_2016_Article_4396.pdf"
         },
         "page": 0,
-        "excerpt": "In humans, MDMA does not seem to affect the DA system.– Use of cannabis, cocaine and hallucinogens does not seem to influence the effects of MDMA on the SERT....Remaining questions– Is MDMA use able to induce detectable changes in 5-HT synthesis? To validate this, supporting studies in small laboratory animals may be performed with [11C]AMT PET.– Does a decline in SERT binding reflect neurotoxicity? It may be relevant to perform more translational research.– What is the cause and functional significance of SERT binding recovery; sprouting, regeneration, recovery of adaption or endogenous neurotransmitter release? Future fundamental studies on this topic are recommended.– What are the causes of an increase or decrease in receptor binding? Further research in animal brains could be done, e.g. using high-performance liquid chromatography to assess neurotransmitter concentrations and determination of Bmax (number of binding sites) and Kd (affinity for the receptor).Does gender play an important role in susceptibility to possible toxic effects of MDMA use?– What are the effects of young ecstasy use? Results suggest that there is an inverse relationship between age-at- first ecstasy use and [123 I]β-CIT binding ratios in the midbrain. However, only one study is performed on this topic; therefore, more research has to be done to draw valid conclusions.",
-        "keywords": ["toxicological effects"],
+        "excerpt": "In humans, MDMA does not seem to affect the DA system.– Use of cannabis, cocaine and hallucinogens does not seem to influence the effects of MDMA on the SERT",
+        "keywords": ["toxicological effects", "dopamine", "SERT"],
         "referenced_links": [
-          {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
         ]
       }
     ]
   },
+
+
 
 
 
