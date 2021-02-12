@@ -1,9 +1,9 @@
 [
 
   {
-    "fact": "",
+    "fact": "Due to its unique pharmacology, MDMA has shown promise as an adjunct to psychotherapy for treatment of posttraumatic stress disorder",
     "keywords": [
-      "therapeutic valuce"
+      "therapeutic value", "PTSD"
     ],
     "references": [
       {
@@ -18,7 +18,7 @@
         "page": 0,
         "excerpt": "Due to its unique pharmacology, MDMA has shown promise as an adjunct to psychotherapy for treatment of posttraumatic stress disorder (Mithoefer et al. 2018; Mithoefer et al. 2011; Mithoefer et al. 2013; Oehen et al. 2013).",
         "keywords": [
-          "pharmacological effects"
+          "therapeutic value", "PTSD"
         ],
         "referenced_links": [
           {
@@ -34,9 +34,9 @@
     ]
   },
   {
-    "fact": "",
+    "fact": "MDMA-assisted therapy has been studied with regards to social anxiety in autistic adults",
     "keywords": [
-      "therapeutic valuce"
+      "therapeutic value", "autism", "social anxiety"
     ],
     "references": [
       {
@@ -49,9 +49,9 @@
           "uri": "https://s3-us-west-1.amazonaws.com/mapscontent/research-archive/mdma/2018_MAPS_Psychopharmacology_MAA-1_MDMA_Social_Anxiety_Autistic_Adults.pdf"
         },
         "page": 0,
-        "excerpt": "The study presented here is the first controlled study of MDMA-assisted psychotherapy in autistic adults. The objective of this investigational treatment was not to cure or alter the course of autism but to explore the feasi- bility and safety of treating SAD with MDMA-assisted psy- chotherapy in this underserved population.",
+        "excerpt": "The study presented here is the first controlled study of MDMA-assisted psychotherapy in autistic adults. The objective of this investigational treatment was not to cure or alter the course of autism but to explore the feasi-bility and safety of treating SAD with MDMA-assisted psy- chotherapy in this underserved population.",
         "keywords": [
-          "pharmacological effects"
+          "therapeutic value",  "autism", "social anxiety"
         ],
         "referenced_links": [
           {
@@ -67,9 +67,9 @@
     ]
   },
   {
-    "fact": "",
+    "fact": "In a study of social-anxiety in autistic adults and MDMA-assisted therapy the mean change from baseline in LSAS scores was significantly greater for the MDMA group compared to the placebo group.",
     "keywords": [
-      "therapeutic valuce"
+      "therapeutic value", "autism", "social anxiety"
     ],
     "references": [
       {
@@ -82,9 +82,9 @@
           "uri": "https://s3-us-west-1.amazonaws.com/mapscontent/research-archive/mdma/2018_MAPS_Psychopharmacology_MAA-1_MDMA_Social_Anxiety_Autistic_Adults.pdf"
         },
         "page": 0,
-        "excerpt": "At primary endpoint, the mean change from baseline in LSAS scores was significantly greater for the MDMA group compared to the placebo group. The placebo-subtracted effect size for the changes in LSAS from baseline to the primary endpoint and to 6-month follow-up was very large (d = 1.4 and 1.1, respec- tively). Enrollment required a total score of 60 or greater on the LSAS at baseline, in a range highly suggestive of gener- alized SAD. Scores in this range are typical of individuals entering treatment and indicate high levels of distress and difficulties with social functioning. In addition, high mean scores on both the social anxiety and social avoidance sub- scales were suggestive of generalized SAD as opposed to specific, focal problems such as public speaking anxiety.",
+        "excerpt": "At primary endpoint, the mean change from baseline in LSAS scores was significantly greater for the MDMA group compared to the placebo group.",
         "keywords": [
-          "pharmacological effects"
+          "therapeutic value", "autism", "social anxiety"
         ],
         "referenced_links": [
           {
@@ -100,7 +100,7 @@
     ]
   },
   {
-    "fact": "",
+    "fact": "In a study of social-anxiety in autistic adults and MDMA-assisted therapy of seven participants in the MDMA group completing treatment, all dropped two to four levels in severity category, whereas the four participants in the placebo group dropped zero to three levels in severity",
     "keywords": [
       "therapeutic valuce"
     ],
@@ -115,7 +115,7 @@
           "uri": "https://s3-us-west-1.amazonaws.com/mapscontent/research-archive/mdma/2018_MAPS_Psychopharmacology_MAA-1_MDMA_Social_Anxiety_Autistic_Adults.pdf"
         },
         "page": 0,
-        "excerpt": "Of seven participants in the MDMA group completing treatment, all dropped two to four levels in sever- ity category, whereas the four participants in the placebo group dropped zero to three levels in severity. In addition, six of seven participants in the MDMA group had a > 20- point drop in LSAS scores compared to two of four partici- pants in the placebo group.",
+        "excerpt": "Of seven participants in the MDMA group completing treatment, all dropped two to four levels in severity category, whereas the four participants in the placebo group dropped zero to three levels in severity. In addition, six of seven participants in the MDMA group had a > 20- point drop in LSAS scores compared to two of four participants in the placebo group.",
         "keywords": [
           "pharmacological effects"
         ],
