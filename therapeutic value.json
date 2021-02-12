@@ -22,9 +22,25 @@
         ],
         "referenced_links": [
           {
-            "authors": [
-
-            ],
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [],
             "title": "",
             "year": 9999,
             "uri": ""
@@ -49,19 +65,11 @@
           "uri": "https://s3-us-west-1.amazonaws.com/mapscontent/research-archive/mdma/2018_MAPS_Psychopharmacology_MAA-1_MDMA_Social_Anxiety_Autistic_Adults.pdf"
         },
         "page": 0,
-        "excerpt": "The study presented here is the first controlled study of MDMA-assisted psychotherapy in autistic adults. The objective of this investigational treatment was not to cure or alter the course of autism but to explore the feasi-bility and safety of treating SAD with MDMA-assisted psy- chotherapy in this underserved population.",
+        "excerpt": "The study presented here is the first controlled study of MDMA-assisted psychotherapy in autistic adults. The objective of this investigational treatment was not to cure or alter the course of autism but to explore the feasi-bility and safety of treating SAD with MDMA-assisted psychotherapy in this underserved population.",
         "keywords": [
           "therapeutic value",  "autism", "social anxiety"
         ],
         "referenced_links": [
-          {
-            "authors": [
-
-            ],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
         ]
       }
     ]
@@ -87,14 +95,6 @@
           "therapeutic value", "autism", "social anxiety"
         ],
         "referenced_links": [
-          {
-            "authors": [
-
-            ],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
         ]
       }
     ]
@@ -120,14 +120,6 @@
           "pharmacological effects"
         ],
         "referenced_links": [
-          {
-            "authors": [
-
-            ],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
         ]
       }
     ]
@@ -166,7 +158,7 @@
     ]
   },
   {
-    "fact": "",
+    "fact": "In a pilot study of MDMA-assisted psychotherapy in subjects with chronic, treatment-resistant posttraumatic stress disorder rate of clinical response was 10/12 (83%) in the active treatment group versus 2/8 (25%) in the placebo group with no serious adverse events, adverse neurocognitive effects or clinically significant blood pressure increases, or other evidence of harm.",
     "keywords": [
       "therapeutic value"
     ],
@@ -186,20 +178,12 @@
           "pharmacological effects"
         ],
         "referenced_links": [
-          {
-            "authors": [
-
-            ],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
         ]
       }
     ]
   },
   {
-    "fact": "",
+    "fact": "MDMA temporarily reduces fear and increase interpersonal trust, without clouding the sensorium or inhibiting access to emotions",
     "keywords": [
       "therapeutic value"
     ],
@@ -214,19 +198,11 @@
           "uri": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3122379/pdf/10.1177_0269881110378371.pdf"
         },
         "page": 0,
-        "excerpt": "Therefore, if a drug could temporarily reduce fear and increase interpersonal trust, without clouding the sensorium or inhibiting access to emotions, it might prove an effective catalyst to psychotherapy for PTSD. ",
+        "excerpt": "Therefore, if a drug could temporarily reduce fear and increase interpersonal trust, without clouding the sensorium or inhibiting access to emotions, it might prove an effective catalyst to psychotherapy for PTSD.",
         "keywords": [
           "therapeutic value"
         ],
         "referenced_links": [
-          {
-            "authors": [
-
-            ],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
         ]
       }
     ]
@@ -265,7 +241,7 @@
     ]
   },
   {
-    "fact": "",
+    "fact": "Combined pharmacological effects of MDMA and the associated subjective psychological experience provide a unique selective impairment of the fear response whilst leaving the other faculties intact.",
     "keywords": [
       "therapeutic value"
     ],
@@ -280,15 +256,31 @@
           "uri": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6435835/pdf/fpsyt-10-00138.pdf"
         },
         "page": 0,
-        "excerpt": "Increased prosocial feelings (57), improved tolerance for unpleasant memories (58) and enhanced empathy and self- compassion (59), can promote a strong therapeutic alliance to effectively process traumatic memories....In summary, the combined pharmacological effects of MDMA and the associated subjective psychological experience provide a unique selective impairment of the fear response whilst leaving the other faculties intact. Therefore, MDMA could be “the perfect drug for trauma-related psychotherapy” (60).",
+        "excerpt": "Increased prosocial feelings (57), improved tolerance for unpleasant memories (58) and enhanced empathy and self-compassion (59), can promote a strong therapeutic alliance to effectively process traumatic memories....In summary, the combined pharmacological effects of MDMA and the associated subjective psychological experience provide a unique selective impairment of the fear response whilst leaving the other faculties intact. Therefore, MDMA could be “the perfect drug for trauma-related psychotherapy” (60).",
         "keywords": [
           "therapeutic value"
         ],
         "referenced_links": [
           {
-            "authors": [
-
-            ],
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [],
             "title": "",
             "year": 9999,
             "uri": ""
@@ -297,41 +289,9 @@
       }
     ]
   },
-  {
-    "fact": "",
-    "keywords": [
-      "therapeutic value"
-    ],
-    "references": [
-      {
-        "link": {
-          "authors": [
-            "Torsten Passie"
-          ],
-          "title": "The early use of MDMA (‘Ecstasy’) in psychotherapy (1977–1985)",
-          "year": 2018,
-          "uri": "https://journals.sagepub.com/doi/pdf/10.1177/2050324518767442"
-        },
-        "page": 0,
-        "excerpt": "It seems reasonable to presume that the Boston group had facilitated some early interest in the therapeutic use of MDMA. For example, the physician Rick Ingrasci, an early MDMA therapist, got his MDMA from the Boston group (Ingrasci, 2016)....Leo Zeff—The Secret Chief...The psychotherapist Leo Zeff became interested in the therapeutic use of psychedelics in 1961 (Zeff in Stolaroff, 2004: 37). After using LSD in psychotherapy, he became very much convinced of its therapeutic potential. In the mid-1960s, he came across MDA through Shulgin’s research associate Tony Sargent (Sargent, 2013). After LSD became illegal in 1966,Zeff continued his work underground. During the 1970s, he became a major figure of an informal under- ground network of therapists using psychedelics. He developed many useful procedures and shared them with other acquainted therapists. For this role, he was later named ‘‘the Secret Chief’’ (Stolaroff, 2004).",
-        "keywords": [
-          "therapeutic value"
-        ],
-        "referenced_links": [
-          {
-            "authors": [
 
-            ],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
-        ]
-      }
-    ]
-  },
   {
-    "fact": "",
+    "fact": "A 1979 exploratory study in a non-clinical setting found that MDMA allowed patients to relax their defences against communication and closeness and deal with substantive issues.",
     "keywords": [
       "therapeutic value"
     ],
@@ -352,9 +312,7 @@
         ],
         "referenced_links": [
           {
-            "authors": [
-
-            ],
+            "authors": [],
             "title": "",
             "year": 9999,
             "uri": ""
@@ -364,7 +322,7 @@
     ]
   },
   {
-    "fact": "",
+    "fact": "MDMA allows patients to face and process horrific experiences.",
     "keywords": [
       "therapeutic value"
     ],
@@ -379,15 +337,13 @@
           "uri": "https://journals.sagepub.com/doi/pdf/10.1177/2050324518767442"
         },
         "page": 0,
-        "excerpt": "psychiatrist Joseph J. ‘‘Jack’’ Downing *At the hearings on the scheduling of MDMA, he pre- sented a case history of a patient who was a victim of a crime in which she was abducted, tied up, and tortured for several hours. The patient had undergone psycho- therapy, but still suffered from terrible flashbacks, nightmares, and suicidal thoughts. Here are the patient’s conclusions from the MDMA sessions: *I’ve taken it several times, and each time I felt a little less fearful. For the first time I was able to face the experience, go back and piece together what had hap- pened. By facing it, instead of always burying it, I was able to sort of slowly discharge a lot of horror. The drug helped me regain some measure of serenity and peace of mind and enabled me to begin living a more normal life again. (Tamm in Eisner, 1989: 59)",
+        "excerpt": "psychiatrist Joseph J. ‘‘Jack’’ Downing *At the hearings on the scheduling of MDMA, he presented a case history of a patient who was a victim of a crime in which she was abducted, tied up, and tortured for several hours. The patient had undergone psychotherapy, but still suffered from terrible flashbacks, nightmares, and suicidal thoughts. Here are the patient’s conclusions from the MDMA sessions: *I’ve taken it several times, and each time I felt a little less fearful. For the first time I was able to face the experience, go back and piece together what had happened. By facing it, instead of always burying it, I was able to sort of slowly discharge a lot of horror. The drug helped me regain some measure of serenity and peace of mind and enabled me to begin living a more normal life again. (Tamm in Eisner, 1989: 59)",
         "keywords": [
           "therapeutic value"
         ],
         "referenced_links": [
           {
-            "authors": [
-
-            ],
+            "authors": [],
             "title": "",
             "year": 9999,
             "uri": ""
@@ -397,7 +353,7 @@
     ]
   },
   {
-    "fact": "",
+    "fact": "In a mid-1980s follow up study of 29 patients given MDMA the most common benefits were enhancement of communication and intimacy during the sessions, improvement in interpersonal relationships, self-esteem, mood, and a decrease of consumption of addicting substances. Twenty-three subjects reported positive changes in attitude lasting between 1 week and the study’s follow-up time of 2 years.",
     "keywords": [
       "therapeutic value"
     ],
@@ -412,15 +368,25 @@
           "uri": "https://journals.sagepub.com/doi/pdf/10.1177/2050324518767442"
         },
         "page": 0,
-        "excerpt": "psychiatrist George Greer...In 1982, Greer heard that MDMA was being used at parties in New York City and realized it would not take long for MDMA to be scheduled (Greer, 2001: 227). Therefore, he decided to write up his results. In 1983, a scientific paper about his work with MDMA was self- published (Greer, 1983). It was circulated only among interested psychotherapists to avoid the promotion of MDMA as a recreational drug....*The paper, which was later published in the Journal of Psychoactive Drugs (Greer and Tolbert, 1986), gives a follow-up of 29 patients treated with 75–150mg MDMA, plus a 50 mg booster circa 2 hours after inges- tion. Individual and group sessions were conducted. No serious side-effects or negative after-effects were found. The most common benefits were enhancement of communication and intimacy during the sessions, improvement in interpersonal relationships, self-esteem, mood, and a decrease of consumption of addicting substances. Twenty-three subjects reported positive changes in attitude lasting between 1 week and the study’s follow-up time of 2 years. ",
+        "excerpt": "psychiatrist George Greer...In 1982, Greer heard that MDMA was being used at parties in New York City and realized it would not take long for MDMA to be scheduled (Greer, 2001: 227). Therefore, he decided to write up his results. In 1983, a scientific paper about his work with MDMA was self-published (Greer, 1983). It was circulated only among interested psychotherapists to avoid the promotion of MDMA as a recreational drug....*The paper, which was later published in the Journal of Psychoactive Drugs (Greer and Tolbert, 1986), gives a follow-up of 29 patients treated with 75–150mg MDMA, plus a 50 mg booster circa 2 hours after ingestion. Individual and group sessions were conducted. No serious side-effects or negative after-effects were found. The most common benefits were enhancement of communication and intimacy during the sessions, improvement in interpersonal relationships, self-esteem, mood, and a decrease of consumption of addicting substances. Twenty-three subjects reported positive changes in attitude lasting between 1 week and the study’s follow-up time of 2 years.",
         "keywords": [
           "therapeutic value"
         ],
         "referenced_links": [
           {
-            "authors": [
-
-            ],
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [],
             "title": "",
             "year": 9999,
             "uri": ""
@@ -430,7 +396,7 @@
     ]
   },
   {
-    "fact": "",
+    "fact": "MDMA's blocking of activity in the neurophysiological fear network promoted inspection of traumatic memories, self-acceptance, and the development of trust.",
     "keywords": [
       "therapeutic value"
     ],
@@ -451,9 +417,7 @@
         ],
         "referenced_links": [
           {
-            "authors": [
-
-            ],
+            "authors": [],
             "title": "",
             "year": 9999,
             "uri": ""
@@ -463,7 +427,7 @@
     ]
   },
   {
-    "fact": "",
+    "fact": "Severely traumatized patients especially could profit enormously by MDMA's ability to enabling them to open up for positive communication and relationship experiences",
     "keywords": [
       "therapeutic value"
     ],
@@ -484,9 +448,7 @@
         ],
         "referenced_links": [
           {
-            "authors": [
-
-            ],
+            "authors": [],
             "title": "",
             "year": 9999,
             "uri": ""
@@ -498,7 +460,7 @@
 
 
   {
-    "fact": "",
+    "fact": "MDMA-assisted psychotherapy is an experimental treatment that combines psychotherapeutic techniques with administration of MDMA, a pharmacological adjunct that enhances aspects of psychotherapy.",
     "keywords": [
       "therapeutic value"
     ],
@@ -518,20 +480,12 @@
           "therapeutic value"
         ],
         "referenced_links": [
-          {
-            "authors": [
-
-            ],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
         ]
       }
     ]
   },
   {
-    "fact": "",
+    "fact": "Prior to placement on the Drug Enforcement Administration’s (DEA) list of Schedule I substances, MDMA was administered to thousands of people in psychotherapeutic practice outside of clinical trials.",
     "keywords": [
       "therapeutic value"
     ],
@@ -551,14 +505,6 @@
           "therapeutic value"
         ],
         "referenced_links": [
-          {
-            "authors": [
-
-            ],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
         ]
       }
     ]
@@ -630,7 +576,7 @@
     ]
   },
   {
-    "fact": "",
+    "fact": "MDMA- assisted psychotherapy first occurred during the mid-to-late 1970s after Shulgin introduced MDMA to a psychotherapist, Leo Zeff.",
     "keywords": [
       "therapeutic value"
     ],
@@ -645,15 +591,13 @@
           "uri": "https://mapscontent.s3-us-west-1.amazonaws.com/research-archive/mdma/MDMA-Investigator-Brochure-IB-11thEdition-MAPS-2019-07-10.pdf"
         },
         "page": 0,
-        "excerpt": "Shulgin and Nichols were the first to report the effects of MDMA in humans [67]. MDMA- assisted psychotherapy first occurred during the mid-to-late 1970s after Shulgin introduced MDMA to a psychotherapist, Leo Zeff.",
+        "excerpt": "Shulgin and Nichols were the first to report the effects of MDMA in humans [67]. MDMA-assisted psychotherapy first occurred during the mid-to-late 1970s after Shulgin introduced MDMA to a psychotherapist, Leo Zeff.",
         "keywords": [
           "therapeutic value"
         ],
         "referenced_links": [
           {
-            "authors": [
-
-            ],
+            "authors": [],
             "title": "",
             "year": 9999,
             "uri": ""
@@ -663,7 +607,7 @@
     ]
   },
   {
-    "fact": "",
+    "fact": "Prior to placement in Schedule I, MDMA was used in psychotherapy for individuals, couples, and groups to treat various psychological disorders, including moderate depression and anxiety although no formal controlled clinical trials of safety and efficacy were conducted at the time.",
     "keywords": [
       "therapeutic value"
     ],
@@ -684,9 +628,37 @@
         ],
         "referenced_links": [
           {
-            "authors": [
-
-            ],
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          },
+          {
+            "authors": [],
             "title": "",
             "year": 9999,
             "uri": ""
@@ -728,39 +700,7 @@
       }
     ]
   },
-  {
-    "fact": "",
-    "keywords": [
-      "therapeutic value"
-    ],
-    "references": [
-      {
-        "link": {
-          "authors": [
-            "Multidisciplinary Association for Psychedelic Studies (MAPS)"
-          ],
-          "title": "Investigator’s Brochure",
-          "year": 2019,
-          "uri": "https://mapscontent.s3-us-west-1.amazonaws.com/research-archive/mdma/MDMA-Investigator-Brochure-IB-11thEdition-MAPS-2019-07-10.pdf"
-        },
-        "page": 0,
-        "excerpt": "However, MDMA produces a durable enhancement of fear extinction in mice, an effect mediated by an MDMA- associated increase in BDNF expression specifically in the context of fear extinction training, suggesting that gene expression changes after MDMA are functionally relevant [199].",
-        "keywords": [
-          "therapeutic value"
-        ],
-        "referenced_links": [
-          {
-            "authors": [
 
-            ],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
-        ]
-      }
-    ]
-  },
   {
     "fact": "",
     "keywords": [
@@ -927,7 +867,7 @@
     ]
   },
   {
-    "fact": "",
+    "fact": "MDMA produces anxiolytic [reduce anxiety] and prosocial effects, which could counteract avoidance and hyperarousal. These subjective effects of MDMA are hypothesized to create a desirable psychological state that enhances the therapeutic process in treating PTSD and other anxiety disorders.",
     "keywords": [
       "therapeutic value"
     ],
@@ -947,14 +887,6 @@
           "therapeutic value"
         ],
         "referenced_links": [
-          {
-            "authors": [
-
-            ],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
         ]
       }
     ]
@@ -1338,7 +1270,7 @@
           "uri": "https://link.springer.com/content/pdf/10.1007/s00213-020-05548-2.pdf"
         },
         "page": 0,
-        "excerpt": "Across six phase 2 studies, participants with moderate to se- vere PTSD responded well to MDMA-assisted psychotherapy at treatment exit with decreases in CAPS-IV scores that were sustained at long-term follow-up. At treatment exit, 82% of participants exhibited a clinically significant symptom im- provement (15 points or more reduction in CAPS-IV total severity scores) with CAPS-IV total severity scores dropping on average − 44.8 points such that 56% of participants no longer met the criteria for PTSD. PTSD symptoms continued to decrease from treatment exit to long-term follow-up where CAPS-IV total severity scores dropped further on average by − 5.2 points, 67% of participants no longer met the PTSD criteria, and 26% of participants had a clinically significant improvement since study exit. Additionally, proportions of participants who reported positive suicidal ideation decreased from approximately 60% at baseline to 24% at LTFU, and one participant reported serious ideation at LTFU. Overall, these findings suggest MDMA-assisted psychotherapy consisting of two to three MDMA-assisted psychotherapy sessions with appropriate preparation and follow-up might have the poten- tial to sustain clinically significant improvement in PTSD symptoms at least 1 year post-treatment. Importantly, the con- clusions of these data were limited by the lack of a long-term control group, as all participants had received an active dose MDMA by LTFU assessment, which limited our ability to draw conclusions concerning causality. These findings add to previously published LTFU results from one phase 2 study (Mithoefer et al. 2013) and provide insights to inform long- term assessment of future trials....The pharmacologic effects of MDMA administered within a course of psychotherapy engender a unique therapeutic pro- cess that seems to enhance treatment engagement, reduce treatment discontinuation, and extend treatment effects....The majority of participants reported lasting benefits at LTFU, and over half reported benefits continued to grow, suggesting participants were able to successfully integrate therapeutic experiences into their daily lives to cultivate con- tinued healing and growth. Studies drawn from specific phase 2 trials found participants who received active doses of MDMA were more likely to change facets of personality (i.e., “openness to experiences”), as assessed by the Neuroticism Extroversion Openness Inventory (Mithoefer et al. 2018; Wagner et al. 2017), which might be considered a deep-rooted transformation. An interview-based qualitative study of MP-8 participants found enduring benefits including experiencing greater engagement in new activities, improved quality of life, and increased openness to further psychother- apy at LTFU (Barone et al. 2019). There is also evidence suggesting that MDMA-assisted psychotherapy may bolster posttraumatic growth (Gorman et al. 2020), a person’s sense of improved intrapersonal, social, and/or spiritual quality of life as a result of undergoing a traumatic experience (Tedeschi and Calhoun 1996), with posttraumatic growth still apparent at LTFU. More studies are needed to support these descriptive and preliminary findings and elucidate relationships between MDMA-assisted psychotherapy with long-term improve- ments on PTSD and other enduring benefits....There were large differences between the number of those who reported having any benefits (97.6%) vs. the number reporting harms (8.4%). Sample bias was not likely given the relatively high response rates to the LTFUQ. A total of seven participants indicated experiencing any harms, zero reported any harms as severe, and two indicated that the harms lasted until the present (at LTFU). Statistical comparisons were not performed owing to the small number of participants who reported any harms. However, a preliminary subset analysis indicated all sev- en participants reported at least one benefit from study partici- pation; six of the seven participants showed a clinically mean- ingful reduction of PTSD symptoms at treatment exit (86%), and five of the seven participants at LTFU (71%).Conclusion...Overall findings from the present analyses support MDMA- assisted psychotherapy as an efficacious treatment for PTSD with symptom improvements that were sustained at 1 to 3.8 years pos-treatment. These findings corroborate and ex- pand preliminary results from the first phase 2 trial of this treatment (Mithoefer et al. 2013). Self-reported benefits outweighed the frequency of harms, and there were no indi- cations of abuse potential of MDMA/Ecstasy or other sub- stances among participants following treatment. Results sug- gest possible long-term benefits beyond PTSD symptom re- duction and therefore warrant further investigation",
+        "excerpt": "Across six phase 2 studies, participants with moderate to severe PTSD responded well to MDMA-assisted psychotherapy at treatment exit with decreases in CAPS-IV scores that were sustained at long-term follow-up. At treatment exit, 82% of participants exhibited a clinically significant symptom im- provement (15 points or more reduction in CAPS-IV total severity scores) with CAPS-IV total severity scores dropping on average − 44.8 points such that 56% of participants no longer met the criteria for PTSD. PTSD symptoms continued to decrease from treatment exit to long-term follow-up where CAPS-IV total severity scores dropped further on average by − 5.2 points, 67% of participants no longer met the PTSD criteria, and 26% of participants had a clinically significant improvement since study exit. Additionally, proportions of participants who reported positive suicidal ideation decreased from approximately 60% at baseline to 24% at LTFU, and one participant reported serious ideation at LTFU. Overall, these findings suggest MDMA-assisted psychotherapy consisting of two to three MDMA-assisted psychotherapy sessions with appropriate preparation and follow-up might have the poten- tial to sustain clinically significant improvement in PTSD symptoms at least 1 year post-treatment. Importantly, the con- clusions of these data were limited by the lack of a long-term control group, as all participants had received an active dose MDMA by LTFU assessment, which limited our ability to draw conclusions concerning causality. These findings add to previously published LTFU results from one phase 2 study (Mithoefer et al. 2013) and provide insights to inform long- term assessment of future trials....The pharmacologic effects of MDMA administered within a course of psychotherapy engender a unique therapeutic pro- cess that seems to enhance treatment engagement, reduce treatment discontinuation, and extend treatment effects....The majority of participants reported lasting benefits at LTFU, and over half reported benefits continued to grow, suggesting participants were able to successfully integrate therapeutic experiences into their daily lives to cultivate con- tinued healing and growth. Studies drawn from specific phase 2 trials found participants who received active doses of MDMA were more likely to change facets of personality (i.e., “openness to experiences”), as assessed by the Neuroticism Extroversion Openness Inventory (Mithoefer et al. 2018; Wagner et al. 2017), which might be considered a deep-rooted transformation. An interview-based qualitative study of MP-8 participants found enduring benefits including experiencing greater engagement in new activities, improved quality of life, and increased openness to further psychother- apy at LTFU (Barone et al. 2019). There is also evidence suggesting that MDMA-assisted psychotherapy may bolster posttraumatic growth (Gorman et al. 2020), a person’s sense of improved intrapersonal, social, and/or spiritual quality of life as a result of undergoing a traumatic experience (Tedeschi and Calhoun 1996), with posttraumatic growth still apparent at LTFU. More studies are needed to support these descriptive and preliminary findings and elucidate relationships between MDMA-assisted psychotherapy with long-term improve- ments on PTSD and other enduring benefits....There were large differences between the number of those who reported having any benefits (97.6%) vs. the number reporting harms (8.4%). Sample bias was not likely given the relatively high response rates to the LTFUQ. A total of seven participants indicated experiencing any harms, zero reported any harms as severe, and two indicated that the harms lasted until the present (at LTFU). Statistical comparisons were not performed owing to the small number of participants who reported any harms. However, a preliminary subset analysis indicated all sev- en participants reported at least one benefit from study partici- pation; six of the seven participants showed a clinically mean- ingful reduction of PTSD symptoms at treatment exit (86%), and five of the seven participants at LTFU (71%).Conclusion...Overall findings from the present analyses support MDMA- assisted psychotherapy as an efficacious treatment for PTSD with symptom improvements that were sustained at 1 to 3.8 years pos-treatment. These findings corroborate and ex- pand preliminary results from the first phase 2 trial of this treatment (Mithoefer et al. 2013). Self-reported benefits outweighed the frequency of harms, and there were no indi- cations of abuse potential of MDMA/Ecstasy or other sub- stances among participants following treatment. Results sug- gest possible long-term benefits beyond PTSD symptom re- duction and therefore warrant further investigation",
         "keywords": [
           "therapeutic value"
         ],
