@@ -73,9 +73,9 @@
 
 
   {
-    "fact": "",
+    "fact": "Published results from MAPS study (MP-1) showed clinically and statistically significant improvements in PTSD severity in 20 per protocol subjects with benefits sustained for an average of 41 months.",
     "keywords": [
-      "therapeutic value"
+      "therapeutic value", "clincial studies"
     ],
     "references": [
       {
@@ -88,23 +88,61 @@
           "uri": "https://mapscontent.s3-us-west-1.amazonaws.com/research-archive/mdma/MDMA-Investigator-Brochure-IB-11thEdition-MAPS-2019-07-10.pdf"
         },
         "page": 0,
-        "excerpt": "MDMA may provide a much- needed option in the treatment of PTSD and anxiety associated with other conditions. Published results from MAPS study (MP-1) showed clinically and statistically significant improvements in PTSD severity in 20 per protocol subjects [43]. Findings from the long-term follow-up of MP-1 suggest that therapeutic benefits were sustained for an average of 41 months post-treatment [44]. The sponsor’s second Phase 2 pilot study conducted in Switzerland (MP-2) demonstrated clinically significant improvements in PTSD symptoms, with results in the 125 mg MDMA dose group numerically but not statistically superior to the 25 mg MDMA dose group [45]. Long-term follow-up data 12 months later suggest that therapeutic benefits continued to increase in this subject population. ",
+        "excerpt": "Published results from MAPS study (MP-1) showed clinically and statistically significant improvements in PTSD severity in 20 per protocol subjects [43]. Findings from the long-term follow-up of MP-1 suggest that therapeutic benefits were sustained for an average of 41 months post-treatment [44]. ",
         "keywords": [
-          "therapeutic value"
+          "therapeutic value", "clinical studies"
         ],
         "referenced_links": [
           {
-            "authors": [],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Mithoefer, M.C.", "et al."],
+            "title": "The safety and efficacy of {+/-}3,4- methylenedioxymethamphetamine-assisted psychotherapy in subjects with chronic, treatment-resistant posttraumatic stress disorder: the first randomized controlled pilot study. J Psychopharmacol, 2011. 25(4): p. 439-52.",
+            "year": 2011,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/20643699/"
+          },
+          {
+            "authors": ["Mithoefer, M.C.", "et al."],
+            "title": "Durability of improvement in post-traumatic stress disorder symptoms and absence of harmful effects or drug dependency after 3,4- methylenedioxymethamphetamine-assisted psychotherapy: a prospective long-term follow-up study. J Psychopharmacol, 2013. 27(1): p. 28-39.",
+            "year": 2013,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/23172889/"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "fact": "MAPS' second Phase 2 pilot study conducted in Switzerland (MP-2) demonstrated clinically significant improvements in PTSD symptoms, with results in the 125 mg MDMA dose group numerically but not statistically superior to the 25 mg MDMA dose group",
+    "keywords": [
+      "therapeutic value", "clinical studies"
+    ],
+    "references": [
+      {
+        "link": {
+          "authors": [
+            "Multidisciplinary Association for Psychedelic Studies (MAPS)"
+          ],
+          "title": "Investigator’s Brochure",
+          "year": 2019,
+          "uri": "https://mapscontent.s3-us-west-1.amazonaws.com/research-archive/mdma/MDMA-Investigator-Brochure-IB-11thEdition-MAPS-2019-07-10.pdf"
+        },
+        "page": 0,
+        "excerpt": "The sponsor’s second Phase 2 pilot study conducted in Switzerland (MP-2) demonstrated clinically significant improvements in PTSD symptoms, with results in the 125 mg MDMA dose group numerically but not statistically superior to the 25 mg MDMA dose group [45]. Long-term follow-up data 12 months later suggest that therapeutic benefits continued to increase in this subject population.",
+        "keywords": [
+          "therapeutic value", "clinical studies"
+        ],
+        "referenced_links": [
+          {
+            "authors": ["Oehen, P.", "et al."],
+            "title": "A randomized, controlled pilot study of MDMA (+/- 3,4- Methylenedioxymethamphetamine)-assisted psychotherapy for treatment of resistant, chronic Post-Traumatic Stress Disorder (PTSD). J Psychopharmacol, 2013. 27(1): p. 40- 52.",
+            "year": 2013,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/23118021/"
           }
         ]
       }
     ]
   },
   {
-    "fact": "",
+    "fact": " MDMA does not require steady state levels in the blood to function as a catalyst to psychotherapy and does not require daily dosing.",
     "keywords": [
       "therapeutic value"
     ],
@@ -164,39 +202,7 @@
   },
 
 
-  {
-    "fact": "",
-    "keywords": [
-      "therapeutic value"
-    ],
-    "references": [
-      {
-        "link": {
-          "authors": [
-            "Multidisciplinary Association for Psychedelic Studies (MAPS)"
-          ],
-          "title": "Investigator’s Brochure",
-          "year": 2019,
-          "uri": "https://mapscontent.s3-us-west-1.amazonaws.com/research-archive/mdma/MDMA-Investigator-Brochure-IB-11thEdition-MAPS-2019-07-10.pdf"
-        },
-        "page": 0,
-        "excerpt": "Decreased activity in the amygdala may be indicative of reduced reactions to potential threats [656]. MDMA (100 mg) increased subjective ratings of positive mood in response to positive memories and decreased negative response to negative memories. Attenuated activity in the left anterior temporal area was detected after MDMA during worst memory recall [39].",
-        "keywords": [
-          "therapeutic value"
-        ],
-        "referenced_links": [
-          {
-            "authors": [
 
-            ],
-            "title": "",
-            "year": 9999,
-            "uri": ""
-          }
-        ]
-      }
-    ]
-  },
   {
     "fact": "",
     "keywords": [
@@ -231,9 +237,9 @@
     ]
   },
   {
-    "fact": "",
+    "fact": "Researchers found speech patterns after MDMA were distinct from those produced after methamphetamine and placebo",
     "keywords": [
-      "therapeutic value"
+      "therapeutic value", "definition"
     ],
     "references": [
       {
@@ -248,17 +254,22 @@
         "page": 0,
         "excerpt": "In a study by Bedi and colleagues, MDMA induced changes in semantic speech content measured with natural language learning software. Through natural language processing (NLP), researchers found speech patterns after MDMA were distinct from those produced after methamphetamine and placebo [40]. Proximity of speech to the concepts of friend, support, intimacy, rapport, and empathy was increased in the MDMA drug condition, which may bear some significance for the use of MDMA in therapy. MDMA did not affect the overall structure of participants’ speech. These findings were confirmed in an additional sample through a standardized dictionary method and machine learning, indicating that MDMA increased the use of social words, as well as words connoting positive and negative emotions [280]. There is some evidence that the increases in affiliative and prosocial feelings are separable from romantic or sexual feelings.",
         "keywords": [
-          "therapeutic value"
+          "therapeutic value", "definition"
         ],
         "referenced_links": [
           {
-            "authors": [
-
-            ],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Bedi, G.", "et al."],
+            "title": "A window into the intoxicated mind? Speech as an index of psychoactive drug effects. Neuropsychopharmacology, 2014. 39(10): p. 2340-8.",
+            "year": 2014,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/24694926/"
+          },
+          {
+            "authors": ["Baggott, M.J.", "et al."],
+            "title": "Intimate insight: MDMA changes how people talk about significant others. J Psychopharmacol, 2015. 29(6): p. 669-77.",
+            "year": 2015,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/25922420/"
           }
+
         ]
       }
     ]
@@ -364,9 +375,9 @@
     ]
   },
   {
-    "fact": "",
+    "fact": "In a study of MDMA-assisted therapy in people on the autism spectrum with social anxiety symptoms improvement in Liebowitz Social Anxiety Scale (LSAS) scores from Baseline to the Primary Endpoint was significantly greater for MDMA group compared to the placebo group",
     "keywords": [
-      "therapeutic value"
+      "therapeutic value", "autism", "social anxiety"
     ],
     "references": [
       {
@@ -381,16 +392,14 @@
         "page": 0,
         "excerpt": "The primary outcome measure for the study of social anxiety in people on the autism spectrum is the Liebowitz Social Anxiety Scale (LSAS). This observer-blind measure is an established clinician-administered measure of social anxiety, assessing fear and avoidance in different situations. The LSAS consists of 24 items, with each item rated on a four-point scale (from 0 to 3), with subscales for performance fear, performance avoidance, social fear, and social avoidance....Data is being collected on the effects of two sessions of MDMA-assisted therapy in people on the autism spectrum with social anxiety symptoms....Improvement in LSAS scores from Baseline to the Primary Endpoint was significantly greater for MDMA group compared to the placebo group (P = 0.037), and placebo-subtracted Cohen’s d effect size was very large (d=1.4, CI: -0.074, 2.874). Change in LSAS scores from Baseline to 6-month follow-up showed similar positive results (P = 0.036), with a Cohen’s d effect size of 1.1 (CI: -0.307, 2.527). The study safety and efficacy data were published [728].",
         "keywords": [
-          "therapeutic value"
+          "therapeutic value", "autism", "social anxiety"
         ],
         "referenced_links": [
           {
-            "authors": [
-
-            ],
-            "title": "",
-            "year": 9999,
-            "uri": ""
+            "authors": ["Danforth, A.L.", "et al."],
+            "title": "Reduction in social anxiety after MDMA-assisted psychotherapy with autistic adults: a randomized, double-blind, placebo-controlled pilot study. Psychopharmacology (Berl), 2018.",
+            "year": 2018,
+            "uri": "https://pubmed.ncbi.nlm.nih.gov/30196397/"
           }
         ]
       }
