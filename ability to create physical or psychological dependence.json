@@ -1,37 +1,310 @@
 [
   {
-  "fact": "",
-  "keywords": [
-    "therapeutic value"
-  ],
-  "references": [
-    {
-      "link": {
-        "authors": [
-          ""
-        ],
-        "title": "",
-        "year": 9999,
-        "uri": ""
-      },
-      "page": 0,
-      "excerpt": "",
-      "keywords": [
-        "ability to create physical or psychological dependence"
-      ],
-      "referenced_links": [
-        {
+    "fact": "",
+    "keywords": [
+      "ability to create physical or psychological dependence"
+    ],
+    "references": [
+      {
+        "link": {
           "authors": [
+            "Sessa B.", "Higbed L.", "Nutt D."
+          ],
+          "title": "A Review of 3,4-methylenedioxymethamphetamine (MDMA)-Assisted Psychotherapy. Front. Psychiatry 10:138. doi: 10.3389/fpsyt.2019.00138",
+          "year": 2019,
+          "uri": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6435835/pdf/fpsyt-10-00138.pdf"
+        },
+        "page": 0,
+        "excerpt": "Compared to other stimulants (particularly cocaine, amphetamine and methamphetamine) addiction to MDMA is very rare....And in the last 15 years of clinical studies with medical MDMA, illicit use of ecstasy after having used it clinically is seldom observed (13).",
+        "keywords": [
+          "ability to create physical or psychological dependence"
+        ],
+        "referenced_links": [
+          {
+            "authors": [
 
+            ],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "fact": "",
+    "keywords": [
+      "ability to create physical or psychological dependence"
+    ],
+    "references": [
+      {
+        "link": {
+          "authors": [
+            "Torsten Passie"
+          ],
+          "title": "The early use of MDMA (‘Ecstasy’) in psychotherapy",
+          "year": 2018,
+          "uri": "https://journals.sagepub.com/doi/pdf/10.1177/2050324518767442"
+        },
+        "page": 0,
+        "excerpt": "All of the interviewed therapists claimed that com- plications with the clinical use of MDMA were negli- gible and that its potential for abuse was not high because ‘‘(a) it is not physiologically addictive, (b) it produces very little effect if taken frequently, and (c) it lacks the hallucinatory or narcotic effects sought by escape-seekers’’ (Association for the Responsible Use of Psychedelic Agents, 1984: 363). Harlow’s survey was used as evidence during the hearings held about a possible prohibition of MDMA in late 1985.",
+        "keywords": [
+          "ability to create physical or psychological dependence"
+        ],
+        "referenced_links": [
+          {
+            "authors": [
+
+            ],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "fact": "",
+    "keywords": [
+      "ability to create physical or psychological dependence"
+    ],
+    "references": [
+      {
+        "link": {
+          "authors": [
+            "Multidisciplinary Association for Psychedelic Studies (MAPS)"
+          ],
+          "title": "Investigator’s Brochure",
+          "year": 2019,
+          "uri": "https://mapscontent.s3-us-west-1.amazonaws.com/research-archive/mdma/MDMA-Investigator-Brochure-IB-11thEdition-MAPS-2019-07-10.pdf"
+        },
+        "page": 0,
+        "excerpt": "Physical dependence and drug withdrawal were investigated by treating mice with 10 mg/kg i.p. MDMA twice daily for five days. When compared with rats trained to self-administer cocaine, MDMA-trained rats were less likely to return to self-administration after a period of abstinence [582]. Results showed that mice did not exhibit aversive/dysphoric or anxiogenic behaviors after treatment, indicating that high doses of MDMA do not induce classical symptoms of physical dependence [588]. Monkeys choose to self-administer MDMA in doses equivalent to or only slightly higher than doses used by humans [581], but typically reduce their MDMA intake over time. While monkeys work hard to obtain MDMA, they work harder to obtain other psychostimulants, such as cocaine or methamphetamine [586, 587]....Taken together, results in animals suggest that the abuse liability of MDMA is low to moderate.",
+        "keywords": [
+          "ability to create physical or psychological dependence"
+        ],
+        "referenced_links": [
+          {
+            "authors": [
+
+            ],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "fact": "",
+    "keywords": [
+      "ability to create physical or psychological dependence"
+    ],
+    "references": [
+      {
+        "link": {
+          "authors": [
+            "Multidisciplinary Association for Psychedelic Studies (MAPS)"
+          ],
+          "title": "Investigator’s Brochure",
+          "year": 2019,
+          "uri": "https://mapscontent.s3-us-west-1.amazonaws.com/research-archive/mdma/MDMA-Investigator-Brochure-IB-11thEdition-MAPS-2019-07-10.pdf"
+        },
+        "page": 0,
+        "excerpt": "There have been no reports of MDMA dependence developing after participation in controlled MDMA studies. In the absence of drug dependence studies on MDMA, a summary of Ecstasy dependence studies is presented.",
+        "keywords": [
+          "ability to create physical or psychological dependence"
+        ],
+        "referenced_links": [
+          {
+            "authors": [
+
+            ],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "fact": "",
+    "keywords": [
+      "ability to create physical or psychological dependence"
+    ],
+    "references": [
+      {
+        "link": {
+          "authors": [
+            "Multidisciplinary Association for Psychedelic Studies (MAPS)"
+          ],
+          "title": "Investigator’s Brochure",
+          "year": 2019,
+          "uri": "https://mapscontent.s3-us-west-1.amazonaws.com/research-archive/mdma/MDMA-Investigator-Brochure-IB-11thEdition-MAPS-2019-07-10.pdf"
+        },
+        "page": 0,
+        "excerpt": "Research of Ecstasy dependence comes from a combination of published studies with assessment of symptoms based on the Composite International Diagnostic Interview,  the DSM-4, and/or the Severity of Dependence Scale [717] . One study with a non-representative sample (N=173) including participants recruited from substance abuse programs reported 30% had used Ecstasy and of these, 43% met DSM-IV criteria for dependence (N=52) [718]....In a large Australian sample (N=329), approximately 25% of polydrug users wanted to reduce their Ecstasy use and 20% had received treatment for an Ecstasy-related problem, although this sample likely had “an over- representation of chaotic intravenous polydrug users [719]....In a study of self-reported cravings in Ecstasy users utilizing an 8-item questionnaire (N=169), a negative mean score for participants exposed to Ecstasy-related cues was obtained, indicating that participants disagreed with statements reflecting craving on average....In a subscale analysis, about 50% of survey participants agreed on some level with two of eight statements that supported the craving to use Ecstasy after exposure to Ecstasy-related cues, suggesting that some respondents may experience a low level of craving for Ecstasy [716]....It also appears that Ecstasy has fewer or less intensely rewarding effects than stimulants, and even heavy Ecstasy users fail to report the intensive patterns of use seen with other stimulants [2, 4, 720]....Based on two structural analyses, Ecstasy dependence is bifactorial [721]. Although Ecstasy dependence does have a compulsive use factor as well as an escalating use factor, withdrawal symptoms do not include significant physical symptoms such as those occurring with alcohol, cocaine, methamphetamine, opioids, and tobacco [722, 723]....In a prospective longitudinal study conducted over an average of 42 months in a representative sample of Munich residents aged 14 to 24 (N=2446), only 1.0% were diagnosed with Ecstasy abuse and 0.6% with dependence. A substantial decline in use factors was noted 12+ months later, suggesting that Ecstasy use is a self-limiting transient phenomenon in many cases [724]....Features of Ecstasy abuse and dependence in human healthy volunteers are consistent with nonclinical findings in self-administration studies of moderate abuse liability that is greater than that for serotonergic hallucinogens, but less than that for stimulants (see Section 12.5)....When reviewing the effects of MDMA in a sample of 74 largely drug-naïve participants in a study conducted outside of sponsor support, Liechti and colleagues stated that “none of the participants expressed any interest in taking MDMA as a recreational drug” after receiving MDMA in a controlled research setting [11]....When assessed in terms of willingness to choose money over receiving the drug, participants previously experienced with Ecstasy provided similar responses to 2 mg/kg MDMA and 20 mg d-amphetamine, a sign of having reinforcing effects [673]. A study that enrolled participants with a history of Ecstasy use (4 to 40 occasions) found that only self-reported feelings of playfulness were associated with participants’ desire to take MDMA in a controlled research setting [42]....In addition to the extensive published clinical and nonclinical literature on the abuse liability potential associated with MDMA, the sponsor has collected self-reported Ecstasy use data at long-term follow-up and assessed the AEs for signals of abuse. At screening participants who met DSM-4 criteria for active substance abuse for 60 days prior to enrollment were excluded from participation in all but one study, where active substance abuse for 180 days prior to enrollment was excluded (MP-4). Participants who had used Ecstasy more than five times within the past 10 years prior to enrollment were also excluded. As a part of the Informed Consent process, study staff informed participants about the difference between Ecstasy and MDMA used in research studies. Table 43 below summarizes self-reported Ecstasy use data (recreational drug purported to be MDMA, unknown purity and dose) pre-study at least six months prior to study entry vs. long- term follow-up at 12+ months in Phase 2 PTSD clinical trials. Participants were encouraged to report use honestly under coverage of a Certificate of Confidentiality from FDA....In sponsor-supported PTSD studies in 107 participants treated with MDMA-assisted psychotherapy in a controlled clinical setting, 29.9% (32 of 107) of participants had tried Ecstasy at least six months prior to enrollment, with U.S. samples demonstrating a higher prevalence of use than international studies....Participants reported using Ecstasy an average (SD) of 2.3 (1.43) times. At long-term follow-up, 8.7% of participants (8 of 92) reported use across studies (see Table 43). Six of the eight participants had used Ecstasy prior to the study. Of these participants, most were attempting to recreate a therapeutic experience, and none indicated a desire to repeat this. In addition to self-report data, urine drug screens specific for MDMA were performed at random and two, six and 12 months after the final experimental session during one study (MP-2, N=12). All were negative, supporting the observation that study participants did not seek out MDMA or Ecstasy after taking part in the study [45]....In addition to data on Ecstasy use at follow up, AEs were reviewed across Phase 2 studies, the sponsor found a low rate of clinically significant AEs supporting drug dependence, intentional drug misuse, substance abuse, and (<2%) of secondary terms that reflect acute intoxication. One instance of “drug abuse” was reported in study MDA-1 in a population with anxiety associated with life-threatening illness. This AE referred to a single nondependent use of a hallucinogen, which MedDRA coding places under the preferred term ‘drug abuse” but does not indicate a substance use disorder. Data drawn from sponsor-supported studies suggests that MDMA has low abuse liability when given within a controlled, psychotherapeutic setting.",
+        "keywords": [
+          "ability to create physical or psychological dependence"
+        ],
+        "referenced_links": [
+          {
+            "authors": [
+
+            ],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "fact": "",
+    "keywords": [
+      "ability to create physical or psychological dependence"
+    ],
+    "references": [
+      {
+        "link": {
+          "authors": [
+            "Multidisciplinary Association for Psychedelic Studies (MAPS)"
+          ],
+          "title": "Investigator’s Brochure",
+          "year": 2019,
+          "uri": "https://mapscontent.s3-us-west-1.amazonaws.com/research-archive/mdma/MDMA-Investigator-Brochure-IB-11thEdition-MAPS-2019-07-10.pdf"
+        },
+        "page": 0,
+        "excerpt": "Despite its classification as a Schedule I drug, an examination of findings in humans and animals suggests that MDMA possesses moderate abuse potential that is higher than that reported for “classic hallucinogens” like psilocybin, but lower than that reported for psychostimulants, such as cocaine or methamphetamine. Studies assessing prevalence of problematic Ecstasy use or dependence suggest that a small percentage of individuals, especially those with prior psychological difficulties, may develop problematic Ecstasy use or dependence. Across MAPS- sponsored studies of MDMA-assisted psychotherapy for people with PTSD, 8 of 92 participants reported using Ecstasy subsequent to study participation, with 6 of the 8 participants having used Ecstasy prior to study enrollment. Several participants volunteered that they would not seek out Ecstasy outside of a psychotherapeutic setting. Diversion is not an issue for sponsor-supported studies because MDMA will only be administered under the supervision of the clinical investigator and no take-home doses are permitted. MDMA is handled following all regulations pertaining to the handling and dispensing of controlled substances within research studies.",
+        "keywords": [
+          "ability to create physical or psychological dependence"
+        ],
+        "referenced_links": [
+          {
+            "authors": [
+
+            ],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "fact": "",
+    "keywords": [
+      "ability to create physical or psychological dependence"
+    ],
+    "references": [
+      {
+        "link": {
+          "authors": [
+            "Jerrold S Meye"
+          ],
+          "title": "3,4-methylenedioxymethamphetamine (MDMA): current perspectives",
+          "year": 2013,
+          "uri": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3931692/pdf/sar-4-083.pdf"
+        },
+        "page": 0,
+        "excerpt": "Repeated use of MDMA may lead to dose escalation and the development of dependence, although such dependence is usually not as profound as is seen with many other drugs of abuse.",
+        "keywords": [
+          "ability to create physical or psychological dependence"
+        ],
+        "referenced_links": [
+          {
+            "authors": [
+
+            ],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "fact": "",
+    "keywords": [
+      "ability to create physical or psychological dependence"
+    ],
+    "references": [
+      {
+        "link": {
+          "authors": [
+            "Jerrold S Meye"
+          ],
+          "title": "3,4-methylenedioxymethamphetamine (MDMA): current perspectives",
+          "year": 2013,
+          "uri": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3931692/pdf/sar-4-083.pdf"
+        },
+        "page": 0,
+        "excerpt": "Users often consider ecstasy to lack the potential for dependence or addiction, but this is not the case. As reviewed by Degenhardt et al,130 evidence for dependence in ecstasy users comes from a combination of published case studies and assess- ments of user symptoms based on the Composite International Diagnostic Interview, the Diagnostic and Statistical Manual of Mental Disorders (DSM)-IV, and/or the Severity of Dependence Scale. Users frequently endorsed a variety of dependence- related symptoms including the development of tolerance, increasing amounts of ecstasy use, significant time spent using and/or recovering from ecstasy use, difficulty reducing or stopping ecstasy use despite the recognition of drug-related problems, reduced time spent in other activities, higher levels of risky behavior, and withdrawal symptoms accompanied by drug craving. Importantly, DSM-IV criteria for MDMA abuse and dependence showed substantial test/retest reliability in a study of 593 ecstasy users recruited from St Louis, MO, USA; Miami, FL, USA; and Sydney, NSW, Australia.131 These results strengthen the argument favoring the existence of an MDMA/ ecstasy dependence syndrome...Two structural analyses have proposed that ecstasy depen- dence is bifactorial, consisting of a compulsive use factor and an escalating use factor.132,133 The compulsive use factor pertains to symptoms like continuing ecstasy use despite problems, difficulty stopping use, excessive time associated with use along with declining time spent in other activities, and withdrawal symptoms. The escalating use factor pertains to the development of tolerance and an increase in the amount of ecstasy used. It should be noted that escalation of ecstasy use may include not only the stacking and boosting patterns mentioned earlier, but also progression to a bingeing pattern of consumption. Interestingly, the bifactorial nature of ecstasy dependence is similar to that postulated for hallucinogens, whereas DSM-IV criteria for dependence on alcohol, cocaine, opioids, and cannabis are unifactorial.130 This difference may be related to the strong serotonergic aspects of both MDMA and hallucinogen action, although such a hypothesis must be qualified in light of animal studies showing that 5-HT release may actually blunt, rather than enhance, the reinforcing effects of MDMA.134...Despite having a compulsive use factor, ecstasy depen- dence is not typically as profound as the dependence that can occur in heavy users of alcohol, cocaine, methamphetamine, opioids, and tobacco. Withdrawal symptoms do not include significant physical symptoms as is the case with some of the abovementioned substances.130,132 Moreover, a prospective longitudinal study of 2,446 ecstasy/stimulant/hallucinogen users (participants reporting primarily use of ecstasy but sometimes other stimulants or hallucinogens as well) in Germany found both a low prevalence of initial abuse or dependence as well as a substantial decline in both categories at 12-month follow-up.135 Although these findings may not apply to all groups of ecstasy users, they suggest that ecstasy abuse and dependence may be transient phenomena in many, if not most, instances. Taken together, the features of depen- dence in human ecstasy users fit well with the results from animal self-administration studies showing that, although rodents and nonhuman primates will self-administer MDMA intravenously, they do so much less avidly than in the case of cocaine, amphetamine, methamphetamine, or opioids such as heroin or morphine.136,137”",
+        "keywords": [
+          "ability to create physical or psychological dependence"
+        ],
+        "referenced_links": [
+          {
+            "authors": [
+
+            ],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          }
+        ]
+      }
+    ]
+  },
+
+
+  {
+    "fact": "",
+    "keywords": [
+      "ability to create physical or psychological dependence"
+    ],
+    "references": [
+      {
+        "link": {
+          "authors": [
+            ""
           ],
           "title": "",
           "year": 9999,
           "uri": ""
-        }
-      ]
-    }
-  ]
-}
+        },
+        "page": 0,
+        "excerpt": "",
+        "keywords": [
+          "ability to create physical or psychological dependence"
+        ],
+        "referenced_links": [
+          {
+            "authors": [
+
+            ],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          }
+        ]
+      }
+    ]
+  }
 
 
 ]
