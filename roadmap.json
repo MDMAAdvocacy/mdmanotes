@@ -1,6 +1,6 @@
 [{
 
-    "fact":"Typically, ecstasy is used only a few times a year.",
+    "fact":"Typically, MDMA is used only a few times a year.",
     "keywords":["dose", "patterns of use"],
     "references": [
       {
@@ -153,9 +153,9 @@
 
   {
 
-    "fact":"",
+    "fact":"Despite a slight increase in prevalence of use, an increase in the level of MDMA dependence is not expected mainly because of the low dependence potential of MDMA",
 
-    "keywords":[""],
+    "keywords":["dependence", "roadmap", "effects of legalisation"],
 
     "references": [
 
@@ -183,35 +183,35 @@
 
           {
 
-            "authors":["Alderliefste GJ, and Damen J (2018). Partydrugsgerelateerde klachten. DOI:10.1007/s12445- 018-0285-y. Huisarts Wetenschap 61: 1-4."],
+            "authors":["Alderliefste GJ.", "Damen J." (2018). Partydrugsgerelateerde klachten. DOI:10.1007/s12445- 018-0285-y. Huisarts Wetenschap 61: 1-4."],
 
             "title": "",
 
-            "year": 9999,
+            "year": 2018,
 
             "uri": ""
 
           },
           {
 
-            "authors":["EMCDDA (2019). European Monitoring Center for Drugs and Drug Addiction (EMCDDA). United Kingdom: Country drug report 2019. Lisbon, Portugal. Available at: http://www.emcdda.europa.eu/countries/drug-reports/2019/united-kingdom/key- statistics_en (accessed 23 January 2020)."],
+            "authors":["EMCDDA."],
 
-            "title": "",
+            "title": "European Monitoring Center for Drugs and Drug Addiction (EMCDDA). United Kingdom: Country drug report 2019. Lisbon, Portugal.",
 
-            "year": 9999,
+            "year": 2019,
 
-            "uri": ""
+            "uri": "http://www.emcdda.europa.eu/countries/drug-reports/2019/united-kingdom/key- statistics_en"
 
           },
           {
 
-            "authors":["van Laar MW, van Gestel B, Cruts AAN, et al. (2019). Nationale Drug Monitor. Jaarbericht 2018. Trimbos Instituut, Utrecht, The Netherlands. Available at: https://www.trimbos.nl/aanbod/webwinkel/product/af1643-jaarbericht-nationale- drug-monitor-2018 (accessed 24 January 2020)."],
+            "authors":["van Laar MW.", "van Gestel B.", "Cruts AAN.", "et al."],
 
-            "title": "",
+            "title": "Nationale Drug Monitor. Jaarbericht 2018. Trimbos Instituut, Utrecht, The Netherlands.",
 
-            "year": 9999,
+            "year": 2019,
 
-            "uri": ""
+            "uri": "https://www.trimbos.nl/aanbod/webwinkel/product/af1643-jaarbericht-nationale- drug-monitor-2018"
 
           }
 
@@ -226,9 +226,9 @@
 
   {
 
-    "fact":"",
+    "fact":"Optimal model includes the ‘inter se’ option for treaty modification",
 
-    "keywords":[""],
+    "keywords":["roadmap","policy"],
 
     "references": [
 
@@ -250,21 +250,22 @@
 
         "excerpt": "The optimal model includes the ‘inter se’ option for treaty modification, as provided by Article 41 of the 1969 Vienna Convention on the Law of Treaties. Inter se modification is a procedure specifically designed to find a balance between treaty regime stability and the need for change in absence of consensus, whereby a group of two or more like-minded states could reach agreements among themselves that permit the production, trade, and consumption of scheduled substances for non-medical and non-scientific purposes, while minimizing the impact on other states and on the goals of the drug conventions (Boister and Jelsma 2018). Following international consultations and negotiations through the inter se option, neighbouring countries may implement comparable legislation. Legal producers in the Netherlands can then supply high quality MDMA-products to consumers in those countries (and vice versa). The more countries adapting such legislation, the more effectively MDMA- related organized crime is side-lined.",
 
-        "keywords": [""],
+        "keywords": ["roadmap","policy"],
 
         "referenced_links": [
 
           {
 
-            "authors":[""],
+            "authors":["Boister and Jelsma 2018"],
 
             "title": "",
 
-            "year": 9999,
+            "year": 2018,
 
             "uri": ""
 
-          }
+          },
+            
 
         ]
 
