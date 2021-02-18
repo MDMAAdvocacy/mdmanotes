@@ -256,15 +256,15 @@
 
           {
 
-            "authors":["Boister and Jelsma 2018"],
+            "authors":["Boister N.", "Jelsma M."],
 
-            "title": "",
+            "title": "Inter se modification of the UN drug control conventions: An exploration of its applicability to legitimise the legal regulation of cannabis markets. Int Commun Law Rev 20: 457-494.",
 
             "year": 2018,
 
-            "uri": ""
+            "uri": "https://www.tni.org/en/publication/balancing-treaty-stability-and-change"
 
-          },
+          }
             
 
         ]
@@ -275,8 +275,108 @@
 
   },
   {
-    "fact": "",
-    "keywords":[""],
+    "fact": "Multi-decision multi-criterion decision analysis study: expert panel consisted of experts from a broad range of expertise domains.",
+    "keywords":["roadmap", "policy"],
+    "references": [
+      {
+        "link": {
+          "authors": ["Jan van Amsterdam.", "Gjalt-Jorn Ygram Peters.", "Ed Pennings.", "Tom Blickman.", "Kaj Hollemans.", "Joost J. Breeksema.", "Johannes Ramaekers.", "Cees Maris.", "Floor van Bakkum.", "Ton Nabben.", "Willem Scholten.", "Tjibbe Reitsma.", "Judith Noijen.", "Raoul Koning.", "Wim van den Brink."],
+          "title": "Developing a new national MDMA policy: Results of a multi-decision multi-criterion decision analysis (MD-MCDA)",
+          "year": 2020,
+          "uri": "https://files.de-1.osf.io/v1/resources/txy5z/providers/osfstorage/5fa90f03d1894f014a68acfb?action=download&direct&version=2"
+        },
+        "excerpt": "The main strength of the current study is that the expert panel consisted of experts from a broad range of expertise domains.",
+        "keywords": ["roadmap", "policy"],
+        "referenced_links": [
+          {
+            "authors":[""],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          }
+        ]
+
+      }
+    ]
+  },
+  {
+    "fact": "Multi-decision multi-criterion decision analysis study: rating of the policy options was performed in an efficient manner using a structured decision-making model with a broad range of policy instruments and outcomes as the building blocks for a revised national ecstasy policy model.",
+    "keywords":["roadmap", "policy"],
+    "references": [
+      {
+        "link": {
+          "authors": ["Jan van Amsterdam.", "Gjalt-Jorn Ygram Peters.", "Ed Pennings.", "Tom Blickman.", "Kaj Hollemans.", "Joost J. Breeksema.", "Johannes Ramaekers.", "Cees Maris.", "Floor van Bakkum.", "Ton Nabben.", "Willem Scholten.", "Tjibbe Reitsma.", "Judith Noijen.", "Raoul Koning.", "Wim van den Brink."],
+          "title": "Developing a new national MDMA policy: Results of a multi-decision multi-criterion decision analysis (MD-MCDA)",
+          "year": 2020,
+          "uri": "https://files.de-1.osf.io/v1/resources/txy5z/providers/osfstorage/5fa90f03d1894f014a68acfb?action=download&direct&version=2"
+        },
+        "excerpt": "Moreover, rating of the policy options was performed in an efficient manner using a structured decision-making model with a broad range of policy instruments and outcomes as the building blocks for a revised national ecstasy policy model.",
+        "keywords": ["roadmap", "policy"],
+        "referenced_links": [
+          {
+            "authors":[""],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          }
+        ]
+
+      }
+    ]
+  },
+  {
+    "fact": "Multi-decision multi-criterion decision analysis study: impact of potential bias mitigated by (1) deliberately including experts from law enforcement agencies and experts with a relatively conservative attitude towards the liberalization of drug laws, and (2) regularly challenging the experts during the rating sessions to give science-based arguments for their rating.",
+    "keywords":["roadmap", "policy"],
+    "references": [
+      {
+        "link": {
+          "authors": ["Jan van Amsterdam.", "Gjalt-Jorn Ygram Peters.", "Ed Pennings.", "Tom Blickman.", "Kaj Hollemans.", "Joost J. Breeksema.", "Johannes Ramaekers.", "Cees Maris.", "Floor van Bakkum.", "Ton Nabben.", "Willem Scholten.", "Tjibbe Reitsma.", "Judith Noijen.", "Raoul Koning.", "Wim van den Brink."],
+          "title": "Developing a new national MDMA policy: Results of a multi-decision multi-criterion decision analysis (MD-MCDA)",
+          "year": 2020,
+          "uri": "https://files.de-1.osf.io/v1/resources/txy5z/providers/osfstorage/5fa90f03d1894f014a68acfb?action=download&direct&version=2"
+        },
+        "excerpt": "However, the impact of this potential bias has been mitigated by (1) deliberately including experts from law enforcement agencies and experts with a relatively conservative attitude towards the liberalization of drug laws, and (2) regularly challenging the experts during the rating sessions to give science-based arguments for their rating.",
+        "keywords": ["roadmap", "policy"],
+        "referenced_links": [
+          {
+            "authors":[""],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          }
+        ]
+
+      }
+    ]
+  },
+  {
+    "fact": "Multi-decision multi-criterion decision analysis study: Optimal Model",
+    "keywords":["roadmap", "policy" , "optimal model"],
+    "references": [
+      {
+        "link": {
+          "authors": ["Jan van Amsterdam.", "Gjalt-Jorn Ygram Peters.", "Ed Pennings.", "Tom Blickman.", "Kaj Hollemans.", "Joost J. Breeksema.", "Johannes Ramaekers.", "Cees Maris.", "Floor van Bakkum.", "Ton Nabben.", "Willem Scholten.", "Tjibbe Reitsma.", "Judith Noijen.", "Raoul Koning.", "Wim van den Brink."],
+          "title": "Developing a new national MDMA policy: Results of a multi-decision multi-criterion decision analysis (MD-MCDA)",
+          "year": 2020,
+          "uri": "https://osf.io/txy5z/"
+        },
+        "excerpt": "Optimal model\n• Sales of MDMA to users is legally regulated, whereas that between companies complies to pharmaceutical legislation. Only license holders may sell MDMA to users. There are no user age limits, but MDMA must be sold at a fixed minimum price, ‘plain’ packaged with a prevention message, and meet quality requirements as imposed by law; violation of QA rules is severely punished. Possession of a user quantity of MDMA is tolerated and all advertising is allowed.\n• MDMA-production is legalized, but is subjected to licensing and production rules similar to pharmaceutical legislation.\n• Fighting serious MDMA-related crime is prioritized (but low for consumers), whereby the current maximum penalty is increased and more expertise and effort is generated to confiscate illegitimately obtained properties. Export of MDMA is legalized and an ‘Inter se’ position for the new model within international drug treaties will be applied for.\n• The national/regional government is responsible for the prevention policy and subsidizes health education. Predominantly prevention organizations supply of information about health effects and is focused on harm reduction. Adverse effects of MDMA use will be extensively monitored.\nX-shop model\nSpecifications deviating from the optimal model: (1) user quantity is legal and larger quantities condoned, (2) all advertising is prohibited, (3) sales of MDMA to users is subjected to pharmaceutical legislation, (4) age limit is 18 years, (5) export is illegal, and (6) all governmental bodies are responsible for prevention policy.",
+        "keywords": ["roadmap", "policy", "optimal model"],
+        "referenced_links": [
+          {
+            "authors":[""],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          }
+        ]
+
+      }
+    ]
+  },
+  {
+    "fact": "Multi-decision multi-criterion decision analysis study: iensitivity analyses showed that the outcomes of the current MD-MCDA are robust and independent of both the uncertainty of the ratings and any extreme position(s) taken by individual experts.",
+    "keywords":["roadmap", "policy"],
     "references": [
       {
         "link": {
@@ -286,7 +386,33 @@
           "uri": "https://files.de-1.osf.io/v1/resources/txy5z/providers/osfstorage/5fa90f03d1894f014a68acfb?action=download&direct&version=2"
         },
         "excerpt": "",
-        "keywords": [""],
+        "keywords": ["roadmap", "policy"],
+        "referenced_links": [
+          {
+            "authors":[""],
+            "title": "",
+            "year": 9999,
+            "uri": ""
+          }
+        ]
+
+      }
+    ]
+  },
+
+  {
+    "fact": "",
+    "keywords":["roadmap", "policy"],
+    "references": [
+      {
+        "link": {
+          "authors": ["Jan van Amsterdam.", "Gjalt-Jorn Ygram Peters.", "Ed Pennings.", "Tom Blickman.", "Kaj Hollemans.", "Joost J. Breeksema.", "Johannes Ramaekers.", "Cees Maris.", "Floor van Bakkum.", "Ton Nabben.", "Willem Scholten.", "Tjibbe Reitsma.", "Judith Noijen.", "Raoul Koning.", "Wim van den Brink."],
+          "title": "Developing a new national MDMA policy: Results of a multi-decision multi-criterion decision analysis (MD-MCDA)",
+          "year": 2020,
+          "uri": "https://files.de-1.osf.io/v1/resources/txy5z/providers/osfstorage/5fa90f03d1894f014a68acfb?action=download&direct&version=2"
+        },
+        "excerpt": "",
+        "keywords": ["roadmap", "policy"],
         "referenced_links": [
           {
             "authors":[""],
